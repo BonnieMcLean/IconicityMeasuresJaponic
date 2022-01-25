@@ -1,1 +1,1 @@
-# IconicityMeasuresJaponic
+# Iconicity Measures (Japonic)
