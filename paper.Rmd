@@ -40,7 +40,7 @@ Iconicity in language is receiving increased attention from many fields, but our
 
 What does it mean when we say that something is a "good word for" a concept? Certain words, like *klutz*, *schmooze*, and *smush*, seem to "suit" their meanings. We may have a sense that the French *belle* is a more appropriate word for BEAUTY than the Swedish *vacker*. Such intuitions are likely to be somewhat subjective, and influenced by our own linguistic experiences, but we all have them. The idea that certain forms can be particularly suited to certain meanings is known as *iconicity*.
 
-Iconicity--defined here as a perceived resemblance between aspects of form and meaning--is now increasingly recognised as a *design feature of language* [see e.g. @perniss_iconicity_2010; @perniss_bridge_2014; @dingemanse_arbitrariness_2015 for a review], raising important questions about where iconic mappings come from, and what they do. To answer these questions, we first need to be able to *identify* iconicity in language and, ideally, to *measure* it. 
+Iconicity--defined here as a perceived resemblance between aspects of form and meaning--is now increasingly recognised as a *key property of language* [see e.g. @perniss_iconicity_2010; @perniss_bridge_2014; @dingemanse_arbitrariness_2015 for a review], raising questions about where iconic mappings come from, and what they do. To answer these questions, we first need to be able to *identify* iconicity in language and, ideally, to *measure* it. 
 
 Approaches to measuring iconicity can be divided into descriptive, data-driven, and behavioural methods [@motamedi_iconicity_2019]. Of these, only descriptive approaches target *iconicity* directly, with other methods simply identifying form-meaning association *biases*--whether these be based on resemblance (as in iconicity), co-occurrence (indexicality), statistically driven associations (systematicity), functional advantages, or other factors. 
 
@@ -52,11 +52,11 @@ Another body of work which capitalises on big data involves the study of *affect
 
 Behavioural approaches involve the collection of data from naive experimental participants, which can reveal something about the iconicity of given form-meaning pairings. The only requirement is the human participants for the study, and the largest amount of iconicity measurements from the widest variety of languages have been collected using these methods. There are two main approaches: iconicity rating tasks and guessing experiments. 
 
-In iconicity rating tasks, the concept of iconicity is explained to participants, and participants are asked to rate the iconicity of given form-meaning pairs directly [e.g. @vinson_british_2008; @perry_iconicity_2015; @winter_which_2017; @occhino_iconicity_2017; @thompson_iconicity_2020; @punselie_iconicity_2020]. Measurements from these studies have been found to correlate in meaningful ways with factors related to iconicity--e.g. encoding of sensory information [@winter_which_2017], semantic domains [@punselie_iconicity_2020], semantic neighbourhood density [@sidhu_lonely_2018], word class [@perry_iconicity_2015; @thompson_iconicity_2020], age of acquisition [@vinson_british_2008; @perry_iconicity_2015], facilitated processing [@thompson_link_2009; @occhino_role_2020], funniness and structural markedness [@dingemanse_playful_2020]. However, ratings given are influenced by the linguistic experience of participants (@occhino_iconicity_2017; @sevcikova_sehyr_perceived_2019), so some care is needed to ensure measures are taken from appropriate participant groups. 
+In iconicity rating tasks, the concept of iconicity is explained to participants, and participants are asked to rate the iconicity of given form-meaning pairs directly [e.g. @vinson_british_2008; @perry_iconicity_2015; @winter_which_2017; @occhino_iconicity_2017; @thompson_iconicity_2020; @punselie_iconicity_2020]. Measurements from these studies have been found to correlate in meaningful ways with factors related to iconicity--e.g. encoding of sensory information [@winter_which_2017], semantic domains [@punselie_iconicity_2020], semantic neighbourhood density [@sidhu_lonely_2018], word class [@perry_iconicity_2015; @thompson_iconicity_2020], age of acquisition [@vinson_british_2008; @perry_iconicity_2015], facilitated processing [@thompson_link_2009; @occhino_role_2020], funniness and structural markedness [@dingemanse_playful_2020]. However, ratings given are influenced by the linguistic experience of participants (@occhino_iconicity_2017; @sevcikova_sehyr_perceived_2019), so some care is needed to ensure measures are taken from appropriate participant groups. Further, ratings from native speakers may also capture non-iconic regularities like semantic transparency and indexicality [@dingemanse_playful_2020; @winter_iconicity_2021], so cannot be taken as direct reflections of degree of iconicity.
 
 In guessing experiments, participants are asked to guess the meaning of foreign/novel signs from a choice of two or more alternatives [e.g. @kohler_gestalt_1929; @tsuru_problem_1933; @brown_phonetic_1955; @kunihira_effects_1971; @ramachandran_synaesthesia_2001; @dingemanse_what_2016; @tzeng_specificity_2017; @perlman_iconicity_2015; @perlman_people_2018; @lockwood_sound-symbolism_2016]. Signs whose meanings are correctly guessed at rates higher than chance are considered iconic. The guessability of signs has also been linked to facilitated processing [@ormel_role_2009] and learnability [@perlman_people_2018; @lockwood_sound-symbolism_2016], and correlated with iconicity ratings [@punselie_iconicity_2020]. However, some signs that were given low iconicity ratings were actually highly guessable, while there were also a few signs that, despite receiving high ratings, were not easily guessed  [@punselie_iconicity_2020: 23]. This suggests that guessing and rating tasks may tap into slightly different constructs, or be sensitive to experimental design constraints. 
 
-While results from behavioural experiments often require some untangling, we believe that they are particularly valuable sources of iconicity measures for four reasons: (1) they can be applied to any kind of dataset, (2) they are highly scalable, being particularly amenable to online, crowd-sourced data collection, (3) they are tweakable, meaning that we can experiment with different experimental designs to figure out exactly what these measures are telling us, and (4) they are amenable to standardisation, making them a good option for reproducibility. In fact, they are the *only* measures of iconicity that we know of to combine all these things.  Moreover, that the measures correlate with each other and with a variety of other meaningful phenomena speaks to their validity.
+While results from behavioural experiments often require some untangling, we believe that they are particularly valuable sources of iconicity measures for four reasons: (1) they can be applied to any kind of dataset, (2) they are scalable, being particularly amenable to online, crowd-sourced data collection, (3) they are tweakable, meaning that we can experiment with different experimental designs to figure out exactly what these measures are telling us, and (4) they are amenable to standardisation, making them a good option for reproducibility. In fact, they are the *only* measures of iconicity that we know of to combine all these things.  Moreover, that the measures correlate with each other and with a variety of other meaningful phenomena speaks to their validity.
 
 In this study, we seek to further our understanding of these measures and how they can be useful by comparing and contrasting iconicity ratings and guesses for 304 Japanese words from the sensory vocabulary of Japanese. Sensory language was chosen as this is a domain high in iconicity, and where iconicity offers clear advantages [@winter_which_2017]. The data contained a mix of ideophones--depictive, eye-catching words like *fuwafuwa* 'soft' and *pikapika* 'sparkly' that "invite and afford the construal of iconic mappings between form and meaning" [@akita_ideophone_2019: 18]--along with prosaic lexical items, like *yawai* 'soft' and *hikaru* 'shine', which are not necessarily expected to be lacking in iconicity--especially given their sensory meanings--but which are less obvious about it. We were particularly interested in how the iconicity measures for these words would compare between the rating studies--where participants are asked to make a conscious decision about the iconicity of the words--and the guessing studies--which tap into more unconscious biases. We find that when used together, the two methods shed light on each other, as well as raising pertinent questions about where iconicity effects come from. Our conclusion is that, for many of the questions that we have about iconicity in language, two measures may be better than one.
 
@@ -68,7 +68,55 @@ The data from the study, as well as the code used to produce the experiments and
 
 ## Stimuli
 
-The stimuli were 304 Japanese words from the domain of sensory perception, including both ideophones and prosaic lexical items. For all tasks, the words were presented to participants as audio files. The audio files were synthesised using the Google Cloud Text-to-Speech API [(https://cloud.google.com/text-to-speech)](https://cloud.google.com/text-to-speech), with the female Japanese Wavenet voice ja-JP-Wavenet-B. They were then edited using Praat [@boersma_praat_2020] to have a flat pitch of 200Hz. Expressive prosody can enhance performance in guessing tasks [@kunihira_effects_1971; @dingemanse_what_2016], and so using a flat intonation was seen as the best way to ensure comparisons between the words were fair and not influenced by the prosody in a particular recording. We also considered synthesising all the words to have a marked intonation. However, different word lengths would make changes in pitch more dramatic in shorter words compared to longer words, affecting words of different lengths unequally. While flat, synthetic voices may be the best option for comparability, they are not a natural reflection of real-world experiences with iconicity--which involve not only segments but also prosody and even multimodal cues (e.g. accompanying gesture). Thus, if anything the results in this and similar studies likely *underestimate* iconicity in language.
+The stimuli were 304 words taken from the *Japonic Sensory Lexicon* database (ANONYMISED CITATION), which is a collection of words for 110 sensory concepts in 49 Japonic varities. 
+
+```{r}
+# semantic domains of concepts, plus numbers of ideophones and non-ideophones
+concepts <- read_tsv("https://raw.githubusercontent.com/BonnieMcLean/JaponicSensoryLex/main/concepts.tsv")%>%
+  rowwise()%>%
+  mutate(concept=str_split(concept,"-")[[1]][1])%>%
+  select(concept,domain)
+
+words <- read_csv("responses-guessingwords.csv")%>%
+  select(form,identifier)%>%
+  mutate(identifier=str_replace_all(identifier,"FUZZY","CLEAR"))%>%
+  rowwise()%>%
+  mutate(concept=str_split(identifier,"_")[[1]][2])%>%
+  unique()%>%
+  left_join(concepts,by="concept")
+
+words <- read_csv("ideophone_list.csv")%>%
+  select(form,ideophone)%>%
+  right_join(words,by="form")
+
+# plus the practise and control items which arent in the Japonic sensory lexicon
+words$domain[words$form == "yoroyoro"] <- "action"
+words$domain[words$form == "fuwafuwa"] <- "texture"
+words$domain[words$form == "hisohiso"] <- "sound"
+words$domain[words$form == "pyoNpyoN"] <- "action"
+
+```
+
+
+```{r}
+dat <- read_csv("https://raw.githubusercontent.com/BonnieMcLean/JaponicSensoryLex/main/dat.csv")
+info <- 
+words <- read_csv("responses-guessingwords.csv")%>%
+  select(identifier)%>%
+  mutate(identifier=str_replace_all(identifier,"FUZZY","CLEAR"))%>%
+  unique()
+
+cognates <- read_csv("cognatecodes.csv")%>%
+  mutate(identifier=paste(test_form,eng_trans,sep="_"))%>%select(cognate,identifier)
+
+words <- words%>%left_join(cognates,by="identifier")
+```
+
+
+The stimuli were 304 words from the Yamato stratum of the Japanese lexicon, in the semantic domain of sensory perception. The words were taken from the *Japonic Sensory Lexicon* (ANONYMISED CITATION), a dataset containing words in 
+
+
+from the domain of sensory perception, including both ideophones and prosaic lexical items. For all tasks, the words were presented to participants as audio files. The audio files were synthesised using the Google Cloud Text-to-Speech API [(https://cloud.google.com/text-to-speech)](https://cloud.google.com/text-to-speech), with the female Japanese Wavenet voice ja-JP-Wavenet-B. They were then edited using Praat [@boersma_praat_2020] to have a flat pitch of 200Hz. Expressive prosody can enhance performance in guessing tasks [@kunihira_effects_1971; @dingemanse_what_2016], and so using a flat intonation was seen as the best way to ensure comparisons between the words were fair and not influenced by the prosody in a particular recording. We also considered synthesising all the words to have a marked intonation. However, different word lengths would make changes in pitch more dramatic in shorter words compared to longer words, affecting words of different lengths unequally. While flat, synthetic voices may be the best option for comparability, they are not a natural reflection of real-world experiences with iconicity--which involve not only segments but also prosody and even multimodal cues (e.g. accompanying gesture). Thus, if anything the results in this and similar studies likely *underestimate* iconicity in language.
 
 In all studies, participants were instructed to use headphones throughout the experiment, and could not procede to the experiment without first passing a listening test designed to require the use of headphones @woods_headphone_2017. The response buttons in each trial also did not appear until *after* the audio files had finished playing. This ensured that participants could not respond without first listening to the audio files. 
 

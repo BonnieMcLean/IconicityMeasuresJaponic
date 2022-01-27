@@ -4026,7 +4026,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,5,EXHAUSTED,1,1047,syiNdo,syiNdo_EXHAUSTED
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,6,ANNOYED,3,1585,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,7,SPEEDY,3,1264,hayai,hayai_FAST
-5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,8,TINGLING,4,1755,hirihiri,hirihiri_BURNING
+5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,8,TINGLING,4,1755,hirihiri,hirihiri_TINGLING
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,9,WET,0,841,syimeQpoi,syimeQpoi_WET
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,10,DRUMMING (E.G. HEART),5,989,dokidoki,dokidoki_POUNDING (HEART)
 5cb107406b91550001c89741,English,"French, Spanish",Rating how much the sound of words resembled their meaning,5,11,RUDE,3,1425,adzu,adzu_RUDE
@@ -4060,7 +4060,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,5,EXHAUSTED,2,2973,syiNdo,syiNdo_EXHAUSTED
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,6,IMPATIENT,2,4439,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,7,QUICK,3,5605,hayai,hayai_FAST
-6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,8,TINGLING,2,6090,hirihiri,hirihiri_BURNING
+6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,8,TINGLING,2,6090,hirihiri,hirihiri_TINGLING
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,9,DAMP,2,1220,syimeQpoi,syimeQpoi_WET
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,10,DRUMMING (E.G. HEART),4,5960,dokidoki,dokidoki_POUNDING (HEART)
 6132572d113873b90f0c378d,english,none,hearing Japanese words and deciding if they sound like their meaning,5,11,BRAZEN,2,3367,adzu,adzu_RUDE
@@ -4094,7 +4094,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,5,EXHAUSTED,0,1657,syiNdo,syiNdo_EXHAUSTED
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,6,ANNOYED,2,2194,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,7,SPEEDY,5,2407,hayai,hayai_FAST
-602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,8,TINGLING,1,4163,hirihiri,hirihiri_BURNING
+602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,8,TINGLING,1,4163,hirihiri,hirihiri_TINGLING
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,9,SOGGY,1,1963,syimeQpoi,syimeQpoi_WET
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,10,POUNDING (E.G. HEART),6,1377,dokidoki,dokidoki_POUNDING (HEART)
 602962dea01dee8900886c7a,English,"British Sign Language, a little tourist French, a little tourist Spanish","Evaluating Japanese words, saying how we rated the sound of them in comparison to their meaning.",5,11,ARROGANT,0,1252,adzu,adzu_RUDE
@@ -4128,7 +4128,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,5,EXHAUSTED,0,1902,syiNdo,syiNdo_EXHAUSTED
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,6,ANNOYED,1,2029,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,7,QUICK,6,2372,hayai,hayai_FAST
-5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,8,BURNING,1,1724,hirihiri,hirihiri_BURNING
+5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,8,BURNING,1,1724,hirihiri,hirihiri_TINGLING
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,9,WET,0,840,syimeQpoi,syimeQpoi_WET
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,10,BEATING (E.G. HEART),5,1275,dokidoki,dokidoki_POUNDING (HEART)
 5973a2a29ffbd500014af4b7,English,None,Deciding whether JApanese words sound like their meaning,5,11,BRAZEN,0,1129,adzu,adzu_RUDE
@@ -4162,7 +4162,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,5,WEARY,2,2427,syiNdo,syiNdo_EXHAUSTED
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,6,ANNOYED,4,1496,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,7,QUICK,4,1559,hayai,hayai_FAST
-61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,8,TINGLING,4,944,hirihiri,hirihiri_BURNING
+61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,8,TINGLING,4,944,hirihiri,hirihiri_TINGLING
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,9,SOGGY,1,1454,syimeQpoi,syimeQpoi_WET
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,10,DRUMMING (E.G. HEART),5,1586,dokidoki,dokidoki_POUNDING (HEART)
 61693b21fbf953323ceadf35,english,NA,rating if japanese words rsounded like they related to what they meant,5,11,RUDE,3,1647,adzu,adzu_RUDE
@@ -4196,7 +4196,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,5,TIRED,4,2179,syiNdo,syiNdo_EXHAUSTED
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,6,ANNOYED,0,1545,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,7,QUICK,3,1470,hayai,hayai_FAST
-5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,8,TINGLING,1,2596,hirihiri,hirihiri_BURNING
+5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,8,TINGLING,1,2596,hirihiri,hirihiri_TINGLING
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,9,SOGGY,0,20519,syimeQpoi,syimeQpoi_WET
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,10,POUNDING (E.G. HEART),6,2670,dokidoki,dokidoki_POUNDING (HEART)
 5fef468cc9707d230796b7c3,English,A little french,I was tasked with listening to japanese words to see if they sound the same as their meaning.,5,11,BRAZEN,4,1779,adzu,adzu_RUDE
@@ -4230,7 +4230,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,5,TIRED,0,2235,syiNdo,syiNdo_EXHAUSTED
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,6,ANNOYED,1,1610,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,7,QUICK,4,2657,hayai,hayai_FAST
-5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,8,TINGLING,3,1313,hirihiri,hirihiri_BURNING
+5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,8,TINGLING,3,1313,hirihiri,hirihiri_TINGLING
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,9,SOGGY,1,2094,syimeQpoi,syimeQpoi_WET
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,10,BEATING (E.G. HEART),4,2458,dokidoki,dokidoki_POUNDING (HEART)
 5f25387decb3ae191e98c3f4,English,French,Listening to Japanese words and rating how much they related to their meanings,5,11,RUDE,0,1224,adzu,adzu_RUDE
@@ -4264,7 +4264,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,5,TIRED,5,2019,syiNdo,syiNdo_EXHAUSTED
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,6,IMPATIENT,3,3262,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,7,FAST,2,2952,hayai,hayai_FAST
-5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,8,TINGLING,1,3832,hirihiri,hirihiri_BURNING
+5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,8,TINGLING,1,3832,hirihiri,hirihiri_TINGLING
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,9,DAMP,3,1824,syimeQpoi,syimeQpoi_WET
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,10,DRUMMING (E.G. HEART),6,812,dokidoki,dokidoki_POUNDING (HEART)
 5eea9502fd8990160be45c52,English,French,I was listening to Japanese words and rating them for how well they fit their meaning.,5,11,RUDE,6,1010,adzu,adzu_RUDE
@@ -4298,7 +4298,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,5,WEARY,1,1602,syiNdo,syiNdo_EXHAUSTED
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,6,ANNOYED,4,2041,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,7,SPEEDY,3,2065,hayai,hayai_FAST
-5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,8,TINGLING,3,1900,hirihiri,hirihiri_BURNING
+5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,8,TINGLING,3,1900,hirihiri,hirihiri_TINGLING
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,9,DAMP,2,2957,syimeQpoi,syimeQpoi_WET
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,10,BEATING (E.G. HEART),5,1383,dokidoki,dokidoki_POUNDING (HEART)
 5bbd2bdcf7358a000171636f,English,NA,Assessing the similarity between the sound of Japanese words and their meaning.,5,11,BRAZEN,2,1857,adzu,adzu_RUDE
@@ -4332,7 +4332,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,5,EXHAUSTED,2,3356,syiNdo,syiNdo_EXHAUSTED
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,6,ANNOYED,4,1562,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,7,FAST,4,3183,hayai,hayai_FAST
-5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,8,TINGLING,5,3302,hirihiri,hirihiri_BURNING
+5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,8,TINGLING,5,3302,hirihiri,hirihiri_TINGLING
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,9,DAMP,0,2050,syimeQpoi,syimeQpoi_WET
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,10,DRUMMING (E.G. HEART),6,2011,dokidoki,dokidoki_POUNDING (HEART)
 5bec64d236e6f000016514c9,English,NA,"Rating how well Japanese words sound like what they mean, like wiggle and jiggle do in English",5,11,RUDE,3,3115,adzu,adzu_RUDE
@@ -4366,7 +4366,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,5,TIRED,4,845,syiNdo,syiNdo_EXHAUSTED
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,6,ANNOYED,4,713,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,7,QUICK,5,906,hayai,hayai_FAST
-5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,8,TINGLING,0,585,hirihiri,hirihiri_BURNING
+5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,8,TINGLING,0,585,hirihiri,hirihiri_TINGLING
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,9,DAMP,0,527,syimeQpoi,syimeQpoi_WET
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,10,BEATING (E.G. HEART),5,691,dokidoki,dokidoki_POUNDING (HEART)
 5e110747dc265f7d25341439,English,None,Listen to Japanese words and indicate if they sound like their meaning,5,11,BRAZEN,0,641,adzu,adzu_RUDE
@@ -4400,7 +4400,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,5,WEARY,2,2669,syiNdo,syiNdo_EXHAUSTED
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,6,ANNOYED,3,1664,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,7,SPEEDY,4,1798,hayai,hayai_FAST
-57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,8,TINGLING,4,2655,hirihiri,hirihiri_BURNING
+57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,8,TINGLING,4,2655,hirihiri,hirihiri_TINGLING
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,9,SOGGY,2,2603,syimeQpoi,syimeQpoi_WET
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,10,DRUMMING (E.G. HEART),5,2061,dokidoki,dokidoki_POUNDING (HEART)
 57027b6768c641000e0c894a,English,NA,Listening to japanese words and rating if the are like the word,5,11,ARROGANT,4,2906,adzu,adzu_RUDE
@@ -4434,7 +4434,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,5,WEARY,1,3658,syiNdo,syiNdo_EXHAUSTED
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,6,IMPATIENT,0,3011,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,7,SPEEDY,1,1218,hayai,hayai_FAST
-5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,8,BURNING,1,1458,hirihiri,hirihiri_BURNING
+5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,8,BURNING,1,1458,hirihiri,hirihiri_TINGLING
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,9,WET,0,1244,syimeQpoi,syimeQpoi_WET
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,10,BEATING (E.G. HEART),5,1692,dokidoki,dokidoki_POUNDING (HEART)
 5ea9c475ec2b531108f86a3f,English,Some German,Listening to Japanese words and judging if their sound was reflective of the action they were describing.,5,11,RUDE,0,812,adzu,adzu_RUDE
@@ -4468,7 +4468,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,5,TIRED,1,2656,syiNdo,syiNdo_EXHAUSTED
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,6,IMPATIENT,4,2808,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,7,SPEEDY,4,1328,hayai,hayai_FAST
-59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,8,TINGLING,4,1520,hirihiri,hirihiri_BURNING
+59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,8,TINGLING,4,1520,hirihiri,hirihiri_TINGLING
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,9,SOGGY,2,2720,syimeQpoi,syimeQpoi_WET
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,10,BEATING (E.G. HEART),6,3192,dokidoki,dokidoki_POUNDING (HEART)
 59e46feb16ecc200016fef61,English,None,I had to listen to Japanese words to see if they sounded like their meaning.,5,11,ARROGANT,4,2000,adzu,adzu_RUDE
@@ -4502,7 +4502,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,5,TIRED,2,2911,syiNdo,syiNdo_EXHAUSTED
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,6,ANNOYED,1,2167,yaNdagunaruQ,yaNdagunaruQ_ANNOYED/IMPATIENT
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,7,FAST,5,1550,hayai,hayai_FAST
-611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,8,TINGLING,5,1308,hirihiri,hirihiri_BURNING
+611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,8,TINGLING,5,1308,hirihiri,hirihiri_TINGLING
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,9,DAMP,1,1444,syimeQpoi,syimeQpoi_WET
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,10,BEATING (E.G. HEART),4,2438,dokidoki,dokidoki_POUNDING (HEART)
 611d3570f180b1adea26816b,English,NA,"I was listening carefully to the Japanese words, particularly the pitch of the words and the flow of the words (if words sounded harsh, soft etc.) to gage whether they sounded like their meaning.",5,11,ARROGANT,5,2612,adzu,adzu_RUDE
@@ -4541,7 +4541,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,10,SQUISHY,0,1681,yarakai,yarakai_SOFT
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,11,PULSATING,2,2374,zukizuki,zukizuki_THROBBING
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,12,PINCHING,2,1752,tyiisoo,tyiisoo_TIGHT
-5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,13,IMPATIENT,5,1767,iraira,iraira_ANNOYED
+5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,13,IMPATIENT,5,1767,iraira,iraira_ANNOYED/IMPATIENT
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,14,FREEZE,1,1210,syimiru,syimiru_FREEZE
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,15,CLEAR,3,1979,syaN,syaN_CLEAR
 5f551f435eceb78c98894fb8,English,N/A,Listening to Japanese words and rating how much they sounded like their meaning,6,16,SCARY,3,2821,kowa,kowa_SCARY
@@ -4575,7 +4575,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,10,SQUISHY,4,1151,yarakai,yarakai_SOFT
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,11,PULSATING,6,1025,zukizuki,zukizuki_THROBBING
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,12,TIGHT,5,1270,tyiisoo,tyiisoo_TIGHT
-5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,13,IMPATIENT,3,1297,iraira,iraira_ANNOYED
+5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,13,IMPATIENT,3,1297,iraira,iraira_ANNOYED/IMPATIENT
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,14,FREEZE,5,728,syimiru,syimiru_FREEZE
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,15,CLEAR,3,1388,syaN,syaN_CLEAR
 5c094b4b1907db00016017d7,English,NA,Listening to an audio of a japanese word and then rating how strongly the pronunciation resembled the word,6,16,SCARY,5,948,kowa,kowa_SCARY
@@ -4609,7 +4609,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,10,SQUISHY,2,937,yarakai,yarakai_SOFT
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,11,PULSATING,5,1412,zukizuki,zukizuki_THROBBING
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,12,TIGHT,2,1379,tyiisoo,tyiisoo_TIGHT
-615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,13,IMPATIENT,3,1220,iraira,iraira_ANNOYED
+615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,13,IMPATIENT,3,1220,iraira,iraira_ANNOYED/IMPATIENT
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,14,FREEZE,4,1358,syimiru,syimiru_FREEZE
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,15,REFRESHED,3,1338,syaN,syaN_CLEAR
 615468b1e5342ca625bd9b19,english,NA,listening to Japanese words,6,16,SCARY,4,1364,kowa,kowa_SCARY
@@ -4643,7 +4643,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,10,SQUISHY,0,891,yarakai,yarakai_SOFT
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,11,PULSATING,5,1428,zukizuki,zukizuki_THROBBING
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,12,TIGHT,0,1148,tyiisoo,tyiisoo_TIGHT
-5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,13,IMPATIENT,1,1292,iraira,iraira_ANNOYED
+5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,13,IMPATIENT,1,1292,iraira,iraira_ANNOYED/IMPATIENT
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,14,FREEZE,0,1297,syimiru,syimiru_FREEZE
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,15,REFRESHED,0,1210,syaN,syaN_CLEAR
 5b6c30dad197400001efe15a,English,NA,whether words sounds like their meaning.,6,16,FRIGHTENING,0,803,kowa,kowa_SCARY
@@ -4677,7 +4677,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,10,SQUISHY,1,1554,yarakai,yarakai_SOFT
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,11,THROBBING,5,2087,zukizuki,zukizuki_THROBBING
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,12,PINCHING,4,4273,tyiisoo,tyiisoo_TIGHT
-58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,13,IMPATIENT,3,1269,iraira,iraira_ANNOYED
+58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,13,IMPATIENT,3,1269,iraira,iraira_ANNOYED/IMPATIENT
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,14,FREEZE,2,3196,syimiru,syimiru_FREEZE
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,15,REFRESHED,3,7521,syaN,syaN_CLEAR
 58e54c853c4dba00016cdd4c,english,NA,listening to see if Japanese words sounded like they resembled their meaning.,6,16,FRIGHTENING,3,4486,kowa,kowa_SCARY
@@ -4711,7 +4711,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,10,SOFT,2,1525,yarakai,yarakai_SOFT
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,11,THROBBING,5,1114,zukizuki,zukizuki_THROBBING
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,12,PINCHING,5,1157,tyiisoo,tyiisoo_TIGHT
-5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,13,ANNOYED,4,2332,iraira,iraira_ANNOYED
+5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,13,ANNOYED,4,2332,iraira,iraira_ANNOYED/IMPATIENT
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,14,FREEZE,3,1895,syimiru,syimiru_FREEZE
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,15,CLEAR,1,1783,syaN,syaN_CLEAR
 5d7929cc3dd8fd0001de3b98,English,N/A,Rating how much I think well Japanese words go with their meaning.,6,16,FRIGHTENING,1,2642,kowa,kowa_SCARY
@@ -4745,7 +4745,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,10,SQUISHY,1,1300,yarakai,yarakai_SOFT
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,11,THROBBING,1,3121,zukizuki,zukizuki_THROBBING
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,12,TIGHT,2,913,tyiisoo,tyiisoo_TIGHT
-5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,13,IMPATIENT,5,1008,iraira,iraira_ANNOYED
+5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,13,IMPATIENT,5,1008,iraira,iraira_ANNOYED/IMPATIENT
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,14,FREEZE,1,2992,syimiru,syimiru_FREEZE
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,15,CLEAR,2,2296,syaN,syaN_CLEAR
 5ca73fe6bcdcc2001291822d,english,no,comparing japanese to english,6,16,FRIGHTENING,2,740,kowa,kowa_SCARY
@@ -4779,7 +4779,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,10,SOFT,2,1462,yarakai,yarakai_SOFT
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,11,THROBBING,4,913,zukizuki,zukizuki_THROBBING
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,12,PINCHING,4,3148,tyiisoo,tyiisoo_TIGHT
-5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,13,IMPATIENT,2,1021,iraira,iraira_ANNOYED
+5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,13,IMPATIENT,2,1021,iraira,iraira_ANNOYED/IMPATIENT
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,14,FREEZE,2,1151,syimiru,syimiru_FREEZE
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,15,CLEAR,5,1364,syaN,syaN_CLEAR
 5f60b9bf5168b2000ad42cae,English,French,Listening to Japanese words and rating how much they resemble their meaning,6,16,FRIGHTENING,3,734,kowa,kowa_SCARY
@@ -4813,7 +4813,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,10,SQUISHY,4,1647,yarakai,yarakai_SOFT
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,11,PULSATING,5,1082,zukizuki,zukizuki_THROBBING
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,12,PINCHING,1,1108,tyiisoo,tyiisoo_TIGHT
-6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,13,ANNOYED,5,902,iraira,iraira_ANNOYED
+6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,13,ANNOYED,5,902,iraira,iraira_ANNOYED/IMPATIENT
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,14,FREEZE,1,2688,syimiru,syimiru_FREEZE
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,15,REFRESHED,0,3354,syaN,syaN_CLEAR
 6055290bab56701a6a784165,english,NA,listen to Japanese words and judge if they sound like their meaning,6,16,FRIGHTENING,4,5400,kowa,kowa_SCARY
@@ -4847,7 +4847,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,10,SQUISHY,0,1251,yarakai,yarakai_SOFT
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,11,PULSATING,6,1421,zukizuki,zukizuki_THROBBING
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,12,PINCHING,1,1295,tyiisoo,tyiisoo_TIGHT
-6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,13,IMPATIENT,4,3558,iraira,iraira_ANNOYED
+6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,13,IMPATIENT,4,3558,iraira,iraira_ANNOYED/IMPATIENT
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,14,FREEZE,1,1147,syimiru,syimiru_FREEZE
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,15,REFRESHED,1,1158,syaN,syaN_CLEAR
 6148599317c3527a468b9659,English,None,Listening to resemblance of japenese words,6,16,SCARY,2,1697,kowa,kowa_SCARY
@@ -4881,7 +4881,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,10,SQUISHY,1,1495,yarakai,yarakai_SOFT
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,11,THROBBING,2,1854,zukizuki,zukizuki_THROBBING
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,12,TIGHT,0,1445,tyiisoo,tyiisoo_TIGHT
-5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,13,ANNOYED,2,3847,iraira,iraira_ANNOYED
+5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,13,ANNOYED,2,3847,iraira,iraira_ANNOYED/IMPATIENT
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,14,FREEZE,0,1965,syimiru,syimiru_FREEZE
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,15,REFRESHED,0,1169,syaN,syaN_CLEAR
 5d49cd9bd1bbd4001a9f17e5,English,NA,Rating Japanese words,6,16,FRIGHTENING,0,3732,kowa,kowa_SCARY
@@ -4915,7 +4915,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,10,SQUISHY,4,3880,yarakai,yarakai_SOFT
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,11,PULSATING,6,2128,zukizuki,zukizuki_THROBBING
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,12,TIGHT,3,3181,tyiisoo,tyiisoo_TIGHT
-61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,13,ANNOYED,4,2365,iraira,iraira_ANNOYED
+61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,13,ANNOYED,4,2365,iraira,iraira_ANNOYED/IMPATIENT
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,14,FREEZE,3,4707,syimiru,syimiru_FREEZE
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,15,REFRESHED,3,2598,syaN,syaN_CLEAR
 61125cc244b1a09129fd9314,English,None,Seeing if the Japanese words sound like the action they are describing,6,16,FRIGHTENING,3,4652,kowa,kowa_SCARY
@@ -4949,7 +4949,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,10,SQUISHY,5,954,yarakai,yarakai_SOFT
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,11,PULSATING,5,1590,zukizuki,zukizuki_THROBBING
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,12,PINCHING,1,850,tyiisoo,tyiisoo_TIGHT
-5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,13,ANNOYED,3,1451,iraira,iraira_ANNOYED
+5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,13,ANNOYED,3,1451,iraira,iraira_ANNOYED/IMPATIENT
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,14,FREEZE,2,1999,syimiru,syimiru_FREEZE
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,15,CLEAR,3,1644,syaN,syaN_CLEAR
 5f31af1e7543f70b95b100a6,English,French,Comparing Japanese words to their meanings,6,16,FRIGHTENING,2,1067,kowa,kowa_SCARY
@@ -4983,7 +4983,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,10,SOFT,0,1132,yarakai,yarakai_SOFT
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,11,PULSATING,0,1011,zukizuki,zukizuki_THROBBING
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,12,PINCHING,2,1086,tyiisoo,tyiisoo_TIGHT
-6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,13,ANNOYED,1,1474,iraira,iraira_ANNOYED
+6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,13,ANNOYED,1,1474,iraira,iraira_ANNOYED/IMPATIENT
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,14,FREEZE,2,1753,syimiru,syimiru_FREEZE
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,15,CLEAR,1,1396,syaN,syaN_CLEAR
 6074d162aa879f4b7a01c95c,English,French and german,Listening to Japanese words and seeing if they sounded similar,6,16,SCARY,1,2142,kowa,kowa_SCARY
@@ -5017,7 +5017,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,10,SQUISHY,0,972,yarakai,yarakai_SOFT
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,11,PULSATING,4,995,zukizuki,zukizuki_THROBBING
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,12,TIGHT,0,793,tyiisoo,tyiisoo_TIGHT
-5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,13,ANNOYED,1,1100,iraira,iraira_ANNOYED
+5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,13,ANNOYED,1,1100,iraira,iraira_ANNOYED/IMPATIENT
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,14,FREEZE,1,1240,syimiru,syimiru_FREEZE
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,15,CLEAR,2,2874,syaN,syaN_CLEAR
 5978eedb30f3ea000122eaf0,English,NA,Whether Japanese words sound like what they mean,6,16,FRIGHTENING,0,965,kowa,kowa_SCARY
@@ -5066,7 +5066,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,25,WATERY (TASTE),1,2100,amai,amai_WEAK
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,26,TIDY,3,2005,utsukusyi,utsukusyi_CLEAN
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,27,SLY,1,1313,herakoi,herakoi_CUNNING
-5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,28,ENERGETIC,1,2441,syakiQ,syakiQ_LIVELY
+5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,28,ENERGETIC,1,2441,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,29,NOISY,1,2055,sekarasyika,sekarasyika_NOISY
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,30,PARCHED,2,4045,hiru,hiru_DRY
 5ef48406c7ae5804eebf277b,English,None,Rating Japanese words,7,31,MUGGY,1,1315,ikiru,ikiru_HUMID
@@ -5100,7 +5100,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,25,TASTELESS,2,1988,amai,amai_WEAK
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,26,CLEAN,4,877,utsukusyi,utsukusyi_CLEAN
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,27,CUNNING,3,1439,herakoi,herakoi_CUNNING
-5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,28,LIVELY,3,1798,syakiQ,syakiQ_LIVELY
+5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,28,LIVELY,3,1798,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,29,LOUD,3,1423,sekarasyika,sekarasyika_NOISY
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,30,PARCHED,4,969,hiru,hiru_DRY
 5f92fcf0da91be06c2a758e8,English,NA,I was presented with recordings of Japanese words and I had to rate how much these words relate to their meaning,7,31,HUMID,3,2471,ikiru,ikiru_HUMID
@@ -5134,7 +5134,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,25,WATERY (TASTE),0,2546,amai,amai_WEAK
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,26,TIDY,0,1842,utsukusyi,utsukusyi_CLEAN
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,27,SLY,1,2599,herakoi,herakoi_CUNNING
-6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,28,ENERGETIC,3,2320,syakiQ,syakiQ_LIVELY
+6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,28,ENERGETIC,3,2320,syakiQ,syakiQ_LIVELY (ENERGETIC)
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,29,NOISY,0,1647,sekarasyika,sekarasyika_NOISY
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,30,PARCHED,2,3507,hiru,hiru_DRY
 6148e121f8010d615a43ee26,English,NA,listening to Japanese words and stating if they felt relevant to their meaning,7,31,MUGGY,0,3992,ikiru,ikiru_HUMID
@@ -5168,7 +5168,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,25,WATERY (TASTE),2,1954,amai,amai_WEAK
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,26,TIDY,4,2322,utsukusyi,utsukusyi_CLEAN
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,27,SNEAKY,3,2685,herakoi,herakoi_CUNNING
-5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,28,LIVELY,5,2009,syakiQ,syakiQ_LIVELY
+5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,28,LIVELY,5,2009,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,29,NOISY,3,2671,sekarasyika,sekarasyika_NOISY
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,30,DRY,3,4523,hiru,hiru_DRY
 5f8b3e21f8638825023495db,English,NA,whether words sounded like their meaning,7,31,MUGGY,4,4796,ikiru,ikiru_HUMID
@@ -5202,7 +5202,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,25,WATERY (TASTE),1,2683,amai,amai_WEAK
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,26,TIDY,2,947,utsukusyi,utsukusyi_CLEAN
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,27,SLY,1,809,herakoi,herakoi_CUNNING
-6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,28,LIVELY,1,1807,syakiQ,syakiQ_LIVELY
+6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,28,LIVELY,1,1807,syakiQ,syakiQ_LIVELY (ENERGETIC)
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,29,LOUD,0,628,sekarasyika,sekarasyika_NOISY
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,30,PARCHED,1,1122,hiru,hiru_DRY
 6005f8260fead291c70fc06e,English,NA,Seeing how much a word sounded like it's description,7,31,HUMID,0,736,ikiru,ikiru_HUMID
@@ -5236,7 +5236,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,25,TASTELESS,1,1744,amai,amai_WEAK
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,26,TIDY,0,1226,utsukusyi,utsukusyi_CLEAN
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,27,SLY,0,1036,herakoi,herakoi_CUNNING
-5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,28,LIVELY,0,1310,syakiQ,syakiQ_LIVELY
+5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,28,LIVELY,0,1310,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,29,NOISY,0,1846,sekarasyika,sekarasyika_NOISY
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,30,DRY,0,1247,hiru,hiru_DRY
 5722578701ed33000838ba6d,English,None,Listening to japenese words to see if they sound like the english meaning,7,31,HUMID,0,939,ikiru,ikiru_HUMID
@@ -5270,7 +5270,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,25,TASTELESS,4,1271,amai,amai_WEAK
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,26,TIDY,3,1046,utsukusyi,utsukusyi_CLEAN
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,27,SLY,1,1041,herakoi,herakoi_CUNNING
-598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,28,ENERGETIC,6,1255,syakiQ,syakiQ_LIVELY
+598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,28,ENERGETIC,6,1255,syakiQ,syakiQ_LIVELY (ENERGETIC)
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,29,NOISY,4,2585,sekarasyika,sekarasyika_NOISY
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,30,PARCHED,3,1322,hiru,hiru_DRY
 598d55aa8380cc00012a3a53,English,none,seeing if the sound of words seem to fit their meanings,7,31,MUGGY,3,3229,ikiru,ikiru_HUMID
@@ -5304,47 +5304,47 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,25,TASTELESS,0,844,amai,amai_WEAK
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,26,CLEAN,0,586,utsukusyi,utsukusyi_CLEAN
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,27,SLY,0,594,herakoi,herakoi_CUNNING
-55f2a7e332af740010170166,English,German,what words sound like the meaning,7,28,LIVELY,5,666,syakiQ,syakiQ_LIVELY
+55f2a7e332af740010170166,English,German,what words sound like the meaning,7,28,LIVELY,5,666,syakiQ,syakiQ_LIVELY (ENERGETIC)
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,29,NOISY,0,1664,sekarasyika,sekarasyika_NOISY
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,30,DRY,0,1799,hiru,hiru_DRY
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,31,MUGGY,0,503,ikiru,ikiru_HUMID
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,32,HARD,0,514,katai,katai_HARD
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,33,BOUNCING,5,3043,pyoNpyoN,pyoNpyoN_HOPPING
 55f2a7e332af740010170166,English,German,what words sound like the meaning,7,34,WHISPERING,3,2153,hisohiso,hisohiso_WHISPERING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,1,FLUFFY,5,3696,fuwafuwa,fuwafuwa_SOFT
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,2,WOBBLING,5,1064,yoroyoro,yoroyoro_WOBBLING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,3,CLEAR,3,1083,saQpari,saQpari_CLEAR
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,4,THROBBING (E.G. HEADACHE),5,910,gaNgaN,gaNgaN_POUNDINGÂ (HEAD)
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,5,ARROGANT,4,1041,zuuzuusyii,zuuzuusyii_RUDE
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,6,BRAZEN,1,835,atsukamasyii,atsukamasyii_RUDE
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,7,"STINGING (PAIN, E.G. IN EYES)",4,2110,syibasyiba,syibasyiba_STINGING (PAIN)
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,8,DAMP,1,1424,syitosyito,syitosyito_WET
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,9,"STINGING (PAIN, E.G. IN EYES)",2,1385,syobosyobo,syobosyobo_STINGING (PAIN)
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,10,EXHAUSTED,4,908,guNnari,guNnari_EXHAUSTED
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,11,PRICKLING,3,1014,tyikatyika,tyikatyika_PRICKLING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,12,WARM,4,714,nukui,nukui_WARM
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,13,HARD,2,699,katyikatyi,katyikatyi_HARD
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,14,MUGGY,2,837,zyitozyito,zyitozyito_HUMID
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,15,SWEET,4,795,amai,amai_SWEET
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,16,BLURRY,5,763,moyamoya,moyamoya_FUZZY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,17,CLEAR,3,878,suQkiri,suQkiri_CLEAR
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,18,CUNNING,2,1031,zurui,zurui_CUNNING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,19,"STINGING (PAIN, E.G. IN EYES)",4,1882,zyikazyika,zyikazyika_STINGING (PAIN)
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,20,SMOOTH,2,826,tairana,tairana_FLAT
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,21,RAGGEDY,4,996,biNboQtarasyii,biNboQtarasyii_SHABBY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,22,STARVING,3,1248,himozyii,himozyii_HUNGRY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,23,KNOCK (AT THE DOOR),3,1007,hadagu,hadagu_RAP (AT THE DOOR)
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,24,TATTY,1,758,misuborasyii,misuborasyii_SHABBY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,25,BLAND (TASTE),4,1322,amai,amai_WEAK
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,26,CLEAN,3,1338,utsukusyi,utsukusyi_CLEAN
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,27,CUNNING,3,1193,herakoi,herakoi_CUNNING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,28,ENERGETIC,2,2069,syakiQ,syakiQ_LIVELY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,29,LOUD,1,844,sekarasyika,sekarasyika_NOISY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,30,PARCHED,3,1018,hiru,hiru_DRY
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,31,MUGGY,3,1301,ikiru,ikiru_HUMID
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,32,HARD,3,812,katai,katai_HARD
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,33,BOUNCING,6,891,pyoNpyoN,pyoNpyoN_HOPPING
-5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like it’s meaning,7,34,WHISPERING,4,752,hisohiso,hisohiso_WHISPERING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,1,FLUFFY,5,3696,fuwafuwa,fuwafuwa_SOFT
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,2,WOBBLING,5,1064,yoroyoro,yoroyoro_WOBBLING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,3,CLEAR,3,1083,saQpari,saQpari_CLEAR
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,4,THROBBING (E.G. HEADACHE),5,910,gaNgaN,gaNgaN_POUNDINGÂ (HEAD)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,5,ARROGANT,4,1041,zuuzuusyii,zuuzuusyii_RUDE
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,6,BRAZEN,1,835,atsukamasyii,atsukamasyii_RUDE
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,7,"STINGING (PAIN, E.G. IN EYES)",4,2110,syibasyiba,syibasyiba_STINGING (PAIN)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,8,DAMP,1,1424,syitosyito,syitosyito_WET
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,9,"STINGING (PAIN, E.G. IN EYES)",2,1385,syobosyobo,syobosyobo_STINGING (PAIN)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,10,EXHAUSTED,4,908,guNnari,guNnari_EXHAUSTED
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,11,PRICKLING,3,1014,tyikatyika,tyikatyika_PRICKLING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,12,WARM,4,714,nukui,nukui_WARM
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,13,HARD,2,699,katyikatyi,katyikatyi_HARD
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,14,MUGGY,2,837,zyitozyito,zyitozyito_HUMID
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,15,SWEET,4,795,amai,amai_SWEET
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,16,BLURRY,5,763,moyamoya,moyamoya_FUZZY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,17,CLEAR,3,878,suQkiri,suQkiri_CLEAR
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,18,CUNNING,2,1031,zurui,zurui_CUNNING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,19,"STINGING (PAIN, E.G. IN EYES)",4,1882,zyikazyika,zyikazyika_STINGING (PAIN)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,20,SMOOTH,2,826,tairana,tairana_FLAT
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,21,RAGGEDY,4,996,biNboQtarasyii,biNboQtarasyii_SHABBY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,22,STARVING,3,1248,himozyii,himozyii_HUNGRY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,23,KNOCK (AT THE DOOR),3,1007,hadagu,hadagu_RAP (AT THE DOOR)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,24,TATTY,1,758,misuborasyii,misuborasyii_SHABBY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,25,BLAND (TASTE),4,1322,amai,amai_WEAK
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,26,CLEAN,3,1338,utsukusyi,utsukusyi_CLEAN
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,27,CUNNING,3,1193,herakoi,herakoi_CUNNING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,28,ENERGETIC,2,2069,syakiQ,syakiQ_LIVELY (ENERGETIC)
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,29,LOUD,1,844,sekarasyika,sekarasyika_NOISY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,30,PARCHED,3,1018,hiru,hiru_DRY
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,31,MUGGY,3,1301,ikiru,ikiru_HUMID
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,32,HARD,3,812,katai,katai_HARD
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,33,BOUNCING,6,891,pyoNpyoN,pyoNpyoN_HOPPING
+5f1df9a632a56a77cd79989d,English,None,Deciding if a word sounds like itï¿½s meaning,7,34,WHISPERING,4,752,hisohiso,hisohiso_WHISPERING
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,1,FLUFFY,1,3074,fuwafuwa,fuwafuwa_SOFT
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,2,WOBBLING,5,1215,yoroyoro,yoroyoro_WOBBLING
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,3,CLEAR,0,1358,saQpari,saQpari_CLEAR
@@ -5372,7 +5372,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,25,WATERY (TASTE),0,1179,amai,amai_WEAK
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,26,CLEAN,0,948,utsukusyi,utsukusyi_CLEAN
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,27,SNEAKY,1,1191,herakoi,herakoi_CUNNING
-5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,28,LIVELY,4,2314,syakiQ,syakiQ_LIVELY
+5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,28,LIVELY,4,2314,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,29,LOUD,2,1599,sekarasyika,sekarasyika_NOISY
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,30,PARCHED,1,808,hiru,hiru_DRY
 5cdf0e4b025b0b0001e9242d,English,NA,Listening to words and rating how representative they were of the word and how much they described it,7,31,HUMID,1,1320,ikiru,ikiru_HUMID
@@ -5406,7 +5406,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,25,BLAND (TASTE),1,1776,amai,amai_WEAK
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,26,CLEAN,1,806,utsukusyi,utsukusyi_CLEAN
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,27,CUNNING,4,1230,herakoi,herakoi_CUNNING
-61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,28,LIVELY,1,730,syakiQ,syakiQ_LIVELY
+61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,28,LIVELY,1,730,syakiQ,syakiQ_LIVELY (ENERGETIC)
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,29,LOUD,1,763,sekarasyika,sekarasyika_NOISY
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,30,DRY,1,1953,hiru,hiru_DRY
 61544c7e85951454f9c5b60e,English,German,Rating the resemblance of the meaning of a Japanese word to its sound,7,31,MUGGY,1,899,ikiru,ikiru_HUMID
@@ -5440,7 +5440,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,25,TASTELESS,2,1395,amai,amai_WEAK
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,26,CLEAN,1,2743,utsukusyi,utsukusyi_CLEAN
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,27,SLY,0,807,herakoi,herakoi_CUNNING
-5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,28,LIVELY,4,2445,syakiQ,syakiQ_LIVELY
+5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,28,LIVELY,4,2445,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,29,LOUD,0,914,sekarasyika,sekarasyika_NOISY
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,30,PARCHED,1,1376,hiru,hiru_DRY
 5d409746c983e8001a746d08,English,None,Rating Japanese words if they felt like their meaning,7,31,HUMID,0,1270,ikiru,ikiru_HUMID
@@ -5474,7 +5474,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,25,TASTELESS,2,745,amai,amai_WEAK
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,26,CLEAN,1,1379,utsukusyi,utsukusyi_CLEAN
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,27,SLY,2,1384,herakoi,herakoi_CUNNING
-5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,28,LIVELY,4,3493,syakiQ,syakiQ_LIVELY
+5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,28,LIVELY,4,3493,syakiQ,syakiQ_LIVELY (ENERGETIC)
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,29,NOISY,2,1063,sekarasyika,sekarasyika_NOISY
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,30,DRY,2,2137,hiru,hiru_DRY
 5f16ccc87d339d0008e08016,English,None,Listening to Japanese words to see if the sound they make resembles the meaning of the word,7,31,MUGGY,2,1183,ikiru,ikiru_HUMID
@@ -5508,7 +5508,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,25,TASTELESS,3,2123,amai,amai_WEAK
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,26,CLEAN,4,4061,utsukusyi,utsukusyi_CLEAN
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,27,CUNNING,5,3488,herakoi,herakoi_CUNNING
-6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,28,ENERGETIC,1,3464,syakiQ,syakiQ_LIVELY
+6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,28,ENERGETIC,1,3464,syakiQ,syakiQ_LIVELY (ENERGETIC)
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,29,LOUD,0,4126,sekarasyika,sekarasyika_NOISY
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,30,PARCHED,3,3207,hiru,hiru_DRY
 6138e9d4aa1428328bee7cf3,English,French,very difficult to assess whether it was recognisable or not,7,31,HUMID,3,3934,ikiru,ikiru_HUMID
@@ -5542,7 +5542,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,25,TASTELESS,3,4269,amai,amai_WEAK
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,26,CLEAN,3,1821,utsukusyi,utsukusyi_CLEAN
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,27,SLY,2,1745,herakoi,herakoi_CUNNING
-61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,28,ENERGETIC,4,3102,syakiQ,syakiQ_LIVELY
+61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,28,ENERGETIC,4,3102,syakiQ,syakiQ_LIVELY (ENERGETIC)
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,29,NOISY,3,1648,sekarasyika,sekarasyika_NOISY
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,30,DRY,2,3939,hiru,hiru_DRY
 61571314dea6e2279116cf96,english,n/a,listening to japanese word to see if they relaed to the enlish word,7,31,MUGGY,1,2875,ikiru,ikiru_HUMID
@@ -5651,40 +5651,40 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,trial,trans,rating,rt,form,
 6128d34975bceffa7411e667,English,NA,saying how much the japanese word sounded like its meaning in english,8,32,HARD,2,1198,katai,katai_HARD
 6128d34975bceffa7411e667,English,NA,saying how much the japanese word sounded like its meaning in english,8,33,HOPPING,4,826,pyoNpyoN,pyoNpyoN_HOPPING
 6128d34975bceffa7411e667,English,NA,saying how much the japanese word sounded like its meaning in english,8,34,WHISPERING,5,1131,hisohiso,hisohiso_WHISPERING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,1,FLUFFY,2,5353,fuwafuwa,fuwafuwa_SOFT
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,2,WOBBLING,4,1005,yoroyoro,yoroyoro_WOBBLING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,3,SLOW,2,925,noroi,noroi_SLOW
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,4,THIN,1,993,komaka,komaka_THIN
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,5,PINCHING,2,833,kibui,kibui_TIGHT
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,6,LUKEWARM,2,959,nurui,nurui_LUKEWARM
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,7,SPIT,2,1152,haku,haku_SPIT
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,8,SOGGY,2,651,nureru,nureru_WET
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,9,CRAMPING (E.G. IN STOMACH),3,937,syikusyiku,syikusyiku_CRAMPING (STOMACH)
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,10,TREMBLING,4,770,buruburu,buruburu_SHAKING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,11,STUFFED (FROM EATING TOO MUCH),1,733,iQpai,iQpai_STUFFED (FULL OF FOOD)
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,12,BLAND (TASTE),1,543,usui,usui_WEAK
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,13,OOZING,2,837,zyuruzyuru,zyuruzyuru_OOZING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,14,HUGE,1,1251,futoi,futoi_BIG
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,15,PINCHING,3,830,pityipityi,pityipityi_TIGHT
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,16,SHAKING,5,696,gatagata,gatagata_SHAKING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,17,WEARY,2,659,dayai,dayai_EXHAUSTED
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,18,BRINY (TASTE),1,626,syoQpee,syoQpee_SALTY
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,19,WET,1,841,syiQketoru,syiQketoru_WET
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,20,OILY/HEAVY (FOOD),1,812,syitsukoi,syitsukoi_OILY/HEAVY (FOOD)
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,21,SNEAKY,2,631,kitanai,kitanai_CUNNING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,22,SALTY,2,570,kudoi,kudoi_SALTY
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,23,THIN,1,705,hosoi,hosoi_THIN
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,24,GLUM,1,631,gurasyi,gurasyi_SAD
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,25,SCARY,1,689,kyootee,kyootee_SCARY
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,26,TIRED,2,695,kowai,kowai_EXHAUSTED
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,27,COARSE,1,659,futoi,futoi_ROUGH
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,28,FREEZE,1,612,kogoru,kogoru_FREEZE
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,29,OILY/HEAVY (FOOD),2,847,mutsugoi,mutsugoi_OILY/HEAVY (FOOD)
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,30,SMOKY,2,565,kebutai,kebutai_SMOKY
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,31,SCARY,1,877,otorosyii,otorosyii_SCARY
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,32,HARD,2,685,katai,katai_HARD
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,33,BOUNCING,5,661,pyoNpyoN,pyoNpyoN_HOPPING
-5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like it’s meaning,8,34,WHISPERING,3,806,hisohiso,hisohiso_WHISPERING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,1,FLUFFY,2,5353,fuwafuwa,fuwafuwa_SOFT
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,2,WOBBLING,4,1005,yoroyoro,yoroyoro_WOBBLING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,3,SLOW,2,925,noroi,noroi_SLOW
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,4,THIN,1,993,komaka,komaka_THIN
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,5,PINCHING,2,833,kibui,kibui_TIGHT
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,6,LUKEWARM,2,959,nurui,nurui_LUKEWARM
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,7,SPIT,2,1152,haku,haku_SPIT
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,8,SOGGY,2,651,nureru,nureru_WET
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,9,CRAMPING (E.G. IN STOMACH),3,937,syikusyiku,syikusyiku_CRAMPING (STOMACH)
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,10,TREMBLING,4,770,buruburu,buruburu_SHAKING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,11,STUFFED (FROM EATING TOO MUCH),1,733,iQpai,iQpai_STUFFED (FULL OF FOOD)
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,12,BLAND (TASTE),1,543,usui,usui_WEAK
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,13,OOZING,2,837,zyuruzyuru,zyuruzyuru_OOZING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,14,HUGE,1,1251,futoi,futoi_BIG
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,15,PINCHING,3,830,pityipityi,pityipityi_TIGHT
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,16,SHAKING,5,696,gatagata,gatagata_SHAKING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,17,WEARY,2,659,dayai,dayai_EXHAUSTED
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,18,BRINY (TASTE),1,626,syoQpee,syoQpee_SALTY
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,19,WET,1,841,syiQketoru,syiQketoru_WET
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,20,OILY/HEAVY (FOOD),1,812,syitsukoi,syitsukoi_OILY/HEAVY (FOOD)
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,21,SNEAKY,2,631,kitanai,kitanai_CUNNING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,22,SALTY,2,570,kudoi,kudoi_SALTY
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,23,THIN,1,705,hosoi,hosoi_THIN
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,24,GLUM,1,631,gurasyi,gurasyi_SAD
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,25,SCARY,1,689,kyootee,kyootee_SCARY
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,26,TIRED,2,695,kowai,kowai_EXHAUSTED
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,27,COARSE,1,659,futoi,futoi_ROUGH
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,28,FREEZE,1,612,kogoru,kogoru_FREEZE
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,29,OILY/HEAVY (FOOD),2,847,mutsugoi,mutsugoi_OILY/HEAVY (FOOD)
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,30,SMOKY,2,565,kebutai,kebutai_SMOKY
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,31,SCARY,1,877,otorosyii,otorosyii_SCARY
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,32,HARD,2,685,katai,katai_HARD
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,33,BOUNCING,5,661,pyoNpyoN,pyoNpyoN_HOPPING
+5e0e24225a9171000beb0140,English,French,Rate how much the word sounds like itï¿½s meaning,8,34,WHISPERING,3,806,hisohiso,hisohiso_WHISPERING
 613a348df35a2949d84e123f,English,NA,Ranking whether japanese words reflected the english meaning,8,1,FLUFFY,5,2475,fuwafuwa,fuwafuwa_SOFT
 613a348df35a2949d84e123f,English,NA,Ranking whether japanese words reflected the english meaning,8,2,WOBBLING,3,1573,yoroyoro,yoroyoro_WOBBLING
 613a348df35a2949d84e123f,English,NA,Ranking whether japanese words reflected the english meaning,8,3,SLOW,1,1084,noroi,noroi_SLOW

@@ -5759,7 +5759,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,nomeQkoi,SLIPPERY,yewoneu.mp3,incorrect,1129,nomeQkoi_SLICK
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,kukuru,TIGHTEN,naniki.mp3,correct,2699,kukuru_BIND
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,hiroi,SPACIOUS,wuQpeu.mp3,incorrect,1057,hiroi_SPACIOUS
-60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,syakiQ,LIVELY,yuwaN.mp3,correct,935,syakiQ_LIVELY
+60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,syakiQ,LIVELY,yuwaN.mp3,correct,935,syakiQ_LIVELY (ENERGETIC)
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,kosobai,TICKLING,reweruu.mp3,incorrect,845,kosobai_TICKLING
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,katai,HARD,zuwua.mp3,correct,1027,katai_HARD
 60d0d1169662f19d57d7d075,English,None.,Listening to two words in Japanese and guessing which one was the translation for the English word.,7,pyoNpyoN,BOUNCING,reQ.mp3,correct,1035,pyoNpyoN_HOPPING
@@ -5793,7 +5793,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,nomeQkoi,SLIPPERY,yewoneu.mp3,incorrect,1049,nomeQkoi_SLICK
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,kukuru,TIGHTEN,rarikyi.mp3,correct,790,kukuru_BIND
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,hiroi,WIDE,nakyea.mp3,correct,1065,hiroi_SPACIOUS
-613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,syakiQ,ENERGETIC,pyuraN.mp3,incorrect,1539,syakiQ_LIVELY
+613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,syakiQ,ENERGETIC,pyuraN.mp3,incorrect,1539,syakiQ_LIVELY (ENERGETIC)
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,kosobai,TICKLING,nepyewia.mp3,incorrect,1685,kosobai_TICKLING
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,katai,HARD,zuwua.mp3,correct,2029,katai_HARD
 613e0a554d30860442e5efe2,English,none,listen to two audio clips of Japanese words and decide which one meant the English word presented,7,pyoNpyoN,HOPPING,neQ.mp3,correct,831,pyoNpyoN_HOPPING
@@ -5827,7 +5827,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,nomeQkoi,SMOOTH,yewoneu.mp3,incorrect,5027,nomeQkoi_SLICK
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,kukuru,BIND,wiwapya.mp3,correct,1590,kukuru_BIND
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,hiroi,SPACIOUS,ruQgeu.mp3,incorrect,1150,hiroi_SPACIOUS
-606c2c268190da2d03d77655,English,NA,Guessing translation,7,syakiQ,LIVELY,winuN.mp3,correct,926,syakiQ_LIVELY
+606c2c268190da2d03d77655,English,NA,Guessing translation,7,syakiQ,LIVELY,winuN.mp3,correct,926,syakiQ_LIVELY (ENERGETIC)
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,kosobai,TICKLING,reweruu.mp3,incorrect,1414,kosobai_TICKLING
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,katai,HARD,zuwua.mp3,incorrect,1702,katai_HARD
 606c2c268190da2d03d77655,English,NA,Guessing translation,7,pyoNpyoN,HOPPING,zeQ.mp3,correct,1095,pyoNpyoN_HOPPING
@@ -5861,7 +5861,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ab552656db3e700011bea12,british,NA,Japanese words,7,nomeQkoi,SLIPPERY,pyehorea.mp3,correct,1742,nomeQkoi_SLICK
 5ab552656db3e700011bea12,british,NA,Japanese words,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,1043,kukuru_BIND
 5ab552656db3e700011bea12,british,NA,Japanese words,7,hiroi,WIDE,nakyea.mp3,incorrect,1171,hiroi_SPACIOUS
-5ab552656db3e700011bea12,british,NA,Japanese words,7,syakiQ,LIVELY,yuwaN.mp3,correct,1252,syakiQ_LIVELY
+5ab552656db3e700011bea12,british,NA,Japanese words,7,syakiQ,LIVELY,yuwaN.mp3,correct,1252,syakiQ_LIVELY (ENERGETIC)
 5ab552656db3e700011bea12,british,NA,Japanese words,7,kosobai,TICKLING,weyeyuu.mp3,incorrect,1347,kosobai_TICKLING
 5ab552656db3e700011bea12,british,NA,Japanese words,7,katai,HARD,nuhua.mp3,correct,1480,katai_HARD
 5ab552656db3e700011bea12,british,NA,Japanese words,7,pyoNpyoN,HOPPING,neQ.mp3,correct,1116,pyoNpyoN_HOPPING
@@ -5895,7 +5895,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,nomeQkoi,SMOOTH,werowea.mp3,incorrect,1100,nomeQkoi_SLICK
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,kukuru,BIND,wiwapya.mp3,incorrect,1360,kukuru_BIND
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,hiroi,SPACIOUS,wuQpeu.mp3,incorrect,1039,hiroi_SPACIOUS
-604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,syakiQ,LIVELY,pyuraN.mp3,correct,1718,syakiQ_LIVELY
+604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,syakiQ,LIVELY,pyuraN.mp3,correct,1718,syakiQ_LIVELY (ENERGETIC)
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,kosobai,TICKLING,nepyewia.mp3,correct,2004,kosobai_TICKLING
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,katai,HARD,ruyua.mp3,correct,2330,katai_HARD
 604a1c3071ab07899b50c416,English,polish,listening to some Japanese words and deciding which one between a and b we thought was the word in English. the sounds of them being said was in a and b. some sounded very similar or were repeated as were some of the words we were guessing,7,pyoNpyoN,HOPPING,reQ.mp3,correct,1237,pyoNpyoN_HOPPING
@@ -5929,7 +5929,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,nomeQkoi,SMOOTH,pyehorea.mp3,incorrect,1152,nomeQkoi_SLICK
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,kukuru,BIND,rarikyi.mp3,correct,1293,kukuru_BIND
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,hiroi,WIDE,ruQgeu.mp3,correct,766,hiroi_SPACIOUS
-5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,syakiQ,LIVELY,winuN.mp3,correct,1640,syakiQ_LIVELY
+5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,syakiQ,LIVELY,winuN.mp3,correct,1640,syakiQ_LIVELY (ENERGETIC)
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,kosobai,TICKLING,weyeyuu.mp3,correct,1008,kosobai_TICKLING
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,katai,HARD,ruyua.mp3,correct,1183,katai_HARD
 5ce2cadbed552600199dc85c,English,"None fluent, but some French and German",Selecting the spoken word that we think means the word given in text.,7,pyoNpyoN,BOUNCING,reQ.mp3,correct,1265,pyoNpyoN_HOPPING
@@ -5963,7 +5963,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,nomeQkoi,SMOOTH,werowea.mp3,incorrect,1214,nomeQkoi_SLICK
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,kukuru,BIND,naniki.mp3,correct,929,kukuru_BIND
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,hiroi,SPACIOUS,ruQgeu.mp3,correct,4614,hiroi_SPACIOUS
-5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,1048,syakiQ_LIVELY
+5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,1048,syakiQ_LIVELY (ENERGETIC)
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,kosobai,TICKLING,reweruu.mp3,incorrect,1044,kosobai_TICKLING
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,katai,HARD,zuwua.mp3,correct,2576,katai_HARD
 5cf0c9d2978d46000124d9c6,english,none,guessing what words mean in japanese,7,pyoNpyoN,BOUNCING,reQ.mp3,correct,984,pyoNpyoN_HOPPING
@@ -5997,7 +5997,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,nomeQkoi,SLIPPERY,pyehorea.mp3,incorrect,2675,nomeQkoi_SLICK
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,kukuru,BIND,naniki.mp3,correct,1994,kukuru_BIND
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,hiroi,SPACIOUS,nakyea.mp3,correct,1850,hiroi_SPACIOUS
-5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1238,syakiQ_LIVELY
+5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1238,syakiQ_LIVELY (ENERGETIC)
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,kosobai,TICKLING,reweruu.mp3,correct,718,kosobai_TICKLING
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,katai,HARD,nuhua.mp3,correct,3762,katai_HARD
 5de4eec72cf204481c6e5c1e,English,None,Listening to Japanese words and guessing from two options what they were saying,7,pyoNpyoN,BOUNCING,zeQ.mp3,correct,638,pyoNpyoN_HOPPING
@@ -6031,7 +6031,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,nomeQkoi,SMOOTH,werowea.mp3,correct,1344,nomeQkoi_SLICK
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,4718,kukuru_BIND
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,hiroi,SPACIOUS,nakyea.mp3,correct,1844,hiroi_SPACIOUS
-61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1265,syakiQ_LIVELY
+61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1265,syakiQ_LIVELY (ENERGETIC)
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,kosobai,TICKLING,nepyewia.mp3,correct,838,kosobai_TICKLING
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,katai,HARD,zuwua.mp3,incorrect,1239,katai_HARD
 61707fcc16ae8c3bb8e46543,English,none,Guessing Japanese words,7,pyoNpyoN,BOUNCING,reQ.mp3,correct,1257,pyoNpyoN_HOPPING
@@ -6065,7 +6065,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,nomeQkoi,SMOOTH,pyehorea.mp3,correct,873,nomeQkoi_SLICK
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,kukuru,TIGHTEN,wiwapya.mp3,incorrect,888,kukuru_BIND
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,hiroi,WIDE,nakyea.mp3,incorrect,1555,hiroi_SPACIOUS
-612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,880,syakiQ_LIVELY
+612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,880,syakiQ_LIVELY (ENERGETIC)
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,kosobai,TICKLING,reweruu.mp3,correct,865,kosobai_TICKLING
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,katai,HARD,zuwua.mp3,correct,959,katai_HARD
 612288fe5afea1bf6b8a197e,English,NA,To listen to the sounds and guess which one was saying the word written on the screen,7,pyoNpyoN,BOUNCING,zeQ.mp3,correct,1541,pyoNpyoN_HOPPING
@@ -6099,7 +6099,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,nomeQkoi,SMOOTH,pyehorea.mp3,incorrect,1004,nomeQkoi_SLICK
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,1372,kukuru_BIND
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,hiroi,SPACIOUS,wuQpeu.mp3,incorrect,762,hiroi_SPACIOUS
-5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,syakiQ,ENERGETIC,winuN.mp3,correct,1096,syakiQ_LIVELY
+5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,syakiQ,ENERGETIC,winuN.mp3,correct,1096,syakiQ_LIVELY (ENERGETIC)
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,kosobai,TICKLING,reweruu.mp3,incorrect,1483,kosobai_TICKLING
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,katai,HARD,zuwua.mp3,correct,802,katai_HARD
 5f31233084da6004d4e59bc0,English,NA,Predicting which Japanese word was the correct pronunciation of the given word,7,pyoNpyoN,HOPPING,zeQ.mp3,correct,868,pyoNpyoN_HOPPING
@@ -6133,7 +6133,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,nomeQkoi,SMOOTH,pyehorea.mp3,incorrect,2207,nomeQkoi_SLICK
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,1496,kukuru_BIND
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,hiroi,SPACIOUS,wuQpeu.mp3,correct,1389,hiroi_SPACIOUS
-5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1621,syakiQ_LIVELY
+5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1621,syakiQ_LIVELY (ENERGETIC)
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,kosobai,TICKLING,nepyewia.mp3,incorrect,1870,kosobai_TICKLING
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,katai,HARD,ruyua.mp3,correct,2315,katai_HARD
 5bce155e561901000121006f,English,NA,Listening to Japanese words and guessing what they meant,7,pyoNpyoN,BOUNCING,zeQ.mp3,correct,906,pyoNpyoN_HOPPING
@@ -6167,7 +6167,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,nomeQkoi,SLIPPERY,yewoneu.mp3,incorrect,4259,nomeQkoi_SLICK
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,kukuru,BIND,wiwapya.mp3,incorrect,1378,kukuru_BIND
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,hiroi,WIDE,wuQpeu.mp3,incorrect,3208,hiroi_SPACIOUS
-60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,syakiQ,LIVELY,yuwaN.mp3,correct,1228,syakiQ_LIVELY
+60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,syakiQ,LIVELY,yuwaN.mp3,correct,1228,syakiQ_LIVELY (ENERGETIC)
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,kosobai,TICKLING,reweruu.mp3,correct,2850,kosobai_TICKLING
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,katai,HARD,nuhua.mp3,correct,1021,katai_HARD
 60dddafcba71ad145265250d,english,NA,i was trying to guess which japanese words meant which words in english,7,pyoNpyoN,BOUNCING,neQ.mp3,correct,1065,pyoNpyoN_HOPPING
@@ -6201,7 +6201,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,nomeQkoi,SLIPPERY,werowea.mp3,incorrect,1115,nomeQkoi_SLICK
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,kukuru,TIGHTEN,wiwapya.mp3,correct,2549,kukuru_BIND
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,hiroi,SPACIOUS,ruQgeu.mp3,correct,1765,hiroi_SPACIOUS
-60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1438,syakiQ_LIVELY
+60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1438,syakiQ_LIVELY (ENERGETIC)
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,kosobai,TICKLING,weyeyuu.mp3,correct,1239,kosobai_TICKLING
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,katai,HARD,nuhua.mp3,correct,1573,katai_HARD
 60e867f20eaadeba41448d67,English,None,I had to choose between two japanese words to decide which one meant the english word shown.,7,pyoNpyoN,HOPPING,neQ.mp3,correct,4759,pyoNpyoN_HOPPING
@@ -6235,7 +6235,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,nomeQkoi,SLIPPERY,pyehorea.mp3,incorrect,1355,nomeQkoi_SLICK
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,1308,kukuru_BIND
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,hiroi,WIDE,nakyea.mp3,correct,1697,hiroi_SPACIOUS
-58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,syakiQ,ENERGETIC,winuN.mp3,incorrect,1045,syakiQ_LIVELY
+58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,syakiQ,ENERGETIC,winuN.mp3,incorrect,1045,syakiQ_LIVELY (ENERGETIC)
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,kosobai,TICKLING,nepyewia.mp3,correct,1526,kosobai_TICKLING
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,katai,HARD,nuhua.mp3,correct,1448,katai_HARD
 58c0209df8e9ee000168ed79,english,NA,guessing what the english word was in japanese,7,pyoNpyoN,BOUNCING,neQ.mp3,correct,2785,pyoNpyoN_HOPPING
@@ -6269,7 +6269,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,nomeQkoi,SMOOTH,pyehorea.mp3,incorrect,820,nomeQkoi_SLICK
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,kukuru,TIGHTEN,rarikyi.mp3,correct,1542,kukuru_BIND
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,hiroi,SPACIOUS,nakyea.mp3,correct,1456,hiroi_SPACIOUS
-5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1567,syakiQ_LIVELY
+5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,1567,syakiQ_LIVELY (ENERGETIC)
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,kosobai,TICKLING,weyeyuu.mp3,incorrect,1018,kosobai_TICKLING
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,katai,HARD,nuhua.mp3,incorrect,14012,katai_HARD
 5b6f312393405d000159e471,British English,Romanian (not fluent),Trying to understand the meaning of Japanese words based on sound.,7,pyoNpyoN,BOUNCING,reQ.mp3,correct,887,pyoNpyoN_HOPPING
@@ -6303,7 +6303,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,nomeQkoi,SMOOTH,werowea.mp3,incorrect,2034,nomeQkoi_SLICK
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,kukuru,BIND,wiwapya.mp3,incorrect,789,kukuru_BIND
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,hiroi,SPACIOUS,nakyea.mp3,correct,2234,hiroi_SPACIOUS
-58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,syakiQ,LIVELY,pyuraN.mp3,correct,994,syakiQ_LIVELY
+58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,syakiQ,LIVELY,pyuraN.mp3,correct,994,syakiQ_LIVELY (ENERGETIC)
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,kosobai,TICKLING,nepyewia.mp3,incorrect,4029,kosobai_TICKLING
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,katai,HARD,ruyua.mp3,correct,1314,katai_HARD
 58a9acb966e4640001c53a7f,English,French,Listen to 2 Japanese words and guess the English translation,7,pyoNpyoN,HOPPING,neQ.mp3,correct,1065,pyoNpyoN_HOPPING
@@ -6337,7 +6337,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,nomeQkoi,SMOOTH,pyehorea.mp3,correct,2275,nomeQkoi_SLICK
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,kukuru,BIND,naniki.mp3,incorrect,4452,kukuru_BIND
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,hiroi,SPACIOUS,ruQgeu.mp3,incorrect,6208,hiroi_SPACIOUS
-5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,syakiQ,LIVELY,pyuraN.mp3,correct,3339,syakiQ_LIVELY
+5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,syakiQ,LIVELY,pyuraN.mp3,correct,3339,syakiQ_LIVELY (ENERGETIC)
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,kosobai,TICKLING,reweruu.mp3,correct,4099,kosobai_TICKLING
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,katai,HARD,ruyua.mp3,correct,1543,katai_HARD
 5d2b45b9f7ef930001c5fa2d,English,French,"I was trying to guess which Japanese word of two that was played, was the correct word for the meaning a the top of the page.",7,pyoNpyoN,HOPPING,reQ.mp3,correct,1535,pyoNpyoN_HOPPING
@@ -6371,7 +6371,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,nomeQkoi,SLIPPERY,werowea.mp3,incorrect,1878,nomeQkoi_SLICK
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,kukuru,BIND,wiwapya.mp3,correct,1435,kukuru_BIND
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,hiroi,SPACIOUS,wuQpeu.mp3,incorrect,2239,hiroi_SPACIOUS
-60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,syakiQ,ENERGETIC,winuN.mp3,correct,2290,syakiQ_LIVELY
+60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,syakiQ,ENERGETIC,winuN.mp3,correct,2290,syakiQ_LIVELY (ENERGETIC)
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,kosobai,TICKLING,nepyewia.mp3,correct,1063,kosobai_TICKLING
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,katai,HARD,ruyua.mp3,correct,882,katai_HARD
 60fd310fff5b2600c9d95554,English,NA,Guessing japanese words after being told the word in English.,7,pyoNpyoN,HOPPING,reQ.mp3,correct,1028,pyoNpyoN_HOPPING
@@ -6405,7 +6405,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,nomeQkoi,SLIPPERY,yewoneu.mp3,correct,918,nomeQkoi_SLICK
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,kukuru,BIND,naniki.mp3,correct,1605,kukuru_BIND
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,hiroi,WIDE,nakyea.mp3,incorrect,1042,hiroi_SPACIOUS
-6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,syakiQ,LIVELY,pyuraN.mp3,correct,1420,syakiQ_LIVELY
+6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,syakiQ,LIVELY,pyuraN.mp3,correct,1420,syakiQ_LIVELY (ENERGETIC)
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,kosobai,TICKLING,weyeyuu.mp3,correct,2362,kosobai_TICKLING
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,katai,HARD,ruyua.mp3,correct,844,katai_HARD
 6141f62294ff9bf9d89e8897,English,n/a,Listen to two words and pick which one matches the English word at the top,7,pyoNpyoN,HOPPING,zeQ.mp3,correct,1066,pyoNpyoN_HOPPING
@@ -6439,7 +6439,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,nomeQkoi,SMOOTH,pyehorea.mp3,correct,3806,nomeQkoi_SLICK
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,kukuru,BIND,rarikyi.mp3,incorrect,5025,kukuru_BIND
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,hiroi,SPACIOUS,ruQgeu.mp3,correct,5124,hiroi_SPACIOUS
-59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,syakiQ,LIVELY,pyuraN.mp3,correct,2072,syakiQ_LIVELY
+59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,syakiQ,LIVELY,pyuraN.mp3,correct,2072,syakiQ_LIVELY (ENERGETIC)
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,kosobai,TICKLING,nepyewia.mp3,incorrect,1505,kosobai_TICKLING
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,katai,HARD,nuhua.mp3,correct,1952,katai_HARD
 59feed1da383a100011b3eaa,English,"French, Italian",Guessing which of two synthesised Japanese words.(or so you tell me) matches the English translation,7,pyoNpyoN,HOPPING,zeQ.mp3,correct,2557,pyoNpyoN_HOPPING
@@ -6473,7 +6473,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,nomeQkoi,SLIPPERY,werowea.mp3,incorrect,1056,nomeQkoi_SLICK
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,kukuru,BIND,wiwapya.mp3,incorrect,1666,kukuru_BIND
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,hiroi,WIDE,ruQgeu.mp3,correct,1061,hiroi_SPACIOUS
-58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,syakiQ,LIVELY,pyuraN.mp3,correct,1420,syakiQ_LIVELY
+58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,syakiQ,LIVELY,pyuraN.mp3,correct,1420,syakiQ_LIVELY (ENERGETIC)
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,kosobai,TICKLING,nepyewia.mp3,incorrect,2726,kosobai_TICKLING
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,katai,HARD,nuhua.mp3,incorrect,1369,katai_HARD
 58f669cefb4d7500014af69b,English,None,I had to guess between 2 options what the Japanese word i could was in English,7,pyoNpyoN,BOUNCING,zeQ.mp3,correct,2332,pyoNpyoN_HOPPING
@@ -6507,7 +6507,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,nomeQkoi,SMOOTH,yewoneu.mp3,incorrect,1475,nomeQkoi_SLICK
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,kukuru,BIND,naniki.mp3,correct,3142,kukuru_BIND
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,hiroi,SPACIOUS,wuQpeu.mp3,correct,2982,hiroi_SPACIOUS
-5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,4799,syakiQ_LIVELY
+5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,syakiQ,ENERGETIC,yuwaN.mp3,correct,4799,syakiQ_LIVELY (ENERGETIC)
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,kosobai,TICKLING,weyeyuu.mp3,incorrect,2985,kosobai_TICKLING
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,katai,HARD,zuwua.mp3,correct,1408,katai_HARD
 5f3ea43666d9aa10152e637b,English,NA,I listened to two words in Japanese and tried to guess which of them meant a particular word that was given in English,7,pyoNpyoN,HOPPING,zeQ.mp3,incorrect,4633,pyoNpyoN_HOPPING
@@ -6541,7 +6541,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,nomeQkoi,SMOOTH,werowea.mp3,incorrect,1491,nomeQkoi_SLICK
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,kukuru,BIND,rarikyi.mp3,incorrect,5570,kukuru_BIND
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,hiroi,WIDE,ruQgeu.mp3,correct,3954,hiroi_SPACIOUS
-5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1217,syakiQ_LIVELY
+5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,syakiQ,ENERGETIC,yuwaN.mp3,correct,1217,syakiQ_LIVELY (ENERGETIC)
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,kosobai,TICKLING,reweruu.mp3,correct,5642,kosobai_TICKLING
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,katai,HARD,zuwua.mp3,correct,1754,katai_HARD
 5d1a69d8f97a18001977e0d7,English,None,"I had to guess which was the correct Japanese word for a given English target word, just from the way it sounds.",7,pyoNpyoN,HOPPING,zeQ.mp3,correct,1785,pyoNpyoN_HOPPING
@@ -6575,7 +6575,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,nomeQkoi,SMOOTH,pyehorea.mp3,incorrect,7955,nomeQkoi_SLICK
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,kukuru,BIND,naniki.mp3,correct,8645,kukuru_BIND
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,hiroi,SPACIOUS,nakyea.mp3,incorrect,2529,hiroi_SPACIOUS
-5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,2379,syakiQ_LIVELY
+5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,2379,syakiQ_LIVELY (ENERGETIC)
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,kosobai,TICKLING,reweruu.mp3,correct,9513,kosobai_TICKLING
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,katai,HARD,ruyua.mp3,correct,6548,katai_HARD
 5d2fabf8cbcda30001d27a68,English,French(ish),Guessing the menaing between two Japanese words,7,pyoNpyoN,HOPPING,reQ.mp3,correct,1494,pyoNpyoN_HOPPING
@@ -6609,7 +6609,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,nomeQkoi,SMOOTH,yewoneu.mp3,incorrect,887,nomeQkoi_SLICK
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,kukuru,TIGHTEN,rarikyi.mp3,incorrect,2055,kukuru_BIND
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,hiroi,SPACIOUS,ruQgeu.mp3,correct,1045,hiroi_SPACIOUS
-6055b86f3fc8b9037011c319,English,Spanish,NA,7,syakiQ,LIVELY,winuN.mp3,correct,2352,syakiQ_LIVELY
+6055b86f3fc8b9037011c319,English,Spanish,NA,7,syakiQ,LIVELY,winuN.mp3,correct,2352,syakiQ_LIVELY (ENERGETIC)
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,kosobai,TICKLING,weyeyuu.mp3,correct,1348,kosobai_TICKLING
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,katai,HARD,nuhua.mp3,correct,1195,katai_HARD
 6055b86f3fc8b9037011c319,English,Spanish,NA,7,pyoNpyoN,HOPPING,neQ.mp3,correct,2205,pyoNpyoN_HOPPING
@@ -6643,7 +6643,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,nomeQkoi,SLIPPERY,yewoneu.mp3,incorrect,1757,nomeQkoi_SLICK
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,kukuru,BIND,wiwapya.mp3,correct,1908,kukuru_BIND
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,hiroi,WIDE,ruQgeu.mp3,correct,2294,hiroi_SPACIOUS
-597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,syakiQ,LIVELY,yuwaN.mp3,correct,1894,syakiQ_LIVELY
+597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,syakiQ,LIVELY,yuwaN.mp3,correct,1894,syakiQ_LIVELY (ENERGETIC)
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,kosobai,TICKLING,weyeyuu.mp3,correct,1955,kosobai_TICKLING
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,katai,HARD,ruyua.mp3,correct,3057,katai_HARD
 597519f8262c480001bbaf8b,English,None,Attemting to recognise Japanese words and what they could possibly mean,7,pyoNpyoN,BOUNCING,neQ.mp3,correct,1881,pyoNpyoN_HOPPING
@@ -6677,7 +6677,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,nomeQkoi,SLIPPERY,yewoneu.mp3,correct,2590,nomeQkoi_SLICK
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,kukuru,BIND,naniki.mp3,correct,1502,kukuru_BIND
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,hiroi,SPACIOUS,ruQgeu.mp3,correct,5897,hiroi_SPACIOUS
-607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,1628,syakiQ_LIVELY
+607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,syakiQ,LIVELY,yuwaN.mp3,incorrect,1628,syakiQ_LIVELY (ENERGETIC)
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,kosobai,TICKLING,weyeyuu.mp3,correct,1620,kosobai_TICKLING
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,katai,HARD,zuwua.mp3,correct,1844,katai_HARD
 607fd1656a060877b7a0ef52,English,None,Listening to Japanese words spoken by AI and guessing the meaning.,7,pyoNpyoN,HOPPING,neQ.mp3,correct,1402,pyoNpyoN_HOPPING
@@ -6711,7 +6711,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,nomeQkoi,SMOOTH,yewoneu.mp3,correct,1924,nomeQkoi_SLICK
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,kukuru,TIGHTEN,naniki.mp3,incorrect,2545,kukuru_BIND
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,hiroi,SPACIOUS,ruQgeu.mp3,correct,2219,hiroi_SPACIOUS
-5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,syakiQ,ENERGETIC,yuwaN.mp3,incorrect,4265,syakiQ_LIVELY
+5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,syakiQ,ENERGETIC,yuwaN.mp3,incorrect,4265,syakiQ_LIVELY (ENERGETIC)
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,kosobai,TICKLING,nepyewia.mp3,incorrect,2373,kosobai_TICKLING
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,katai,HARD,zuwua.mp3,correct,2148,katai_HARD
 5ef5f74fb4a08f2676fb3aba,English,A Little French,"How people identify the understanding of a word based upon the tone, softness and hardness in which it is said.",7,pyoNpyoN,HOPPING,neQ.mp3,correct,1909,pyoNpyoN_HOPPING
@@ -6745,7 +6745,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,nomeQkoi,SMOOTH,pyehorea.mp3,correct,2445,nomeQkoi_SLICK
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,kukuru,BIND,wiwapya.mp3,correct,1896,kukuru_BIND
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,hiroi,SPACIOUS,ruQgeu.mp3,incorrect,1877,hiroi_SPACIOUS
-609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,6202,syakiQ_LIVELY
+609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,syakiQ,ENERGETIC,pyuraN.mp3,correct,6202,syakiQ_LIVELY (ENERGETIC)
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,kosobai,TICKLING,nepyewia.mp3,correct,1710,kosobai_TICKLING
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,katai,HARD,zuwua.mp3,incorrect,1267,katai_HARD
 609478fa9e5b4d075246cfaf,English,High school French!,I was guessing which word was the English translation of a Japanese word.,7,pyoNpyoN,HOPPING,neQ.mp3,correct,1040,pyoNpyoN_HOPPING
@@ -9883,7 +9883,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,nebutai,DROWSY,worimiu.mp3,incorrect,1676,nebutai_SLEEPY
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,kowa,SCARY,netsi.mp3,incorrect,3524,kowa_SCARY
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,omoi,HEAVY,ehea.mp3,incorrect,2024,omoi_HEAVY
-60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,hirihiri,BURNING,rupyu.mp3,incorrect,5340,hirihiri_BURNING
+60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,hirihiri,BURNING,rupyu.mp3,incorrect,5340,hirihiri_TINGLING
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,bakubaku,DRUMMING (E.G. HEART),yina.mp3,correct,1478,bakubaku_POUNDING (HEART)
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",ruru.mp3,correct,1123,zyikazyika_STINGING (PAIN)
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,syikasyika,PRICKLING,pyanu.mp3,correct,1091,syikasyika_ITCHING
@@ -9893,7 +9893,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,tyobiQto,SLIGHTLY,wewaye.mp3,correct,1867,tyobiQto_A LITTLE
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,haku,VOMIT,pyiwi.mp3,incorrect,2442,haku_SPIT
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,correct,1088,dokidoki_POUNDING (HEART)
-60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,iraira,IMPATIENT,uQpi.mp3,correct,2868,iraira_ANNOYED
+60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,iraira,IMPATIENT,uQpi.mp3,correct,2868,iraira_ANNOYED/IMPATIENT
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,iQpai,STUFFED (FROM EATING TOO MUCH),ariu.mp3,incorrect,1608,iQpai_STUFFED (FULL OF FOOD)
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,kibui,PINCHING,ruriu.mp3,incorrect,2395,kibui_TIGHT
 60bcedfb95503ef821a11a55,English,French (only a little),listen to the words and guess which of the two Japanese words it is that you are hearing,11,zomizomi,SHIVERS (DOWN YOUR SPINE),weya.mp3,correct,1387,zomizomi_(SPINE) TINGLING
@@ -9916,7 +9916,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,nebutai,DROWSY,pyoyawua.mp3,correct,792,nebutai_SLEEPY
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,kowa,SCARY,weQtu.mp3,correct,842,kowa_SCARY
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,omoi,HEAVY,ehea.mp3,incorrect,683,omoi_HEAVY
-613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,hirihiri,TINGLING,naQga.mp3,correct,974,hirihiri_BURNING
+613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,hirihiri,TINGLING,naQga.mp3,correct,974,hirihiri_TINGLING
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,bakubaku,DRUMMING (E.G. HEART),wiwa.mp3,correct,873,bakubaku_POUNDING (HEART)
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,1895,zyikazyika_STINGING (PAIN)
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,syikasyika,PRICKLING,wawu.mp3,incorrect,1478,syikasyika_ITCHING
@@ -9926,7 +9926,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,tyobiQto,A LITTLE,wewaye.mp3,correct,595,tyobiQto_A LITTLE
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,haku,SPIT,wuna.mp3,correct,1162,haku_SPIT
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,dokidoki,POUNDING (E.G. HEART),wena.mp3,correct,844,dokidoki_POUNDING (HEART)
-613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,iraira,IMPATIENT,uQpi.mp3,incorrect,1073,iraira_ANNOYED
+613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,iraira,IMPATIENT,uQpi.mp3,incorrect,1073,iraira_ANNOYED/IMPATIENT
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,iQpai,STUFFED (FROM EATING TOO MUCH),uwua.mp3,correct,2985,iQpai_STUFFED (FULL OF FOOD)
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,kibui,TIGHT,wuwiu.mp3,correct,1059,kibui_TIGHT
 613a36b2ca9109c396665117,English,None,To guess which of the sounds corresponded with the word given,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,1499,zomizomi_(SPINE) TINGLING
@@ -9949,7 +9949,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,nebutai,SLEEPY,pyoyawua.mp3,incorrect,6928,nebutai_SLEEPY
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,kowa,FRIGHTENING,retyu.mp3,incorrect,2963,kowa_SCARY
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,omoi,HEAVY,eyea.mp3,correct,2579,omoi_HEAVY
-5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,hirihiri,BURNING,rupyu.mp3,incorrect,3777,hirihiri_BURNING
+5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,hirihiri,BURNING,rupyu.mp3,incorrect,3777,hirihiri_TINGLING
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,bakubaku,BEATING (E.G. HEART),ruri.mp3,incorrect,1975,bakubaku_POUNDING (HEART)
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",ruru.mp3,incorrect,1830,zyikazyika_STINGING (PAIN)
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,syikasyika,PRICKLING,wawu.mp3,correct,4068,syikasyika_ITCHING
@@ -9959,7 +9959,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,tyobiQto,SLIGHTLY,yeruwe.mp3,incorrect,1510,tyobiQto_A LITTLE
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,haku,VOMIT,pyiwi.mp3,correct,2430,haku_SPIT
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,incorrect,1708,dokidoki_POUNDING (HEART)
-5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,iraira,IMPATIENT,apyu.mp3,correct,1823,iraira_ANNOYED
+5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,iraira,IMPATIENT,apyu.mp3,correct,1823,iraira_ANNOYED/IMPATIENT
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,iQpai,FULL (FROM EATING),uwua.mp3,correct,2071,iQpai_STUFFED (FULL OF FOOD)
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,kibui,PINCHING,ruriu.mp3,incorrect,2246,kibui_TIGHT
 5f588951caf0033fc77e0d30,English,"German, French",Guessing the English meaning of aJapanese word,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,incorrect,4475,zomizomi_(SPINE) TINGLING
@@ -9982,7 +9982,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,nebutai,DROWSY,yowayua.mp3,correct,1854,nebutai_SLEEPY
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,kowa,SCARY,weQtu.mp3,correct,1353,kowa_SCARY
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,omoi,HEAVY,ereu.mp3,correct,1651,omoi_HEAVY
-5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,hirihiri,BURNING,pyuQku.mp3,correct,1411,hirihiri_BURNING
+5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,hirihiri,BURNING,pyuQku.mp3,correct,1411,hirihiri_TINGLING
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,bakubaku,DRUMMING (E.G. HEART),ruri.mp3,correct,2425,bakubaku_POUNDING (HEART)
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,correct,1438,zyikazyika_STINGING (PAIN)
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,syikasyika,ITCHING,yuri.mp3,correct,1956,syikasyika_ITCHING
@@ -9992,7 +9992,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,tyobiQto,A LITTLE,wewaye.mp3,incorrect,1266,tyobiQto_A LITTLE
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,haku,VOMIT,riri.mp3,correct,1974,haku_SPIT
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,correct,1551,dokidoki_POUNDING (HEART)
-5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,iraira,ANNOYED,aku.mp3,correct,1995,iraira_ANNOYED
+5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,iraira,ANNOYED,aku.mp3,correct,1995,iraira_ANNOYED/IMPATIENT
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,iQpai,FULL (FROM EATING),uwua.mp3,incorrect,1279,iQpai_STUFFED (FULL OF FOOD)
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,kibui,TIGHT,nayaa.mp3,correct,1520,kibui_TIGHT
 5ab8d182e1546900019b7195,English,none,identifying words in Japaneese,11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,incorrect,1771,zomizomi_(SPINE) TINGLING
@@ -10015,7 +10015,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,nebutai,DROWSY,yowayua.mp3,correct,1164,nebutai_SLEEPY
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,kowa,FRIGHTENING,weQtu.mp3,correct,1134,kowa_SCARY
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,omoi,HEAVY,ereu.mp3,incorrect,1264,omoi_HEAVY
-604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1030,hirihiri_BURNING
+604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1030,hirihiri_TINGLING
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,bakubaku,BEATING (E.G. HEART),ruri.mp3,incorrect,1098,bakubaku_POUNDING (HEART)
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,1111,zyikazyika_STINGING (PAIN)
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,syikasyika,ITCHING,wawu.mp3,incorrect,1065,syikasyika_ITCHING
@@ -10025,7 +10025,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,tyobiQto,SLIGHTLY,yeruwe.mp3,correct,1504,tyobiQto_A LITTLE
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,haku,VOMIT,riri.mp3,incorrect,1309,haku_SPIT
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,dokidoki,DRUMMING (E.G. HEART),wena.mp3,correct,2344,dokidoki_POUNDING (HEART)
-604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,iraira,ANNOYED,apyu.mp3,incorrect,989,iraira_ANNOYED
+604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,iraira,ANNOYED,apyu.mp3,incorrect,989,iraira_ANNOYED/IMPATIENT
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,iQpai,FULL (FROM EATING),uwua.mp3,correct,1392,iQpai_STUFFED (FULL OF FOOD)
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,kibui,TIGHT,ruriu.mp3,correct,1290,kibui_TIGHT
 604a0ac081f2156807e681ef,English,None,Guessing which sound note was the correct japenese word,11,zomizomi,(SPINE) TINGLING,yera.mp3,incorrect,1009,zomizomi_(SPINE) TINGLING
@@ -10048,7 +10048,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,nebutai,DROWSY,pyoyawua.mp3,incorrect,879,nebutai_SLEEPY
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,kowa,FRIGHTENING,retyu.mp3,incorrect,963,kowa_SCARY
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,omoi,HEAVY,eyea.mp3,incorrect,1113,omoi_HEAVY
-5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,hirihiri,TINGLING,pyuQku.mp3,correct,957,hirihiri_BURNING
+5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,hirihiri,TINGLING,pyuQku.mp3,correct,957,hirihiri_TINGLING
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,bakubaku,DRUMMING (E.G. HEART),yina.mp3,correct,900,bakubaku_POUNDING (HEART)
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,919,zyikazyika_STINGING (PAIN)
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,syikasyika,PRICKLING,wawu.mp3,correct,935,syikasyika_ITCHING
@@ -10058,7 +10058,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,tyobiQto,SLIGHTLY,yeruwe.mp3,incorrect,1166,tyobiQto_A LITTLE
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,haku,SPIT,riri.mp3,correct,1058,haku_SPIT
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,dokidoki,BEATING (E.G. HEART),yeru.mp3,correct,1158,dokidoki_POUNDING (HEART)
-5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,iraira,ANNOYED,apyu.mp3,incorrect,1003,iraira_ANNOYED
+5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,iraira,ANNOYED,apyu.mp3,incorrect,1003,iraira_ANNOYED/IMPATIENT
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,iQpai,FULL (FROM EATING),ariu.mp3,incorrect,1053,iQpai_STUFFED (FULL OF FOOD)
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,kibui,TIGHT,ruriu.mp3,correct,856,kibui_TIGHT
 5f031154d2fab64a687af6db,English,None,"Guessing what Japanese words were being said, provided with two options",11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,correct,921,zomizomi_(SPINE) TINGLING
@@ -10081,7 +10081,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,nebutai,DROWSY,worimiu.mp3,correct,6064,nebutai_SLEEPY
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,kowa,SCARY,retyu.mp3,correct,5200,kowa_SCARY
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,omoi,HEAVY,eyea.mp3,incorrect,7583,omoi_HEAVY
-609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,hirihiri,TINGLING,pyuQku.mp3,correct,2974,hirihiri_BURNING
+609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,hirihiri,TINGLING,pyuQku.mp3,correct,2974,hirihiri_TINGLING
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,bakubaku,POUNDING (E.G. HEART),ruri.mp3,correct,2312,bakubaku_POUNDING (HEART)
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,correct,2817,zyikazyika_STINGING (PAIN)
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,syikasyika,PRICKLING,yuri.mp3,correct,2856,syikasyika_ITCHING
@@ -10091,7 +10091,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,tyobiQto,A LITTLE,wewaye.mp3,correct,3911,tyobiQto_A LITTLE
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,haku,SPIT,wuna.mp3,correct,5921,haku_SPIT
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,dokidoki,BEATING (E.G. HEART),wena.mp3,correct,3624,dokidoki_POUNDING (HEART)
-609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,iraira,IMPATIENT,uQpi.mp3,incorrect,2985,iraira_ANNOYED
+609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,iraira,IMPATIENT,uQpi.mp3,incorrect,2985,iraira_ANNOYED/IMPATIENT
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,iQpai,FULL (FROM EATING),uyua.mp3,incorrect,6363,iQpai_STUFFED (FULL OF FOOD)
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,kibui,PINCHING,nayaa.mp3,correct,3357,kibui_TIGHT
 609fa09ded5dd5b4ee42cc4c,English,None,"Guessing the meaning of Japanese words, choosing between two words.",11,zomizomi,(SPINE) TINGLING,weya.mp3,correct,4064,zomizomi_(SPINE) TINGLING
@@ -10114,7 +10114,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,nebutai,DROWSY,pyoyawua.mp3,correct,1936,nebutai_SLEEPY
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,kowa,SCARY,retyu.mp3,incorrect,1824,kowa_SCARY
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,omoi,HEAVY,ereu.mp3,incorrect,935,omoi_HEAVY
-597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,hirihiri,TINGLING,naQga.mp3,incorrect,2945,hirihiri_BURNING
+597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,hirihiri,TINGLING,naQga.mp3,incorrect,2945,hirihiri_TINGLING
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,bakubaku,DRUMMING (E.G. HEART),wiwa.mp3,correct,2085,bakubaku_POUNDING (HEART)
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,correct,3167,zyikazyika_STINGING (PAIN)
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,syikasyika,PRICKLING,yuri.mp3,correct,1459,syikasyika_ITCHING
@@ -10124,7 +10124,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,tyobiQto,SLIGHTLY,reyame.mp3,correct,2717,tyobiQto_A LITTLE
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,haku,VOMIT,wuna.mp3,correct,1201,haku_SPIT
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,dokidoki,POUNDING (E.G. HEART),wena.mp3,correct,1526,dokidoki_POUNDING (HEART)
-597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,iraira,IMPATIENT,uQpi.mp3,incorrect,2371,iraira_ANNOYED
+597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,iraira,IMPATIENT,uQpi.mp3,incorrect,2371,iraira_ANNOYED/IMPATIENT
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,iQpai,STUFFED (FROM EATING TOO MUCH),ariu.mp3,incorrect,2938,iQpai_STUFFED (FULL OF FOOD)
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,kibui,TIGHT,ruriu.mp3,correct,2450,kibui_TIGHT
 597f1a63fd9fe50001167be5,English,NA,Deciding which of 2 Japanese words matched the given meaning,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,3037,zomizomi_(SPINE) TINGLING
@@ -10147,7 +10147,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,nebutai,DROWSY,yowayua.mp3,incorrect,2030,nebutai_SLEEPY
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,kowa,FRIGHTENING,retyu.mp3,correct,5827,kowa_SCARY
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,omoi,HEAVY,ehea.mp3,correct,1311,omoi_HEAVY
-615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,hirihiri,BURNING,naQga.mp3,incorrect,22876,hirihiri_BURNING
+615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,hirihiri,BURNING,naQga.mp3,incorrect,22876,hirihiri_TINGLING
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,incorrect,4909,bakubaku_POUNDING (HEART)
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,8735,zyikazyika_STINGING (PAIN)
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,syikasyika,ITCHING,pyanu.mp3,correct,7353,syikasyika_ITCHING
@@ -10157,7 +10157,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,tyobiQto,A LITTLE,reyame.mp3,correct,2840,tyobiQto_A LITTLE
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,haku,SPIT,wuna.mp3,correct,6912,haku_SPIT
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,dokidoki,DRUMMING (E.G. HEART),wena.mp3,correct,2214,dokidoki_POUNDING (HEART)
-615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,iraira,IMPATIENT,aku.mp3,incorrect,3223,iraira_ANNOYED
+615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,iraira,IMPATIENT,aku.mp3,incorrect,3223,iraira_ANNOYED/IMPATIENT
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,incorrect,3395,iQpai_STUFFED (FULL OF FOOD)
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,kibui,TIGHT,ruriu.mp3,incorrect,4552,kibui_TIGHT
 615b2d17cfb3b1a27bfaf456,English,none,Japanese word sound recognition,11,zomizomi,SHIVERS (DOWN YOUR SPINE),weya.mp3,incorrect,2534,zomizomi_(SPINE) TINGLING
@@ -10180,7 +10180,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,nebutai,SLEEPY,worimiu.mp3,correct,1272,nebutai_SLEEPY
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,kowa,SCARY,retyu.mp3,correct,1531,kowa_SCARY
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,omoi,HEAVY,ehea.mp3,correct,1202,omoi_HEAVY
-60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,hirihiri,BURNING,rupyu.mp3,correct,1188,hirihiri_BURNING
+60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,hirihiri,BURNING,rupyu.mp3,correct,1188,hirihiri_TINGLING
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,correct,1006,bakubaku_POUNDING (HEART)
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,correct,1708,zyikazyika_STINGING (PAIN)
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,syikasyika,ITCHING,yuri.mp3,correct,853,syikasyika_ITCHING
@@ -10190,7 +10190,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,tyobiQto,SLIGHTLY,reyame.mp3,incorrect,1149,tyobiQto_A LITTLE
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,haku,SPIT,pyiwi.mp3,correct,1361,haku_SPIT
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,dokidoki,BEATING (E.G. HEART),wena.mp3,correct,1078,dokidoki_POUNDING (HEART)
-60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,iraira,ANNOYED,uQpi.mp3,incorrect,1628,iraira_ANNOYED
+60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,iraira,ANNOYED,uQpi.mp3,incorrect,1628,iraira_ANNOYED/IMPATIENT
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,iQpai,FULL (FROM EATING),ariu.mp3,correct,2669,iQpai_STUFFED (FULL OF FOOD)
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,kibui,TIGHT,wuwiu.mp3,incorrect,2755,kibui_TIGHT
 60de38a66ea4d4dfbb405988,English,NA,Deciding which spoken word translated to the same meaning of the English word.,11,zomizomi,(SPINE) TINGLING,pyewu.mp3,correct,1148,zomizomi_(SPINE) TINGLING
@@ -10213,7 +10213,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,nebutai,DROWSY,worimiu.mp3,correct,1238,nebutai_SLEEPY
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,kowa,SCARY,weQtu.mp3,incorrect,2027,kowa_SCARY
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,omoi,HEAVY,ehea.mp3,incorrect,1422,omoi_HEAVY
-5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,hirihiri,TINGLING,pyuQku.mp3,correct,1159,hirihiri_BURNING
+5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,hirihiri,TINGLING,pyuQku.mp3,correct,1159,hirihiri_TINGLING
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,bakubaku,POUNDING (E.G. HEART),wiwa.mp3,correct,1633,bakubaku_POUNDING (HEART)
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,2359,zyikazyika_STINGING (PAIN)
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,syikasyika,ITCHING,pyanu.mp3,correct,1344,syikasyika_ITCHING
@@ -10223,7 +10223,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,tyobiQto,SLIGHTLY,yeruwe.mp3,incorrect,1191,tyobiQto_A LITTLE
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,haku,VOMIT,wuna.mp3,correct,2070,haku_SPIT
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,dokidoki,DRUMMING (E.G. HEART),hewu.mp3,incorrect,1569,dokidoki_POUNDING (HEART)
-5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,iraira,ANNOYED,aku.mp3,correct,1063,iraira_ANNOYED
+5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,iraira,ANNOYED,aku.mp3,correct,1063,iraira_ANNOYED/IMPATIENT
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,incorrect,1221,iQpai_STUFFED (FULL OF FOOD)
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,kibui,PINCHING,ruriu.mp3,incorrect,1528,kibui_TIGHT
 5d285eb5324974001908c626,English,None,Guessing Japenese words against sounds,11,zomizomi,(SPINE) TINGLING,pyewu.mp3,incorrect,1601,zomizomi_(SPINE) TINGLING
@@ -10246,7 +10246,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,nebutai,SLEEPY,yowayua.mp3,correct,1321,nebutai_SLEEPY
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,kowa,SCARY,retyu.mp3,incorrect,2634,kowa_SCARY
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,omoi,HEAVY,ereu.mp3,incorrect,2561,omoi_HEAVY
-5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1010,hirihiri_BURNING
+5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1010,hirihiri_TINGLING
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,incorrect,1479,bakubaku_POUNDING (HEART)
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",ruru.mp3,incorrect,5109,zyikazyika_STINGING (PAIN)
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,syikasyika,ITCHING,pyanu.mp3,correct,2225,syikasyika_ITCHING
@@ -10256,7 +10256,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,tyobiQto,SLIGHTLY,reyame.mp3,correct,954,tyobiQto_A LITTLE
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,haku,VOMIT,pyiwi.mp3,incorrect,2002,haku_SPIT
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,incorrect,1037,dokidoki_POUNDING (HEART)
-5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,iraira,IMPATIENT,apyu.mp3,incorrect,1452,iraira_ANNOYED
+5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,iraira,IMPATIENT,apyu.mp3,incorrect,1452,iraira_ANNOYED/IMPATIENT
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,iQpai,FULL (FROM EATING),uwua.mp3,correct,4439,iQpai_STUFFED (FULL OF FOOD)
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,kibui,PINCHING,nayaa.mp3,correct,1030,kibui_TIGHT
 5ec310cde88df1155e32bba6,English,French,Listening to two words and guessing which one meant a certain thing in Japanese.,11,zomizomi,(SPINE) TINGLING,weya.mp3,incorrect,3206,zomizomi_(SPINE) TINGLING
@@ -10279,7 +10279,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,nebutai,SLEEPY,pyoyawua.mp3,correct,1144,nebutai_SLEEPY
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,kowa,FRIGHTENING,netsi.mp3,correct,1967,kowa_SCARY
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,omoi,HEAVY,ereu.mp3,correct,1107,omoi_HEAVY
-5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,hirihiri,TINGLING,naQga.mp3,correct,1086,hirihiri_BURNING
+5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,hirihiri,TINGLING,naQga.mp3,correct,1086,hirihiri_TINGLING
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,bakubaku,DRUMMING (E.G. HEART),wiwa.mp3,correct,1898,bakubaku_POUNDING (HEART)
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",ruru.mp3,correct,1877,zyikazyika_STINGING (PAIN)
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,syikasyika,PRICKLING,yuri.mp3,correct,2175,syikasyika_ITCHING
@@ -10289,7 +10289,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,tyobiQto,SLIGHTLY,reyame.mp3,correct,1167,tyobiQto_A LITTLE
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,haku,VOMIT,riri.mp3,correct,1451,haku_SPIT
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,dokidoki,POUNDING (E.G. HEART),yeru.mp3,incorrect,2059,dokidoki_POUNDING (HEART)
-5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,iraira,ANNOYED,uQpi.mp3,correct,1838,iraira_ANNOYED
+5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,iraira,ANNOYED,uQpi.mp3,correct,1838,iraira_ANNOYED/IMPATIENT
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,iQpai,FULL (FROM EATING),uwua.mp3,incorrect,1019,iQpai_STUFFED (FULL OF FOOD)
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,kibui,PINCHING,ruriu.mp3,correct,1889,kibui_TIGHT
 5cf8e269ac28dd00196e7ad2,English,NA,Guessing meanings,11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,correct,1887,zomizomi_(SPINE) TINGLING
@@ -10312,7 +10312,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5995561d5f49420001cafba5,English,NA,NA,11,nebutai,DROWSY,pyoyawua.mp3,correct,832,nebutai_SLEEPY
 5995561d5f49420001cafba5,English,NA,NA,11,kowa,FRIGHTENING,weQtu.mp3,incorrect,883,kowa_SCARY
 5995561d5f49420001cafba5,English,NA,NA,11,omoi,HEAVY,ereu.mp3,incorrect,1967,omoi_HEAVY
-5995561d5f49420001cafba5,English,NA,NA,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,910,hirihiri_BURNING
+5995561d5f49420001cafba5,English,NA,NA,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,910,hirihiri_TINGLING
 5995561d5f49420001cafba5,English,NA,NA,11,bakubaku,DRUMMING (E.G. HEART),ruri.mp3,correct,960,bakubaku_POUNDING (HEART)
 5995561d5f49420001cafba5,English,NA,NA,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,925,zyikazyika_STINGING (PAIN)
 5995561d5f49420001cafba5,English,NA,NA,11,syikasyika,PRICKLING,yuri.mp3,correct,732,syikasyika_ITCHING
@@ -10322,7 +10322,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5995561d5f49420001cafba5,English,NA,NA,11,tyobiQto,A LITTLE,yeruwe.mp3,correct,868,tyobiQto_A LITTLE
 5995561d5f49420001cafba5,English,NA,NA,11,haku,SPIT,pyiwi.mp3,incorrect,810,haku_SPIT
 5995561d5f49420001cafba5,English,NA,NA,11,dokidoki,POUNDING (E.G. HEART),yeru.mp3,correct,757,dokidoki_POUNDING (HEART)
-5995561d5f49420001cafba5,English,NA,NA,11,iraira,IMPATIENT,uQpi.mp3,incorrect,891,iraira_ANNOYED
+5995561d5f49420001cafba5,English,NA,NA,11,iraira,IMPATIENT,uQpi.mp3,incorrect,891,iraira_ANNOYED/IMPATIENT
 5995561d5f49420001cafba5,English,NA,NA,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,716,iQpai_STUFFED (FULL OF FOOD)
 5995561d5f49420001cafba5,English,NA,NA,11,kibui,TIGHT,nayaa.mp3,incorrect,676,kibui_TIGHT
 5995561d5f49420001cafba5,English,NA,NA,11,zomizomi,(SPINE) TINGLING,pyewu.mp3,incorrect,1371,zomizomi_(SPINE) TINGLING
@@ -10345,7 +10345,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,nebutai,DROWSY,yowayua.mp3,correct,938,nebutai_SLEEPY
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,kowa,FRIGHTENING,retyu.mp3,incorrect,1327,kowa_SCARY
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,omoi,HEAVY,ehea.mp3,incorrect,1115,omoi_HEAVY
-5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,hirihiri,TINGLING,naQga.mp3,correct,1690,hirihiri_BURNING
+5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,hirihiri,TINGLING,naQga.mp3,correct,1690,hirihiri_TINGLING
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,bakubaku,DRUMMING (E.G. HEART),ruri.mp3,correct,1509,bakubaku_POUNDING (HEART)
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",ruru.mp3,incorrect,1010,zyikazyika_STINGING (PAIN)
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,syikasyika,ITCHING,wawu.mp3,correct,814,syikasyika_ITCHING
@@ -10355,7 +10355,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,tyobiQto,SLIGHTLY,yeruwe.mp3,correct,788,tyobiQto_A LITTLE
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,haku,VOMIT,pyiwi.mp3,correct,1292,haku_SPIT
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,dokidoki,DRUMMING (E.G. HEART),hewu.mp3,correct,2721,dokidoki_POUNDING (HEART)
-5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,iraira,ANNOYED,apyu.mp3,correct,1052,iraira_ANNOYED
+5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,iraira,ANNOYED,apyu.mp3,correct,1052,iraira_ANNOYED/IMPATIENT
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,iQpai,FULL (FROM EATING),uwua.mp3,correct,1869,iQpai_STUFFED (FULL OF FOOD)
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,kibui,PINCHING,ruriu.mp3,correct,1439,kibui_TIGHT
 5ee32976afc30b4bff630695,English,German,guess the meaning of the word in Japanese,11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,correct,1004,zomizomi_(SPINE) TINGLING
@@ -10378,7 +10378,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,nebutai,SLEEPY,worimiu.mp3,correct,1560,nebutai_SLEEPY
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,kowa,FRIGHTENING,retyu.mp3,correct,7292,kowa_SCARY
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,omoi,HEAVY,ereu.mp3,correct,1052,omoi_HEAVY
-611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,hirihiri,TINGLING,naQga.mp3,incorrect,2448,hirihiri_BURNING
+611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,hirihiri,TINGLING,naQga.mp3,incorrect,2448,hirihiri_TINGLING
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,bakubaku,POUNDING (E.G. HEART),yina.mp3,correct,1581,bakubaku_POUNDING (HEART)
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,2339,zyikazyika_STINGING (PAIN)
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,syikasyika,PRICKLING,pyanu.mp3,correct,1000,syikasyika_ITCHING
@@ -10388,7 +10388,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,tyobiQto,SLIGHTLY,yeruwe.mp3,correct,841,tyobiQto_A LITTLE
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,haku,SPIT,wuna.mp3,correct,1080,haku_SPIT
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,correct,1221,dokidoki_POUNDING (HEART)
-611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,iraira,IMPATIENT,apyu.mp3,incorrect,993,iraira_ANNOYED
+611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,iraira,IMPATIENT,apyu.mp3,incorrect,993,iraira_ANNOYED/IMPATIENT
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,1813,iQpai_STUFFED (FULL OF FOOD)
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,kibui,TIGHT,nayaa.mp3,incorrect,2934,kibui_TIGHT
 611fdbcae40b26b6f6025cfe,English,NA,"Given a word in English, pick which Japanese word from two audio clips is the correct translation",11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,1736,zomizomi_(SPINE) TINGLING
@@ -10411,7 +10411,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,nebutai,SLEEPY,pyoyawua.mp3,incorrect,908,nebutai_SLEEPY
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,kowa,FRIGHTENING,weQtu.mp3,correct,2206,kowa_SCARY
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,omoi,HEAVY,ereu.mp3,incorrect,928,omoi_HEAVY
-610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,hirihiri,BURNING,pyuQku.mp3,correct,1285,hirihiri_BURNING
+610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,hirihiri,BURNING,pyuQku.mp3,correct,1285,hirihiri_TINGLING
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,correct,1114,bakubaku_POUNDING (HEART)
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,1599,zyikazyika_STINGING (PAIN)
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,syikasyika,PRICKLING,yuri.mp3,correct,770,syikasyika_ITCHING
@@ -10421,7 +10421,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,tyobiQto,A LITTLE,wewaye.mp3,incorrect,1567,tyobiQto_A LITTLE
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,haku,SPIT,riri.mp3,correct,1229,haku_SPIT
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,correct,1498,dokidoki_POUNDING (HEART)
-610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,iraira,ANNOYED,aku.mp3,incorrect,1066,iraira_ANNOYED
+610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,iraira,ANNOYED,aku.mp3,incorrect,1066,iraira_ANNOYED/IMPATIENT
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,iQpai,FULL (FROM EATING),uwua.mp3,incorrect,1491,iQpai_STUFFED (FULL OF FOOD)
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,kibui,PINCHING,ruriu.mp3,correct,1271,kibui_TIGHT
 610e5239f868e87f3b5a6087,English,NA,Guessing the meaning of Japanese words,11,zomizomi,(SPINE) TINGLING,pyewu.mp3,incorrect,856,zomizomi_(SPINE) TINGLING
@@ -10444,7 +10444,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,nebutai,SLEEPY,worimiu.mp3,incorrect,5477,nebutai_SLEEPY
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,kowa,FRIGHTENING,netsi.mp3,incorrect,1292,kowa_SCARY
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,omoi,HEAVY,eyea.mp3,incorrect,1244,omoi_HEAVY
-6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,hirihiri,TINGLING,rupyu.mp3,incorrect,863,hirihiri_BURNING
+6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,hirihiri,TINGLING,rupyu.mp3,incorrect,863,hirihiri_TINGLING
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,bakubaku,POUNDING (E.G. HEART),ruri.mp3,correct,1165,bakubaku_POUNDING (HEART)
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,correct,1950,zyikazyika_STINGING (PAIN)
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,syikasyika,PRICKLING,pyanu.mp3,correct,1059,syikasyika_ITCHING
@@ -10454,7 +10454,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,tyobiQto,SLIGHTLY,wewaye.mp3,correct,2234,tyobiQto_A LITTLE
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,haku,VOMIT,pyiwi.mp3,incorrect,1352,haku_SPIT
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,dokidoki,BEATING (E.G. HEART),wena.mp3,correct,1470,dokidoki_POUNDING (HEART)
-6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,iraira,ANNOYED,uQpi.mp3,incorrect,995,iraira_ANNOYED
+6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,iraira,ANNOYED,uQpi.mp3,incorrect,995,iraira_ANNOYED/IMPATIENT
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,iQpai,FULL (FROM EATING),uyua.mp3,correct,1193,iQpai_STUFFED (FULL OF FOOD)
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,kibui,TIGHT,ruriu.mp3,incorrect,1309,kibui_TIGHT
 6010571dc1152033ac3bc4ca,English,NA,Listen to two Japanese words and guess which one is the correct translation of the word in English provided each round.,11,zomizomi,SHIVERS (DOWN YOUR SPINE),weya.mp3,correct,919,zomizomi_(SPINE) TINGLING
@@ -10477,7 +10477,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,nebutai,DROWSY,pyoyawua.mp3,incorrect,1724,nebutai_SLEEPY
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,kowa,SCARY,retyu.mp3,correct,9271,kowa_SCARY
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,omoi,HEAVY,ehea.mp3,incorrect,1366,omoi_HEAVY
-6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,hirihiri,BURNING,naQga.mp3,incorrect,1552,hirihiri_BURNING
+6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,hirihiri,BURNING,naQga.mp3,incorrect,1552,hirihiri_TINGLING
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,bakubaku,DRUMMING (E.G. HEART),wiwa.mp3,incorrect,2368,bakubaku_POUNDING (HEART)
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,1559,zyikazyika_STINGING (PAIN)
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,syikasyika,PRICKLING,wawu.mp3,correct,1950,syikasyika_ITCHING
@@ -10487,7 +10487,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,tyobiQto,A LITTLE,wewaye.mp3,correct,1303,tyobiQto_A LITTLE
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,haku,SPIT,riri.mp3,correct,4035,haku_SPIT
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,dokidoki,POUNDING (E.G. HEART),wena.mp3,correct,2839,dokidoki_POUNDING (HEART)
-6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,iraira,IMPATIENT,apyu.mp3,correct,1511,iraira_ANNOYED
+6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,iraira,IMPATIENT,apyu.mp3,correct,1511,iraira_ANNOYED/IMPATIENT
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,incorrect,2009,iQpai_STUFFED (FULL OF FOOD)
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,kibui,PINCHING,wuwiu.mp3,incorrect,3303,kibui_TIGHT
 6031611764a03409e99ffdf2,english,spanish,guessing which word was the correct japanese translation,11,zomizomi,(SPINE) TINGLING,yera.mp3,incorrect,1709,zomizomi_(SPINE) TINGLING
@@ -10510,7 +10510,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,nebutai,SLEEPY,pyoyawua.mp3,correct,917,nebutai_SLEEPY
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,kowa,FRIGHTENING,retyu.mp3,correct,2952,kowa_SCARY
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,omoi,HEAVY,ereu.mp3,correct,1428,omoi_HEAVY
-5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,hirihiri,BURNING,pyuQku.mp3,incorrect,5598,hirihiri_BURNING
+5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,hirihiri,BURNING,pyuQku.mp3,incorrect,5598,hirihiri_TINGLING
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,bakubaku,POUNDING (E.G. HEART),yina.mp3,correct,1153,bakubaku_POUNDING (HEART)
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,1450,zyikazyika_STINGING (PAIN)
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,syikasyika,PRICKLING,pyanu.mp3,correct,4978,syikasyika_ITCHING
@@ -10520,7 +10520,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,tyobiQto,SLIGHTLY,reyame.mp3,incorrect,1774,tyobiQto_A LITTLE
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,haku,VOMIT,riri.mp3,incorrect,1443,haku_SPIT
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,dokidoki,BEATING (E.G. HEART),wena.mp3,correct,3525,dokidoki_POUNDING (HEART)
-5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,iraira,IMPATIENT,uQpi.mp3,correct,5701,iraira_ANNOYED
+5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,iraira,IMPATIENT,uQpi.mp3,correct,5701,iraira_ANNOYED/IMPATIENT
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,iQpai,FULL (FROM EATING),uwua.mp3,incorrect,6390,iQpai_STUFFED (FULL OF FOOD)
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,kibui,PINCHING,ruriu.mp3,incorrect,2782,kibui_TIGHT
 5a553e7976d1c60001aad777,english,spanish,I was listening to two japanese words and guessing which one matched the english word given,11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,correct,2107,zomizomi_(SPINE) TINGLING
@@ -10543,7 +10543,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,nebutai,SLEEPY,pyoyawua.mp3,correct,3950,nebutai_SLEEPY
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,kowa,FRIGHTENING,netsi.mp3,incorrect,1581,kowa_SCARY
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,omoi,HEAVY,ereu.mp3,correct,1151,omoi_HEAVY
-5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,hirihiri,BURNING,rupyu.mp3,incorrect,2136,hirihiri_BURNING
+5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,hirihiri,BURNING,rupyu.mp3,incorrect,2136,hirihiri_TINGLING
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,bakubaku,POUNDING (E.G. HEART),ruri.mp3,correct,1278,bakubaku_POUNDING (HEART)
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,correct,1526,zyikazyika_STINGING (PAIN)
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,syikasyika,ITCHING,yuri.mp3,correct,1597,syikasyika_ITCHING
@@ -10553,7 +10553,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,tyobiQto,A LITTLE,yeruwe.mp3,correct,1608,tyobiQto_A LITTLE
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,haku,VOMIT,wuna.mp3,incorrect,1534,haku_SPIT
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,correct,2107,dokidoki_POUNDING (HEART)
-5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,iraira,IMPATIENT,uQpi.mp3,correct,1629,iraira_ANNOYED
+5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,iraira,IMPATIENT,uQpi.mp3,correct,1629,iraira_ANNOYED/IMPATIENT
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,1518,iQpai_STUFFED (FULL OF FOOD)
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,kibui,TIGHT,nayaa.mp3,incorrect,1528,kibui_TIGHT
 5bb3bac16322c5000158da04,English,none really!,attempting to identify the correct japenese sound for the word listed,11,zomizomi,SHIVERS (DOWN YOUR SPINE),pyewu.mp3,correct,2640,zomizomi_(SPINE) TINGLING
@@ -10576,7 +10576,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,nebutai,SLEEPY,worimiu.mp3,incorrect,1057,nebutai_SLEEPY
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,kowa,SCARY,retyu.mp3,incorrect,1023,kowa_SCARY
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,omoi,HEAVY,ereu.mp3,incorrect,1490,omoi_HEAVY
-5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,hirihiri,TINGLING,naQga.mp3,correct,1130,hirihiri_BURNING
+5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,hirihiri,TINGLING,naQga.mp3,correct,1130,hirihiri_TINGLING
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,bakubaku,POUNDING (E.G. HEART),yina.mp3,correct,990,bakubaku_POUNDING (HEART)
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",wani.mp3,correct,1496,zyikazyika_STINGING (PAIN)
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,syikasyika,PRICKLING,wawu.mp3,correct,1093,syikasyika_ITCHING
@@ -10586,7 +10586,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,tyobiQto,SLIGHTLY,reyame.mp3,correct,1439,tyobiQto_A LITTLE
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,haku,SPIT,riri.mp3,incorrect,1788,haku_SPIT
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,dokidoki,BEATING (E.G. HEART),wena.mp3,incorrect,1826,dokidoki_POUNDING (HEART)
-5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,iraira,ANNOYED,apyu.mp3,incorrect,1088,iraira_ANNOYED
+5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,iraira,ANNOYED,apyu.mp3,incorrect,1088,iraira_ANNOYED/IMPATIENT
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,iQpai,STUFFED (FROM EATING TOO MUCH),ariu.mp3,correct,1250,iQpai_STUFFED (FULL OF FOOD)
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,kibui,PINCHING,wuwiu.mp3,correct,1223,kibui_TIGHT
 5cd863b8b0e8ad0001d1ea07,English,NA,Listening to two sounds and stating which i thought corresponded to the word listed,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,1313,zomizomi_(SPINE) TINGLING
@@ -10609,7 +10609,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,nebutai,SLEEPY,worimiu.mp3,correct,6795,nebutai_SLEEPY
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,kowa,FRIGHTENING,weQtu.mp3,correct,5274,kowa_SCARY
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,omoi,HEAVY,ereu.mp3,correct,5056,omoi_HEAVY
-5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,hirihiri,TINGLING,rupyu.mp3,correct,1316,hirihiri_BURNING
+5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,hirihiri,TINGLING,rupyu.mp3,correct,1316,hirihiri_TINGLING
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,bakubaku,POUNDING (E.G. HEART),yina.mp3,correct,1244,bakubaku_POUNDING (HEART)
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,1276,zyikazyika_STINGING (PAIN)
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,syikasyika,ITCHING,yuri.mp3,correct,3164,syikasyika_ITCHING
@@ -10619,7 +10619,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,tyobiQto,SLIGHTLY,wewaye.mp3,incorrect,6103,tyobiQto_A LITTLE
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,haku,VOMIT,riri.mp3,correct,1238,haku_SPIT
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,dokidoki,BEATING (E.G. HEART),hewu.mp3,correct,976,dokidoki_POUNDING (HEART)
-5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,iraira,ANNOYED,aku.mp3,incorrect,1138,iraira_ANNOYED
+5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,iraira,ANNOYED,aku.mp3,incorrect,1138,iraira_ANNOYED/IMPATIENT
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,incorrect,1029,iQpai_STUFFED (FULL OF FOOD)
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,kibui,PINCHING,wuwiu.mp3,correct,1744,kibui_TIGHT
 5d530ac47f7e0b0016ee8cde,English,NA,Identify the meaning of Japanese words,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,934,zomizomi_(SPINE) TINGLING
@@ -10642,7 +10642,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,nebutai,DROWSY,worimiu.mp3,incorrect,1584,nebutai_SLEEPY
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,kowa,FRIGHTENING,weQtu.mp3,incorrect,2291,kowa_SCARY
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,omoi,HEAVY,eyea.mp3,correct,1641,omoi_HEAVY
-568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,hirihiri,BURNING,rupyu.mp3,incorrect,815,hirihiri_BURNING
+568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,hirihiri,BURNING,rupyu.mp3,incorrect,815,hirihiri_TINGLING
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,bakubaku,BEATING (E.G. HEART),ruri.mp3,incorrect,1202,bakubaku_POUNDING (HEART)
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",ruru.mp3,correct,2901,zyikazyika_STINGING (PAIN)
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,syikasyika,ITCHING,pyanu.mp3,correct,2215,syikasyika_ITCHING
@@ -10652,7 +10652,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,tyobiQto,SLIGHTLY,yeruwe.mp3,incorrect,1412,tyobiQto_A LITTLE
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,haku,SPIT,pyiwi.mp3,incorrect,1441,haku_SPIT
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,dokidoki,DRUMMING (E.G. HEART),yeru.mp3,incorrect,1799,dokidoki_POUNDING (HEART)
-568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,iraira,ANNOYED,apyu.mp3,incorrect,951,iraira_ANNOYED
+568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,iraira,ANNOYED,apyu.mp3,incorrect,951,iraira_ANNOYED/IMPATIENT
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,1151,iQpai_STUFFED (FULL OF FOOD)
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,kibui,PINCHING,wuwiu.mp3,correct,983,kibui_TIGHT
 568708c6369319000c268f8d,English,none,pick which word in japanese matched the english one,11,zomizomi,(SPINE) TINGLING,yera.mp3,correct,1648,zomizomi_(SPINE) TINGLING
@@ -10675,7 +10675,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,nebutai,SLEEPY,yowayua.mp3,correct,5485,nebutai_SLEEPY
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,kowa,SCARY,netsi.mp3,incorrect,3176,kowa_SCARY
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,omoi,HEAVY,eyea.mp3,incorrect,4309,omoi_HEAVY
-5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,hirihiri,TINGLING,pyuQku.mp3,correct,8973,hirihiri_BURNING
+5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,hirihiri,TINGLING,pyuQku.mp3,correct,8973,hirihiri_TINGLING
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,bakubaku,BEATING (E.G. HEART),ruri.mp3,incorrect,13612,bakubaku_POUNDING (HEART)
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",ruru.mp3,incorrect,6552,zyikazyika_STINGING (PAIN)
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,syikasyika,ITCHING,wawu.mp3,correct,2745,syikasyika_ITCHING
@@ -10685,7 +10685,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,tyobiQto,A LITTLE,wewaye.mp3,incorrect,3585,tyobiQto_A LITTLE
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,haku,SPIT,wuna.mp3,incorrect,6793,haku_SPIT
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,dokidoki,POUNDING (E.G. HEART),hewu.mp3,correct,4157,dokidoki_POUNDING (HEART)
-5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,iraira,ANNOYED,uQpi.mp3,correct,3753,iraira_ANNOYED
+5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,iraira,ANNOYED,uQpi.mp3,correct,3753,iraira_ANNOYED/IMPATIENT
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,8783,iQpai_STUFFED (FULL OF FOOD)
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,kibui,TIGHT,ruriu.mp3,correct,3045,kibui_TIGHT
 5da9a1659413e4001505d7f7,English,None,To guess the meaning of certain words.,11,zomizomi,(SPINE) TINGLING,weya.mp3,correct,8246,zomizomi_(SPINE) TINGLING
@@ -10708,7 +10708,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,nebutai,DROWSY,worimiu.mp3,incorrect,4294,nebutai_SLEEPY
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,kowa,FRIGHTENING,weQtu.mp3,correct,1574,kowa_SCARY
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,omoi,HEAVY,ereu.mp3,incorrect,3447,omoi_HEAVY
-5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,hirihiri,TINGLING,rupyu.mp3,incorrect,2304,hirihiri_BURNING
+5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,hirihiri,TINGLING,rupyu.mp3,incorrect,2304,hirihiri_TINGLING
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,bakubaku,BEATING (E.G. HEART),ruri.mp3,correct,1833,bakubaku_POUNDING (HEART)
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",wani.mp3,incorrect,5621,zyikazyika_STINGING (PAIN)
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,syikasyika,PRICKLING,wawu.mp3,correct,1714,syikasyika_ITCHING
@@ -10718,7 +10718,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,tyobiQto,A LITTLE,reyame.mp3,correct,4933,tyobiQto_A LITTLE
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,haku,VOMIT,wuna.mp3,incorrect,2683,haku_SPIT
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,dokidoki,BEATING (E.G. HEART),hewu.mp3,correct,1812,dokidoki_POUNDING (HEART)
-5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,iraira,ANNOYED,apyu.mp3,correct,1960,iraira_ANNOYED
+5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,iraira,ANNOYED,apyu.mp3,correct,1960,iraira_ANNOYED/IMPATIENT
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,iQpai,FULL (FROM EATING),ariu.mp3,incorrect,4629,iQpai_STUFFED (FULL OF FOOD)
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,kibui,PINCHING,ruriu.mp3,correct,4613,kibui_TIGHT
 5abe42840527ba0001c1db23,English,French,To guess which of two Japanese words had the same meaning as the word shown in English,11,zomizomi,(SPINE) TINGLING,weya.mp3,correct,2333,zomizomi_(SPINE) TINGLING
@@ -10741,7 +10741,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,nebutai,SLEEPY,worimiu.mp3,correct,1664,nebutai_SLEEPY
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,kowa,SCARY,netsi.mp3,correct,1362,kowa_SCARY
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,omoi,HEAVY,eyea.mp3,incorrect,1361,omoi_HEAVY
-611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1187,hirihiri_BURNING
+611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,hirihiri,TINGLING,pyuQku.mp3,incorrect,1187,hirihiri_TINGLING
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,correct,1349,bakubaku_POUNDING (HEART)
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",ruru.mp3,incorrect,1814,zyikazyika_STINGING (PAIN)
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,syikasyika,ITCHING,pyanu.mp3,correct,1271,syikasyika_ITCHING
@@ -10751,7 +10751,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,tyobiQto,SLIGHTLY,yeruwe.mp3,correct,942,tyobiQto_A LITTLE
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,haku,VOMIT,riri.mp3,incorrect,2842,haku_SPIT
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,dokidoki,POUNDING (E.G. HEART),wena.mp3,incorrect,2307,dokidoki_POUNDING (HEART)
-611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,iraira,IMPATIENT,apyu.mp3,incorrect,3652,iraira_ANNOYED
+611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,iraira,IMPATIENT,apyu.mp3,incorrect,3652,iraira_ANNOYED/IMPATIENT
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,iQpai,FULL (FROM EATING),uwua.mp3,incorrect,1447,iQpai_STUFFED (FULL OF FOOD)
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,kibui,PINCHING,wuwiu.mp3,correct,1300,kibui_TIGHT
 611f6903a2943253ba1dbbaa,English,NA,Listening to words in Japanese and trying to guess their meanings.,11,zomizomi,SHIVERS (DOWN YOUR SPINE),yera.mp3,correct,1349,zomizomi_(SPINE) TINGLING
@@ -10774,7 +10774,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,nebutai,SLEEPY,yowayua.mp3,correct,3183,nebutai_SLEEPY
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,kowa,SCARY,retyu.mp3,correct,6443,kowa_SCARY
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,omoi,HEAVY,eyea.mp3,correct,1455,omoi_HEAVY
-5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,hirihiri,BURNING,pyuQku.mp3,correct,3292,hirihiri_BURNING
+5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,hirihiri,BURNING,pyuQku.mp3,correct,3292,hirihiri_TINGLING
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,bakubaku,DRUMMING (E.G. HEART),ruri.mp3,correct,5280,bakubaku_POUNDING (HEART)
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",yawi.mp3,correct,2081,zyikazyika_STINGING (PAIN)
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,syikasyika,PRICKLING,wawu.mp3,correct,3210,syikasyika_ITCHING
@@ -10784,7 +10784,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,tyobiQto,A LITTLE,yeruwe.mp3,correct,2587,tyobiQto_A LITTLE
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,haku,VOMIT,wuna.mp3,correct,7188,haku_SPIT
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,dokidoki,DRUMMING (E.G. HEART),hewu.mp3,correct,1176,dokidoki_POUNDING (HEART)
-5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,iraira,ANNOYED,aku.mp3,incorrect,1348,iraira_ANNOYED
+5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,iraira,ANNOYED,aku.mp3,incorrect,1348,iraira_ANNOYED/IMPATIENT
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,correct,5106,iQpai_STUFFED (FULL OF FOOD)
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,kibui,PINCHING,wuwiu.mp3,correct,1096,kibui_TIGHT
 5a86e1a4eea3d300016e7981,English,None,Choosing a japanese word to match a given translation,11,zomizomi,(SPINE) TINGLING,yera.mp3,correct,1190,zomizomi_(SPINE) TINGLING
@@ -10807,7 +10807,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,nebutai,SLEEPY,pyoyawua.mp3,correct,4992,nebutai_SLEEPY
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,kowa,SCARY,netsi.mp3,incorrect,15171,kowa_SCARY
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,omoi,HEAVY,eyea.mp3,incorrect,2350,omoi_HEAVY
-5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,hirihiri,TINGLING,pyuQku.mp3,correct,3379,hirihiri_BURNING
+5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,hirihiri,TINGLING,pyuQku.mp3,correct,3379,hirihiri_TINGLING
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,bakubaku,POUNDING (E.G. HEART),ruri.mp3,correct,4578,bakubaku_POUNDING (HEART)
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,4012,zyikazyika_STINGING (PAIN)
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,syikasyika,PRICKLING,wawu.mp3,correct,4059,syikasyika_ITCHING
@@ -10817,7 +10817,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,tyobiQto,SLIGHTLY,reyame.mp3,incorrect,5659,tyobiQto_A LITTLE
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,haku,VOMIT,wuna.mp3,incorrect,8141,haku_SPIT
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,dokidoki,POUNDING (E.G. HEART),yeru.mp3,correct,5291,dokidoki_POUNDING (HEART)
-5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,iraira,IMPATIENT,aku.mp3,correct,10663,iraira_ANNOYED
+5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,iraira,IMPATIENT,aku.mp3,correct,10663,iraira_ANNOYED/IMPATIENT
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,iQpai,STUFFED (FROM EATING TOO MUCH),ariu.mp3,incorrect,5510,iQpai_STUFFED (FULL OF FOOD)
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,kibui,PINCHING,wuwiu.mp3,correct,3427,kibui_TIGHT
 5e4c511d056b9c0ad9b6fd24,English,French,Japanese words were spoken and we had to select the English equivalent.,11,zomizomi,(SPINE) TINGLING,weya.mp3,correct,3300,zomizomi_(SPINE) TINGLING
@@ -10840,7 +10840,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,nebutai,DROWSY,yowayua.mp3,incorrect,1411,nebutai_SLEEPY
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,kowa,SCARY,netsi.mp3,correct,2044,kowa_SCARY
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,omoi,HEAVY,eyea.mp3,incorrect,1970,omoi_HEAVY
-5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,hirihiri,BURNING,naQga.mp3,correct,1406,hirihiri_BURNING
+5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,hirihiri,BURNING,naQga.mp3,correct,1406,hirihiri_TINGLING
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,bakubaku,BEATING (E.G. HEART),wiwa.mp3,correct,3309,bakubaku_POUNDING (HEART)
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,zyikazyika,"STINGING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,2318,zyikazyika_STINGING (PAIN)
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,syikasyika,PRICKLING,yuri.mp3,correct,1173,syikasyika_ITCHING
@@ -10850,7 +10850,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,tyobiQto,A LITTLE,reyame.mp3,correct,2420,tyobiQto_A LITTLE
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,haku,VOMIT,pyiwi.mp3,correct,1120,haku_SPIT
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,dokidoki,DRUMMING (E.G. HEART),hewu.mp3,incorrect,6540,dokidoki_POUNDING (HEART)
-5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,iraira,IMPATIENT,uQpi.mp3,incorrect,1117,iraira_ANNOYED
+5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,iraira,IMPATIENT,uQpi.mp3,incorrect,1117,iraira_ANNOYED/IMPATIENT
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,iQpai,STUFFED (FROM EATING TOO MUCH),uyua.mp3,incorrect,1213,iQpai_STUFFED (FULL OF FOOD)
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,kibui,PINCHING,ruriu.mp3,correct,1348,kibui_TIGHT
 5e380457679e67000c56b02f,English,none,I was shown a word in English and then listened to two Japanese words and had to guess which word meant the same as the English word.,11,zomizomi,(SPINE) TINGLING,yera.mp3,correct,2439,zomizomi_(SPINE) TINGLING
@@ -10873,7 +10873,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,nebutai,DROWSY,yowayua.mp3,incorrect,843,nebutai_SLEEPY
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,kowa,FRIGHTENING,weQtu.mp3,correct,1031,kowa_SCARY
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,omoi,HEAVY,ehea.mp3,correct,1178,omoi_HEAVY
-5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,hirihiri,BURNING,rupyu.mp3,incorrect,990,hirihiri_BURNING
+5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,hirihiri,BURNING,rupyu.mp3,incorrect,990,hirihiri_TINGLING
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,bakubaku,DRUMMING (E.G. HEART),wiwa.mp3,correct,843,bakubaku_POUNDING (HEART)
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,zyikazyika,"BURNING (PAIN, E.G. IN EYES)",yawi.mp3,incorrect,1087,zyikazyika_STINGING (PAIN)
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,syikasyika,PRICKLING,yuri.mp3,correct,799,syikasyika_ITCHING
@@ -10883,7 +10883,7 @@ prolificID,nativelang,otherlangs,taskdesc,experiment,form,trans,foil,answer,rt,i
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,tyobiQto,A LITTLE,yeruwe.mp3,correct,784,tyobiQto_A LITTLE
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,haku,VOMIT,riri.mp3,incorrect,1075,haku_SPIT
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,dokidoki,BEATING (E.G. HEART),wena.mp3,correct,795,dokidoki_POUNDING (HEART)
-5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,iraira,ANNOYED,uQpi.mp3,incorrect,734,iraira_ANNOYED
+5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,iraira,ANNOYED,uQpi.mp3,incorrect,734,iraira_ANNOYED/IMPATIENT
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,iQpai,STUFFED (FROM EATING TOO MUCH),ariu.mp3,correct,802,iQpai_STUFFED (FULL OF FOOD)
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,kibui,TIGHT,nayaa.mp3,incorrect,1227,kibui_TIGHT
 5fef468cc9707d230796b7c3,English,A little French,"I was given two recordings and a word, I was asked to guess which recording meant the word",11,zomizomi,SHIVERS (DOWN YOUR SPINE),weya.mp3,correct,807,zomizomi_(SPINE) TINGLING
