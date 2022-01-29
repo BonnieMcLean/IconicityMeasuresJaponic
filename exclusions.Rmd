@@ -1,0 +1,113 @@
+---
+title: "Exclusions"
+output: 
+    bookdown::html_document2:
+      toc: true
+      toc_float: true
+      number_sections: true
+      css: custom.css
+      code_folding: hide
+bibliography: sources.bib
+
+---
+
+```{r packages, include=FALSE}
+library(bookdown)
+library(tidyverse)
+knitr::opts_chunk$set(echo = TRUE,warning=FALSE,message = FALSE)
+```
+
+For the pilot version of the guessing task, in which participants had to match a given form to its correct meaning, data from 3 out of 132 participants was excluded. In one case, the participant indicated that they were choosing the translations based on whether they sounded similar to the Japanese word (rather than based on their meaning). In the other two cases, the participants did not provide a task description and performed poorly on the control items, so the data was excluded as it was not clear that they were paying attention/understood the task correctly. In the new version of the guessing task, in which participants had to match a given meaning to its correct form, data from 3 out of 332 participants was excluded. In all three cases, the participants performed poorly on the control items and either did not provide a task description, or their task descriptions were irrelevant (they commented that the task was 'interesting' or 'difficult' instead of describing what they were doing in the task).
+
+```{r preprocessing guesses}
+# for guessing between translations
+responses_trans <- read.csv('responses-guessingtrans.csv')
+control_items <- c("pyoNpyoN","katai","hayai")
+
+responses_trans%>%
+  filter(word %in% control_items)%>%
+  select(Prolific.ID,word,answer,Task.Description)%>%
+  group_by(Prolific.ID)%>%
+  mutate(check_score=sum(answer=='correct')/sum(answer=='incorrect'|answer=='correct'))%>%
+  select(-word,-answer)%>%
+  unique()->examine_participants
+
+# results from the following participants were excluded
+exclude_participants<-c('5b3648e7f726b2000192b3f4','5f350486d0c0764216b6745e','5c426de31ddd660001c99cdd')
+
+guesses_trans <- responses_trans%>%
+  filter(!(Prolific.ID %in% exclude_participants))
+
+# for guessing between words
+guesses_words<-read_csv('responses-guessingwords.csv')
+control_items <- c("pyoNpyoN","katai","hisohiso")
+
+guesses_words%>%
+  filter(form %in% control_items)%>%
+  select(prolificID,form,answer,taskdesc)%>%
+  group_by(prolificID)%>%
+  mutate(check_score=sum(answer=='correct')/sum(answer=='incorrect'|answer=='correct'))%>%
+  select(-form,-answer)%>%
+  unique()->examine_participants
+
+distribution_controlguesses <- ggplot(data=examine_participants,aes(x=check_score))+geom_histogram(bins=3)
+
+# results from the following participants were excluded
+exclude_participants <- c("5ad4d7de546e150001b695b0","5be44162fa676700011d80d7","613da3ad46281fe6d621a413")	
+
+guesses_words <- guesses_words%>%filter(!(prolificID %in% exclude_participants))
+```
+
+For the rating task, data from 5 out of 225 participants was excluded. For the ratings, as well as looking at task descriptions and performance on the control items, we calculated the person-total correlation for each participant [@curran_methods_2016]. The person-total correlation is the correlation between an individual participant's ratings, and the mean ratings from every other participant. It provides a measure of how well a participant's responses agree with those of other participants in the task. The criteria for exclusion was two or more of either (a) strange or lacking task descriptions, (b) very low ratings for control items, or (c) low person-total correlations. Criteria (a) was used for 4 exclusions. In two cases, the participants indicated that they were rating the words according to how much they sounded like their English translations, rather than how well they resembled their meanings. Criteria (b) was used in 3 exclusions, and criteria (c) was used in 4 exclusions. A person-total correlation below .2 was considered a 'low' correlation, based on the distribution of person-total correlations shown in Figure \@ref(fig:ratingsprocess).
+
+```{r ratingsprocess,fig.cap="Distribution of person-total correlations in rating task"}
+# for ratings
+ratings <- read_csv("responses-ratings.csv")
+
+# control performance and task descriptions
+ratings%>%
+  filter(form %in% control_items)%>%
+  select(prolificID,form,rating,taskdesc)%>%
+  group_by(prolificID)%>%
+  mutate(mean_rating=mean(rating))%>%
+  select(-form,-rating)%>%
+  unique()->examine_participants
+
+distribution_controlratings <- ggplot(data=examine_participants,aes(x=mean_rating))+geom_histogram()+scale_x_continuous(n.breaks=20)
+
+# person-total correlations
+participants <- unique(ratings$prolificID)
+correlations <- c()
+for(p in participants){
+  # get the mean ratings of everyone else
+  othersratings <- ratings%>%filter(prolificID!=p)%>%
+    group_by(identifier)%>%
+    mutate(mean_rating=mean(rating))%>%
+    select(identifier,mean_rating)%>%
+    unique()
+  
+  # get the participants ratings
+  participantratings <- ratings%>%filter(prolificID==p)%>%select(identifier,rating)
+  
+  # join them and compute the correlation
+  compare <- left_join(participantratings,othersratings,by="identifier")
+  corr <- cor(compare$rating,compare$mean_rating,use="pairwise.complete.obs")
+  
+  correlations <- c(correlations,corr)
+}
+
+persontotals <- data.frame(participants,correlations)%>%rename(prolificID=participants,pt_corr=correlations)
+
+persontotal_dist <- ggplot(data=persontotals,aes(x=pt_corr))+geom_histogram()+scale_x_continuous(n.breaks=8)+labs(x="Person-total correlation")
+persontotal_dist
+
+examine_participants <- left_join(examine_participants,persontotals,by="prolificID")
+
+exclude_participants <- c("60ccf2e72ef0587d5cc4e2cd","60ce01c71f2eaca4a5050416","5fd64479bf40a251701159d6","5c8026f0f399120012fa4238","5ca73fe6bcdcc2001291822d")
+
+ratings <- ratings%>%
+  filter(!(prolificID %in% exclude_participants))
+```
+
+# References
+

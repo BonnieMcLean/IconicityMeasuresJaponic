@@ -1,4 +1,4 @@
-concept,cognate,test_form,eng_trans,notes,locations
+concept,cognate,test_form,eng_trans,notes,varieties
 (SPINE) TINGLING,g,zokuzoku,(SPINE) TINGLING,,
 (SPINE) TINGLING,f,zawazawa,(SPINE) TINGLING,,
 (SPINE) TINGLING,i,zoNzoN,(SPINE) TINGLING,,
@@ -69,7 +69,7 @@ CRY,a,naku,CRY,,
 CUNNING,p,zurui,CUNNING,,
 CUNNING,h,kitanai,CUNNING,,
 CUNNING,c,kosui,CUNNING,,"Fukui, Yamanashi, Nagano, Aichi, Osaka, Hiroshima, Ehime, Koochi, Kagoshima"
-CUNNING,c,suQkoi,CUNNING,,"Hyoogo, Wakayama, Yamanashi, Shizuoka, Shiga, Kyoto"
+CUNNING,c2,suQkoi,CUNNING,,"Hyoogo, Wakayama, Yamanashi, Shizuoka, Shiga, Kyoto"
 CUNNING,d,herakoi,CUNNING,,
 DARK,b,kurai,DARK,,
 DARK,a,akaanakaQta,DARK,,
@@ -83,7 +83,7 @@ EXHAUSTED-1,c,dareta,EXHAUSTED,,
 EXHAUSTED-1,j,hetoheto,EXHAUSTED,,
 EXHAUSTED-1,d,dayo,EXHAUSTED,,
 EXHAUSTED-1,e,erai,EXHAUSTED,,
-EXHAUSTED-1,i,kutakuta,EXHAUSTED,,"Hokkaido-inland, Fukushima, Kanagawa, Mie, Ishikawa, Nara, Tokushima, Kagawa"
+EXHAUSTED-1,i2,kutakuta,EXHAUSTED,,"Hokkaido-inland, Fukushima, Kanagawa, Mie, Ishikawa, Nara, Tokushima, Kagawa"
 EXHAUSTED-2,y,tsukareta,EXHAUSTED,,
 EXHAUSTED-2,n,kitsuka,EXHAUSTED,,
 EXHAUSTED-2,u,syiNdo,EXHAUSTED,,
@@ -127,8 +127,8 @@ HUMID-1,b,hotoru,HUMID,,
 HUMID-2,c,zyimezyime,HUMID,,
 HUMID-2,e,zyitozyito,HUMID,,
 HUMID-2,f,zyukazyuka,HUMID,,
-HUNGRY,c,himozyii,HUNGRY,,
-HUNGRY,c,hidarui,HUNGRY,,"Toyama, Yamanashi, Shiga, Kyoto, Hiroshima, Tokushima, Ehime"
+HUNGRY,c,himozyii,HUNGRY,everything that’s not the other,
+HUNGRY,c2,hidarui,HUNGRY,,"Toyama, Yamanashi, Shiga, Kyoto, Hiroshima, Tokushima, Ehime"
 ITCHING-1,a,kaii,ITCHING,,
 ITCHING-2,a,tyikutyiku,ITCHING,,
 ITCHING-2,e,syikasyika,ITCHING,,
@@ -195,8 +195,8 @@ RUDE,i,ootyakuna,RUDE,,
 RUDE,a,atsukamasyii,RUDE,,
 RUDE,b,dzugedzuge,RUDE,,
 SAD,d,kanasyii,SAD,,
-SAD,c,hezunee,SAD,,
-SAD,c,hedzune,SAD,Akita,
+SAD,c,hezunee,SAD,not akita,
+SAD,c2,hedzune,SAD,Akita,
 SAD,j,samisyii,SAD,,
 SAD,k,setsunai,SAD,,
 SAD,l,tsurai,SAD,,
@@ -260,17 +260,17 @@ SMALL,d,hosoi,SMALL,,
 SMILING,d,nikoniko,SMILING,,
 SMOKY,c,kebutai,SMOKY,,
 SMOKY,b,ibii,SMOKY,,
-SOFT,a,yarakai,SOFT,,"Tokyo, Kanagawa, Ishikawa, Gifu, Mie, Kyoto, Osaka, Hyoogo, Nara, Kagawa"
-SOFT,a,yawakoi,SOFT,,"Toyama, Fukui, Shiga"
-SOFT,a,yaoi,SOFT,,"Tottori, Hiroshima, Kagawa, Ehime, Koochi"
+SOFT,a,yarakai,SOFT,a,"Tokyo, Kanagawa, Ishikawa, Gifu, Mie, Kyoto, Osaka, Hyoogo, Nara, Kagawa"
+SOFT,a,yawakoi,SOFT,a1,"Toyama, Fukui, Shiga"
+SOFT,a,yaoi,SOFT,a2,"Tottori, Hiroshima, Kagawa, Ehime, Koochi"
 SOUR-1,a,sui,SOUR,,
 SOUR-2,a,syibui,SOUR,,
 SPACIOUS,a,hiroi,SPACIOUS,,
 SPICY,a,karai,SPICY,,
 SPIT,a,haku,SPIT,,
 STICKY,d,netyanetya,STICKY,,
-STICKY,e,nurunuru,STICKY,,
-STICKY,e,neranera,STICKY,,Aomori-Tsugaru
+STICKY,e,nurunuru,STICKY,not Aomori-Tsugaru,
+STICKY,e2,neranera,STICKY,,Aomori-Tsugaru
 STICKY,c,nebaneba,STICKY,,
 STICKY,a,betabeta,STICKY,,
 STINGING (PAIN)-1,a,zyikazyika,STINGING (PAIN),,

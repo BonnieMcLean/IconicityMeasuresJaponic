@@ -1,19 +1,19 @@
 ---
 title: "Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon"
 output:
-  bookdown::html_document2:
-   # reference_docx: wordstyles.docx
+  bookdown::word_document2:
+    reference_docx: wordstyles.docx
     toc: true
     toc_float: true
     number_sections: true
     css: custom.css
-    code_folding: hide
+  #  code_folding: hide
 always_allow_html: true
 bibliography: sources.bib
 
 ---
 
-```{r packages, include=FALSE}
+```{r setup, include=FALSE}
 library(tidyverse)
 library(kableExtra)
 library(bookdown)
@@ -27,7 +27,8 @@ library(pander)
 library(sjPlot)
 library(ggeffects)
 library(gridExtra)
-knitr::opts_chunk$set(echo = TRUE,warning=FALSE,message = FALSE)
+library(gghalves)
+knitr::opts_chunk$set(echo = FALSE,warning=FALSE,message = FALSE)
 ```
 
 **Abstract** 
@@ -68,9 +69,11 @@ The data from the study, as well as the code used to produce the experiments and
 
 ## Stimuli
 
-The stimuli were 304 words taken from the *Japonic Sensory Lexicon* database (ANONYMISED CITATION), which is a collection of words for 110 sensory concepts in 49 Japonic varities. 
+The stimuli were 304 words taken from the *Japonic Sensory Lexicon* database [@McLean_JaponicSensoryLex_2022], which is a collection of words for 110 sensory concepts in 49 Japonic varities. The words in the database were collated from three different sources: Sanada and Tomosada [-@sanada_kenbetsu_2015; -@sanada_kenbetsu_2018], and Hirayama [-@hirayama_gendai_1992]. Any available concepts related to the senses were included. For all three sources, words for each concept were collected from speakers of different Japonic varieties by asking the speakers to translate sentences from the standard variety into their local variety. Further description of the concepts and the sentences used to elicit them can be found in the Supplementary Materials
 
-```{r}
+The words used in this study come from the Yamato stratum of the Japanese lexicon, meaning that they are native Japanese words. The Yamato stratum can be further subdivided into prosaic words and ideophones [or mimetics, see e.g. @kageyama_handbook_2016]. Both types of words are found in the data from Sanada and Tomosada, whereas the data from Hirayama mainly consists of prosaic words. Figure \@ref(fig:stimuli) shows the words used in this study, including their semantic domains and membership of different lexical strata. A complete wordlist is provided in the Supplementary Materials. 
+
+```{r stimuli,fig.cap="Word used in the study, by semantic domain and lexical stratum",echo=FALSE}
 # semantic domains of concepts, plus numbers of ideophones and non-ideophones
 concepts <- read_tsv("https://raw.githubusercontent.com/BonnieMcLean/JaponicSensoryLex/main/concepts.tsv")%>%
   rowwise()%>%
@@ -94,39 +97,31 @@ words$domain[words$form == "yoroyoro"] <- "action"
 words$domain[words$form == "fuwafuwa"] <- "texture"
 words$domain[words$form == "hisohiso"] <- "sound"
 words$domain[words$form == "pyoNpyoN"] <- "action"
+words$domain[words$form == "zyiNzyiN"] <- "pain"
+words$domain[words$form == "gaNgaN"] <- "pain"
 
+words%>%
+  unique()%>%
+  group_by(domain)%>%
+  count(ideophone)%>%
+  mutate(stratum=ifelse(ideophone=="y","ideophone","prosaic"))->graph
+
+graph$domain <- as.factor(graph$domain)
+
+graph%>%
+  mutate(domain=fct_relevel(domain,c("sound","action","shape & size","appearance","texture","temperature","taste","pain","bodily feeling","emotion")))%>%
+  ggplot(aes(x=domain,y=n,fill=stratum))+geom_col()+theme_minimal()+labs(x="Semantic domain",fill="Lexical stratum")+theme(axis.text.x = element_text(angle=15))+scale_fill_manual(values=c("darkgrey","black"))+ coord_fixed(ratio = 0.1)->plot
 ```
 
+For all tasks, the words were presented to participants as audio files. The audio files were synthesised using the Google Cloud Text-to-Speech API [(https://cloud.google.com/text-to-speech)](https://cloud.google.com/text-to-speech), with the female Japanese Wavenet voice ja-JP-Wavenet-B. They were then edited using Praat [@boersma_praat_2020] to have a flat pitch of 200Hz. Expressive prosody can enhance performance in guessing tasks [@kunihira_effects_1971; @dingemanse_what_2016], and so using a flat intonation was seen as the best way to ensure comparisons between the words were fair and not influenced by the prosody in a particular recording. We also considered synthesising all the words to have a marked intonation. However, different word lengths would make changes in pitch more dramatic in shorter words compared to longer words, affecting words of different lengths unequally. While flat, synthetic voices may be the best option for comparability, they are not a natural reflection of real-world experiences with iconicity--which involve not only segments but also prosody and even multimodal cues (e.g. accompanying gesture). Thus, if anything the results in this and similar studies likely *underestimate* iconicity in language.
 
-```{r}
-dat <- read_csv("https://raw.githubusercontent.com/BonnieMcLean/JaponicSensoryLex/main/dat.csv")
-info <- 
-words <- read_csv("responses-guessingwords.csv")%>%
-  select(identifier)%>%
-  mutate(identifier=str_replace_all(identifier,"FUZZY","CLEAR"))%>%
-  unique()
-
-cognates <- read_csv("cognatecodes.csv")%>%
-  mutate(identifier=paste(test_form,eng_trans,sep="_"))%>%select(cognate,identifier)
-
-words <- words%>%left_join(cognates,by="identifier")
-```
-
-
-The stimuli were 304 words from the Yamato stratum of the Japanese lexicon, in the semantic domain of sensory perception. The words were taken from the *Japonic Sensory Lexicon* (ANONYMISED CITATION), a dataset containing words in 
-
-
-from the domain of sensory perception, including both ideophones and prosaic lexical items. For all tasks, the words were presented to participants as audio files. The audio files were synthesised using the Google Cloud Text-to-Speech API [(https://cloud.google.com/text-to-speech)](https://cloud.google.com/text-to-speech), with the female Japanese Wavenet voice ja-JP-Wavenet-B. They were then edited using Praat [@boersma_praat_2020] to have a flat pitch of 200Hz. Expressive prosody can enhance performance in guessing tasks [@kunihira_effects_1971; @dingemanse_what_2016], and so using a flat intonation was seen as the best way to ensure comparisons between the words were fair and not influenced by the prosody in a particular recording. We also considered synthesising all the words to have a marked intonation. However, different word lengths would make changes in pitch more dramatic in shorter words compared to longer words, affecting words of different lengths unequally. While flat, synthetic voices may be the best option for comparability, they are not a natural reflection of real-world experiences with iconicity--which involve not only segments but also prosody and even multimodal cues (e.g. accompanying gesture). Thus, if anything the results in this and similar studies likely *underestimate* iconicity in language.
-
-In all studies, participants were instructed to use headphones throughout the experiment, and could not procede to the experiment without first passing a listening test designed to require the use of headphones @woods_headphone_2017. The response buttons in each trial also did not appear until *after* the audio files had finished playing. This ensured that participants could not respond without first listening to the audio files. 
+In all studies, participants were instructed to use headphones throughout the experiment, and could not procede to the experiment without first passing a listening test designed to require the use of headphones [@woods_headphone_2017]. The response buttons in each trial also did not appear until *after* the audio files had finished playing. This ensured that participants could not respond without first listening to the audio files. 
 
 ## Data collection
 
 All studies were conducted online, with participants recruited through the crowd sourcing service Prolific (www.prolific.co). The participants were monolingual English speakers residing in England, with no prior knowledge of Japanese. Although rating tasks are often conducted with native speakers, we used English speakers in this study for two reasons: first, to make the results as comparable as possible between the guessing and rating tasks; and second, because our data contained a mix of Standard Japanese and non-standard Japanese words, and we were concerned that using Standard Japanese speakers would lead to a bias towards standard words [@occhino_iconicity_2017]. 
 
-The words were split across 11 different experiments, in such a way that each experiment had a balance of words that were expected to be iconic, versus words that were not expected to be iconic. In addition, two 'practice words' and three 'control words' were included in every experiment. The practice items were used to give participants time to familiarise themselves with the experiment design, and were not included in the results. The control items were chosen from words found to be very iconic/highly guessable in previous studies, and were included as a check to identify participants who were perhaps not performing the task as intended. The first two trials in every experiment were the two 'practice words', while the order of the rest of the words in the experiment, including the control words, was randomly varied between participants. After finishing the experiment, participants were asked to describe the task they were performing during the experiment. This was used as an attention check, and to identify participants who had misunderstood the experiment instructions. Strange or lacking task descriptions, particularly when coupled with poor performance on the control items, were used to identify and exclude results from participants who were likely not performing the task as intended.
-
-For the pilot version of the guessing task, in which participants had to match a given form to its correct meaning, data from 3 out of 132 participants was excluded. In one case, the participant indicated that they were choosing the translations based on whether they sounded similar to the Japanese word (rather than based on their meaning). In the other two cases, the participants did not provide a task description and performed poorly on the control items, so the data was excluded as it was not clear that they were paying attention/understood the task correctly. In the new version of the guessing task, in which participants had to match a given meaning to its correct form, data from 3 out of 332 participants was excluded. In all three cases, the participants performed poorly on the control items and either did not provide a task description, or their task descriptions were irrelevant (they commented that the task was 'interesting' or 'difficult' instead of describing what they were doing in the task).
+The words were split across 11 different experiments, in such a way that each experiment had a balance of words that were expected to be iconic, versus words that were not expected to be iconic. This was so that each participant would only have to rate or guess around 34 words. In addition, two 'practice words' and three 'control words' were included in every experiment. The practice items were used to give participants time to familiarise themselves with the experiment design, and were not included in the results. The control items were chosen from words found to be very iconic/highly guessable in previous studies, and were included as a check to identify participants who were perhaps not performing the task as intended. The first two trials in every experiment were the two 'practice words', while the order of the rest of the words in the experiment, including the control words, was randomly varied between participants. After finishing the experiment, participants were asked to describe the task they were performing during the experiment. This was used as an attention check, and to identify participants who had misunderstood the experiment instructions. Strange or lacking task descriptions, particularly when coupled with poor performance on the control items, were used to identify and exclude results from participants who were likely not performing the task as intended. For the rating experiments, we also calculated the person-total correlation for each participant as an additional measure to identify participants whose response patterns differed from those of other participants in the same experiment [following @curran_methods_2016]. Based on these criteria, data from 11 out of 689 participants was excluded across the different guessing and rating tasks. Further information on these exclusions is provided in Section 1 of the Supplementary Materials.
 
 ```{r preprocessing guesses}
 # for guessing between translations
@@ -166,8 +161,6 @@ exclude_participants <- c("5ad4d7de546e150001b695b0","5be44162fa676700011d80d7",
 
 guesses_words <- guesses_words%>%filter(!(prolificID %in% exclude_participants))
 ```
-
-For the rating task, data from 5 out of 225 participants was excluded. For the ratings, as well as looking at task descriptions and performance on the control items, we calculated the person-total correlation for each participant @curran_methods_2016. The person-total correlation is the correlation between an individual participant's ratings, and the mean ratings from every other participant. It provides a measure of how well a participant's responses agree with those of other participants in the task. The criteria for exclusion was two or more of either (a) strange or lacking task descriptions, (b) very low ratings for control items, or (c) low person-total correlations (<.2^[We chose .2 as the cut off point because it corresponded with a discontinuity in the lower end of the distribution of person-total correlations, see Figure 1 in the online Supplementary Material]). Criteria (a) was used for 4 exclusions. In two cases, the participants indicated that they were rating the words according to how much they sounded like their English translations, rather than how well they resembled their meanings. Criteria (b) was used in 3 exclusions, and criteria (c) was used in 4 exclusions.   
 
 ```{r preprocessing ratings}
 # for ratings
@@ -264,6 +257,7 @@ knitr::include_graphics("images/guessingtransdemo.PNG")
 ```
 
 The same formulaic structure, "After X, Y", was used for all the sentences--where Y is the target perception and X is the event that causes it. As some sensory modalities (e.g. sound) may better lend themselves to the construal of iconicity than others (e.g. taste), correct translations were always paired with foil translations from the same modality (e.g. sound translations were only paired with other sound translations, and taste translations with other taste translations, etc.). To make the difficulty of the task comparable between different trials, only words that were neither synonyms nor antonyms of the correct translation were chosen as foils. Finally, the length of the sentences was also kept consistent (to a difference of no more than 5 characters) between pairings of translations and foils. 
+
 To test the robustness of the guessing procedure to different choices of translation and foil words, the same words were tested multiple times with different translations and foils. We were concerned that participants could choose particular translations because of how they sound (particularly if they sounded similar to the Japanese word), rather than based on their meanings as we intended. So, to minimise any potential effects from this, as much as possible phonologically distinct synonyms were chosen as alternative translations (e.g. SMALL|TINY, BIG|LARGE). 
 
 Pilot results showed that in several cases the guessability of a word did differ considerably depending on the translation or foil word used. Some examples are shown in Table \@ref(tab:weirdcases).
@@ -335,14 +329,6 @@ knitr::include_graphics("images/ratingdemo.PNG")
 ```
 
 As with the guessing experiments, the translation shown for each participant was varied randomly between a set of (wherever possible) phonologically distinct synonyms.
-
-## Creation of Icotools
-
-To make the collection of guesses and ratings quicker and easier for future studies, while also improving comparability between studies, we created a python package, `icotools` [(https://pypi.org/project/icotools/)](https://pypi.org/project/icotools/), with functions that can be used to automatically generate rating and guessing experiments (using the meaning-to-word design from the second guessing experiments). The package has three functions: a rater function, a guesser function, and a foiler function. The rater and guesser functions create rating and guessing experiments as described in Sections \@ref(goodguesses) and \@ref(ratings). They take two csv files as input. The first is a wordlist containing the items in the experiment (including trials, practice items, control items, and sets of translations to use for them), while the second file is used for customisation (e.g. to specify how many items to include in each experiment, the location of media files, custom instructions and custom exit questions, etc.). 
-
-For each experiment, the functions produce three files--a html file, a php file, and a csv file. These files can then be uploaded to a server, the link to the html files can be shared with participants, and as the participants complete the experiments their responses will be written to the csv file by the php file. The functions also produce a summary csv file with all the details of the experiments (i.e. the trials in each experiment, as well as the translations and, where applicable, foils used). An R script is provided to collate the responses for all experiments into one long tidy dataset after data collection is complete.
-
-The foiler function can be used to generate a list of opposite sounding foil words for each item in a guessing experiment, following the method described in Section \@ref(goodguesses). It is also possible to specify your own foil words, or to choose the foils randomly from among the other items in the experiment. For a full description of how to use icotools, please see the ReadMe at https://anonymous.4open.science/r/IcoTools-2CEA/README.md (this is an anonymised link to the github repository: it will later be replaced with the correct link).
 
 # Results
 
@@ -472,7 +458,7 @@ In the first pilot of the guessing task--where participants were guessing betwee
 
 ## Sensitivity and discriminability 
 
-To test whether using phonologically distinct foils in the guessing experiments improved their sensitivity to iconicity, a subset of 30 words were tested twice--once with phonologically distinct "opposite" foils, and once with random foils. 
+To test whether using phonologically distinct foils in the guessing experiments improved sensitivity to iconicity, a subset of 30 words were tested twice--once with phonologically distinct "opposite" foils, and once with random foils. 
 
 The number of these words which were guessed significantly above chance (with a sample of 30 guesses per word, an accuracy greater than 2/3 is needed to be sure the true accuracy is above 0.5) was higher in the experiment with opposite foils than in the experiment with random foils. Using opposite foils, half of the words in the sample (15/30) were guessed significantly above chance, whereas with the random foils this number fell to just 1 in 5 words (6/30). Only two words were guessed significantly above chance in the random foil condition, but not in the opposite foil condition. However, both were guessed numerically above chance in the opposite foil condition as well (with accuracies of 52% and 57%). The differences between the two conditions are shown in Figure \@ref(fig:sensitivitycheck). A chi-squared test confirmed the differences to be significant (χ2(1)=4.69,p=.03).
 
@@ -523,7 +509,7 @@ comparison%>%
 #chisq.test(table(comparison$design,comparison$`above chance`))
 ```
 
-We also compared the distributions of guessing accuracies and mean iconicity ratings between the different methods. Since the iconicity ratings in this study were collected from naive participants who did not speak any Japanese, whereas rating studies more commonly use native speaker participants, I added one more plot to the figure showing the distribution of iconicity ratings in a separate study by Thompson et al. [-@thompson_iconicity_2020]. Thompson et al. collected iconicity ratings for Japanese words from native Japanese speaking participants. Their dataset contained a wider variety of words than the current dataset, and they also used a different scale. Their scale went from -5 'antiiconic' to 5 'iconic', with 0 being labelled as 'arbitrary'. The scale in this study started at 0 (also labelled as 'arbitrary', or "no resemblance between the word and its meaning"), and went up to 6 for "strong resemblance between the word and meaning". To make the data more comparable between the two studies, and because previous studies have found the negative ratings unreliable [@motamedi_iconicity_2019], I have filtered the data from Thompson et al. to only contain responses using the part of the scale between 0 and 5. I have also filtered the words to only contain verbs, adverbs, and adjectives from the Yamato stratum. The Yamato stratum refers to the native lexicon of Japanese. Thompson et al.'s study included both words from the Yamato stratum, as well as Sino-Japanese and foreign words. This study only included Yamato words, mainly verbs, adverbs and adjectives. Both the data in this study and in Thompson et al. 2020 contains a mix of ideophones and non-ideophones within the Yamato stratum. Finally, ratings from both studies were transformed so that they varied between 0 and 1, to match with the guessing accuracies. The resulting distributions are shown in Figure \@ref(fig:discriminability)
+We also compared the distributions of guessing accuracies and mean iconicity ratings between the different methods. Since the iconicity ratings in this study were collected from naive participants who did not speak any Japanese, whereas rating studies more commonly use native speaker participants, we added one more plot to the figure showing the distribution of iconicity ratings in a separate study by Thompson et al. [-@thompson_iconicity_2020]. Thompson et al. collected iconicity ratings for Japanese words from native Japanese speaking participants. Their dataset contained a wider variety of words than the current dataset, and they also used a different scale. Their scale went from -5 'antiiconic' to 5 'iconic', with 0 being labelled as 'arbitrary'. The scale in this study started at 0 (also labelled as 'arbitrary', or "no resemblance between the word and its meaning"), and went up to 6 for "strong resemblance between the word and meaning". To make the data more comparable between the two studies, and because previous studies have found the negative ratings unreliable [@motamedi_iconicity_2019], we have filtered the data from Thompson et al. to only contain responses using the part of the scale between 0 and 5. We have also filtered the data to only include native Yamato words (both ideophones and prosaic words), again to increase comparability with the current study. Finally, ratings from both studies were transformed so that they varied between 0 and 1, to match with the guessing accuracies. The resulting distributions are shown in Figure \@ref(fig:discriminability)
 
 ```{r discriminability,fig.cap="Discriminability of different measures"}
 guesses_words%>%
@@ -577,16 +563,16 @@ everything <- rbind(oppres,transres,ratingres,japres)
 #levels(everything$method) <- c("guessing between words (n=131)","guessing between translations (n=77)","iconicity ratings (n=118)")
 
 everything%>%
-  ggplot(aes(x=method,y=score))+geom_violin()+theme_classic()+labs(x="Method",y="Guessing accuracy / Iconicity rating")+scale_x_discrete(limits=c("guesses between translations","guesses between words","iconicity ratings","native iconicity ratings\n(Thompson et al. 2020)"))+theme(axis.text.x = element_text(angle=15,vjust=0.6))+scale_y_continuous(breaks=c(0,1))
+  ggplot(aes(x=method,y=score))+geom_half_violin()+geom_half_point()+theme_classic()+labs(x="Method",y="Guessing accuracy / Iconicity rating")+scale_x_discrete(limits=c("guesses between translations","guesses between words","iconicity ratings","native iconicity ratings\n(Thompson et al. 2020)"))+theme(axis.text.x = element_text(angle=15,vjust=0.6))+ylim(0,1)
 ```
 
-Focusing first on the data from the current study, we can see that a greater spread of measures is provided by the guesses compared to the ratings, and that within the guesses, the method of guessing between words provides a better spread of measures than guessing between translations--both at the very high end of the scale (highly guessable words) and at the very low end of the scale (poorly guessable words). However, if we look at the ratings from native Japanese speakers, these have a pretty equivalent spread to the guesses between words. Their distribution is slightly narrower at the very top end of the scale. However, the data from the current study was chosen from a domain known to be high in iconicity, whereas the data from Thompson et al. was more varied, with proportionally less ideophones. Thus, this could simply be a reflection of the differences between the two datasets rather than relating to the methods used.  
+Focusing first on the data from the current study, we can see that the guesses provide a more even spread of measures compared to the ratings. Between the two guessing methods, the method of guessing between words provides a wider spread of measures than guessing between translations--both at the very high end of the scale (highly guessable words) and at the very low end of the scale (poorly guessable words). If we look at the ratings from native Japanese speakers, these have a pretty equivalent spread to the guesses between words. Their distribution is slightly narrower at the very top end of the scale. However, the data from the current study was chosen from a domain known to be high in iconicity, whereas the data from Thompson et al. was more varied, with proportionally less ideophones. So, this could simply be a reflection of the differences between the two datasets rather than relating to the methods used.  
 
 ## Agreement
 
-Figure \@ref(fig:comparison) compares the guessing accuracies and mean iconicity ratings, for both ideophones and non-ideophones. The words in the pilot study where participants were guessing between translations were different to the words in the subsequent guessing and rating studies, so here only the results from the later guessing study (where participants guessed between words) are shown. At the top end of the scale, the two measures agree--ideophones score higher than non-ideophones for both measures. However, at the bottom of the scale something strange happens. While for the ratings, the bottom of the scale is dominated by non-ideophones (as expected), for the guesses, the bottom of the scale is actually dominated by *ideophones*. That is, ideophones are simultaneously guessed *better* and *worse* than non-ideophones. We will return to this in the discussion.
+Figure \@ref(fig:comparison) compares the guessing accuracies and mean iconicity ratings, for both ideophones and prosaic words. The words in the pilot study where participants were guessing between translations were different to the words in the subsequent guessing and rating studies, so here only the results from the later guessing study (where participants guessed between words) are shown. At the top end of the scale, the two measures agree--ideophones score higher than prosaic words for both measures. However, at the bottom of the scale something strange happens. While for the ratings, the bottom of the scale is dominated by prosaic words (as expected), for the guesses, the bottom of the scale is actually dominated by *ideophones*. That is, ideophones are simultaneously guessed *better* and *worse* than prosaic words. We will return to this in the discussion.
 
-```{r comparison,fig.cap="Comparison of guesses and ratings, for ideophones and non-ideophones"}
+```{r comparison,fig.cap="Comparison of guesses and ratings, for ideophones and prosaic words"}
 # get info on ideophones
 words <- read_csv("ideophone_list.csv")
 words%>%
@@ -612,13 +598,14 @@ comparison%>%
 comparison_dat%>%
   filter(method=="ratings")%>%
   mutate(mean_rating=6*score)%>%
-  mutate(word_type=ifelse(ideophone=="y","ideophones","non-ideophones"))%>%
-  ggplot(aes(x=word_type,y=mean_rating))+geom_violin()+theme_classic()+ylim(0,6)+labs(x="Word type",y="Mean rating")->plot1
+  mutate(word_type=ifelse(ideophone=="y","ideophone","prosaic"))%>%
+  ggplot(aes(x=word_type,y=mean_rating))+geom_half_violin()+geom_half_point()+theme_classic()+ylim(0,6)+labs(x="Lexical stratum",y="Mean rating")->plot1
 
 comparison_dat%>%
   filter(method=="guesses")%>%
-    mutate(word_type=ifelse(ideophone=="y","ideophones","non-ideophones"))%>%
-    ggplot(aes(x=word_type,y=score))+geom_violin()+theme_classic()+ylim(0,1)+labs(x="Word type",y="Guessing accuracy")->plot2
+    mutate(word_type=ifelse(ideophone=="y","ideophone","prosaic"))%>%
+    ggplot(aes(x=word_type,y=score))+geom_half_violin()+geom_half_point()+theme_classic()+ylim(0,1)+labs(x="Lexical stratum",y="Guessing accuracy")->plot2
+
 
 #comparison_dat%>%
  # filter(method=="guesses between translations")%>%
@@ -627,27 +614,27 @@ comparison_dat%>%
 grid.arrange(plot1,plot2,ncol=2)
 ```
 
-Setting aside the strange distribution of guesses for the ideophones, it's notable that both measures suggest that the sensory lexicon of Japanese is for the most part *iconic*, rather than arbitrary. In the guesses, this translates to the majority of the words being guessed slightly *above*, rather than at or below chance. In the ratings, this translates to the words receiving mean ratings higher than zero (the arbitrary point on the scale)--though some of these 'iconic' ratings are likely an overstatement, since all of the words received positive iconicity ratings and yet from the guessing results we can see that many of these were not guessed any differently to chance. 
+Setting aside the question of the distribution of guesses for ideophones, it's notable that both measures suggest that the sensory lexicon of Japanese is for the most part *iconic*, rather than arbitrary. In the guesses, this translates to the majority of the words being guessed slightly *above*, rather than at or below chance. In the ratings, this translates to the words receiving mean ratings higher than zero (the arbitrary point on the scale). Although, some of these 'iconic' ratings are likely overstated, since all the words received positive iconicity ratings, yet from the guessing results we can see that many of these were not guessed any differently to chance. 
 
-To test how well the measures agree on the iconicity of individual words, iconicity ratings and guessability scores for the same words were transformed to z-scores so that they could be directly compared. Figure \@ref(fig:agreement) plots matching z-scores for the guesses and ratings against eachother, to show the agreement between the two measures. In the figure, ideophones are represented by blue dots, and non-ideophones by red dots. 
+To test how well the measures agree on the iconicity of individual words, iconicity ratings and guessability scores for the same words were transformed to z-scores so that they could be directly compared. Figure \@ref(fig:agreement) plots matching z-scores for the guesses and ratings against eachother, to show the agreement between the two measures. In the figure, ideophones are represented by blue dots, and prosaic words by red dots. 
 
 ```{r agreement,fig.cap="Agreement between guesses and ratings"}
 comparison_dat%>%
   select(-score)%>%
   pivot_wider(names_from = "method",values_from="z_score")->comparison_dat
+
 comparison_dat%>%
-  ggplot(aes(x=guesses,y=ratings,colour=ideophone,label=identifier))+geom_point()+theme_classic()+geom_smooth(method="lm")->plot
+  mutate(word_type=ifelse(ideophone=="y","ideophone","prosaic"))%>%
+  ggplot(aes(x=guesses,y=ratings,colour=word_type,label=identifier))+geom_point()+theme_classic()+geom_smooth(method="lm")+labs(colour="Lexical stratum")->plot
 
 plot
 # If you want to see which words are which dots -- ggplotly will let you hover over them
 #ggplotly(plot)
 ```
 
-For both ideophones and non-ideophones, there was a strong correlation between the ratings and the guesses. This correspondence was slightly better for the ideophones (r = 0.66, 95% CI [0.44, 0.79], 95% CI [0.53, 0.76], t(99) = 8.68, p < .001) than for the non-ideophones (r = 0.41, 95% CI [0.29, 0.52], t(201) = 6.45, p < .001). To explore this relationship further, we created two linear regression models: one predicting guesses from ratings, ideophone status, and the interaction between these two factors, and a second model predicting ratings from guesses, ideophone status, and the interaction between these two factors. Both models again used the z-scores rather than the raw ratings and guesses. The models were created using the R package `lmerTest` (version `r packageVersion("lmerTest")`) [@lmertest].
+For both ideophones and prosaic words, there was a strong correlation between the ratings and the guesses. This correspondence was slightly better for ideophones (r = 0.66, 95% CI [0.44, 0.79], 95% CI [0.53, 0.76], t(99) = 8.68, p < .001) compared to prosaic words (r = 0.41, 95% CI [0.29, 0.52], t(201) = 6.45, p < .001). To explore this relationship further, we created two linear regression models: one predicting guesses from ratings, lexical stratum, and the interaction between these two factors, and a second model predicting ratings from guesses, lexical stratum, and the interaction between these two factors. Both models again used z-scores rather than raw ratings and guesses. The models were created using the R package `lmerTest` (version `r packageVersion("lmerTest")`) [@lmertest]. The output of the first model (predicting guesses from ratings) is shown in Table \@ref(tab:guessesmodel).
 
-The output of the first model (predicting guesses from ratings) is shown in Table \@ref(tab:guessesmodel).
-
-<caption> (\#tab:guessesmodel) Linear regression model predicting guesses from ratings, ideophone status, and the interaction between these two factors. </caption>
+<caption> (\#tab:guessesmodel) Linear regression model predicting guesses from ratings, lexical stratum, and the interaction between these two factors. </caption>
 ```{r correlations and first regression}
 ids <- comparison_dat%>%filter(ideophone=='y')
 #report(cor.test(ids$guesses,ids$ratings))
@@ -655,7 +642,10 @@ ids <- comparison_dat%>%filter(ideophone=='y')
 prosaic <- comparison_dat%>%filter(ideophone=='n')
 #report(cor.test(prosaic$guesses,prosaic$ratings))
 
-m1 <- lm(data=comparison_dat,guesses~ratings*ideophone)
+comparison_dat%>%
+  mutate(stratum=ifelse(ideophone=="y","ideophone","prosaic"))->comparison_dat
+
+m1 <- lm(data=comparison_dat,guesses~ratings*stratum)
 #summary(m1)
 
 tab_model(m1,show.ci = FALSE,show.se = TRUE,show.stat = TRUE, dv.labels = c("Guesses"),  CSS = list(
@@ -664,19 +654,19 @@ tab_model(m1,show.ci = FALSE,show.se = TRUE,show.stat = TRUE, dv.labels = c("Gue
 
 ```
 
-The model confirmed that ratings significantly predict guesses, with higher ratings leading to higher guesses. There was also a main effect of ideophone, and an interaction effect between ideophone and rating. The model is easiest to interpret by plotting the interaction, shown in Figure \@ref(fig:interaction). 
+The model confirmed that ratings significantly predict guesses, with higher ratings leading to higher guesses. There was also a main effect of lexical stratum, and an interaction effect between stratum and rating. The model is easiest to interpret by plotting the interaction, shown in Figure \@ref(fig:interaction). 
 
-```{r interaction,fig.cap="Interaction between ratings and ideophone when predicting guesses"}
-ggpredict(m1,c("ratings","ideophone"))%>%plot()
+```{r interaction,fig.cap="Interaction between ratings and lexical stratum when predicting guesses"}
+ggpredict(m1,c("ratings","stratum"))%>%plot()
 ```
 
-The plot shows that higher ratings lead to better guessing accuracy for both ideophones and non-ideophones. The interaction effect appears because in the case of words with *low* iconicity ratings, guessing accuracy for ideophones is relatively poorer than for non-ideophones. At the top of the scale, highly rated ideophones also appear to be guessed slightly better than non-ideophones with comparable ratings. However, the difference here does not appear to be significant as the confidence intervals for the two lines overlap. We will return to this in the discussion.
+The plot shows that higher ratings lead to better guessing accuracy for both ideophones and prosaic words. The interaction effect appears because for words with *low* iconicity ratings, guessing accuracy for ideophones is relatively poorer than for prosaic words. We will return to this in the discussion.
 
 For comparison, we also created a second model predicting ratings from guesses, shown in Table \@ref(tab:ratingsmodel). 
 
-<caption> (\#tab:ratingsmodel) Linear regression model predicting ratings from guesses, ideophone status, and the interaction between these two factors. </caption>
+<caption> (\#tab:ratingsmodel) Linear regression model predicting ratings from guesses, lexical stratum, and the interaction between these two factors. </caption>
 ```{r ratingsmodel,fig.cap="Model predicting guesses from ratings and ideophone status"}
-m3 <- lm(data=comparison_dat,ratings~guesses*ideophone)
+m3 <- lm(data=comparison_dat,ratings~guesses*stratum)
 
 
 tab_model(m3,show.ci = FALSE,show.se = TRUE,show.stat = TRUE, dv.labels = c("Ratings"),  CSS = list(
@@ -684,13 +674,13 @@ tab_model(m3,show.ci = FALSE,show.se = TRUE,show.stat = TRUE, dv.labels = c("Rat
   ))
 ```
 
-The model shows that guesses significantly predict ratings, as does ideophone status, but that there was no interaction between these two predictors. This is shown in Figure \@ref(fig:ratingsinteraction). The lines for ideophones and non-ideophones are parallel, indicating that differences in guesses correspond to differences in ratings *in the same way* for both ideophones and non-ideophones. However, the line for the ideophones is directly *above* the line for the non-ideophones, indicating that ideophones are rated higher in iconicity than non-ideophones--even when guessed at the same accuracies.
+The model shows that guesses significantly predict ratings, as does lexical stratum, but that there was no interaction between these two predictors. This is shown in Figure \@ref(fig:ratingsinteraction). The lines for ideophones and prosaic words are parallel, indicating that differences in guesses correspond to differences in ratings *in the same way* for both ideophones and prosaic words. However, the line for the ideophones is directly *above* the line for prosaic words, indicating that ideophones are rated higher in iconicity than prosaic words--even when guessed at the same accuracies.
 
 ```{r ratingsinteraction,fig.cap="Relationship between ideophone status, guessability, and predicted rating"}
-ggpredict(m3,c("guesses","ideophone"))%>%plot()
+ggpredict(m3,c("guesses","stratum"))%>%plot()
 ```
 
-Finally, the lower correlation between guesses and ratings obtained for non-ideophones compared to ideophones suggests that participants may not have been as consistent or reliable when rating non-ideophones compared to when rating ideophones. To further investigate this, we calculated the person-total correlation for the rating data [@curran_methods_2016; @motamedi_iconicity_2019], for ideophones and non-ideophones separately. Figure \@ref(fig:ratingconsistency) shows the agreement between raters (expressed as the correlation between each individual rating, and the by-item average) for ideophones and non-ideophones respectively. The dots indicate the mean while the lines indicate 95% confidence intervals. Again, since these ratings were from non-Japanese speaking participants, I have also added data from native Japanese speaking participants from Thompson et al. (2020) as a comparison.
+Finally, the lower correlation between guesses and ratings obtained for prosaic words compared to ideophones suggests that participants may not have been as consistent or reliable when rating prosaic words compared to when rating ideophones. To further investigate this, we calculated the person-total correlation for the rating data [@curran_methods_2016; @motamedi_iconicity_2019], for ideophones and prosaic words separately. Figure \@ref(fig:ratingconsistency) shows the agreement between raters (expressed as the correlation between each individual rating, and the by-item average) for ideophones and prosaic words respectively. The dots indicate the mean while the lines indicate 95% confidence intervals. Again, since these ratings were from non-Japanese speakers, we added data from Japanese speakers from Thompson et al. (2020) as a comparison.
 
 ```{r bootstrap function,cache=TRUE,eval=FALSE}
 # my ratings from English people
@@ -767,7 +757,7 @@ for(dataset in datasets) {
   
   # Append the results to the dataframe
   cis[nrow(cis) + 1,] = list(name, 'ideophone', posR, posLower, posUpper)
-  cis[nrow(cis) + 1,] = list(name, 'non-ideophone', negR, negLower, negUpper)
+  cis[nrow(cis) + 1,] = list(name, 'prosaic', negR, negLower, negUpper)
 }
 ```
 
@@ -780,26 +770,27 @@ cis %>%
              color=sign)) +
   geom_point(position=position_dodge(0.1)) +
   geom_errorbar(position=position_dodge(0.1),
-                width=0.1) + 
-  coord_flip() +ylim(0,0.6)+theme_classic()+labs(y="Correlation (r)",x="")->plot
+                width=0.1) +ylim(0,0.6)+theme_classic()+labs(y="Correlation (r)",x="",color="word type")->plot
 plot
 ```
 
-```{r ratingconsistency,fig.cap="Consistency between participants for iconicity ratings of ideophones versus non-ideophones",out.width="70%",echo=FALSE}
-knitr::include_graphics("images/bootstrapping.png")
+```{r ratingconsistency,fig.cap="Consistency between participants for iconicity ratings of ideophones versus prosaic words",out.width="70%",echo=FALSE}
+knitr::include_graphics("images/bootstrap.png")
 ```
 
-In both studies, participants appear to be more consistent with eachother when rating ideophones than when rating non-ideophones, though for Thompson et al. the overlap of the confidence intervals indicates that the difference was not significant. There does not appear to be any difference in the consistency of ratings *between* the English and the Japanese speakers, as both the ideophone lines and the non-ideophone lines overlap between the two groups. 
+In both studies, participants appear to be more consistent with each other when rating ideophones than when rating prosaic words, though for Thompson et al. the overlap of the confidence intervals indicates that the difference was not significant. There does not appear to be any difference in the consistency of ratings *between* the English and the Japanese speakers, as both the ideophone lines and the non-ideophone lines overlap between the two groups. 
 
 # Discussion
 
 ## Relationship between ratings, guesses, ideophones, and iconicity {#maindiscussion}
 
-For both ideophones and non-ideophones, we found that the guesses and ratings from non-speakers were strongly correlated in the *same way*. This suggests that the two measures are indeed tapping into *something* in common, which we suggest are form-meaning associations. It's notable that these associations are found in both ideophones *and* non-ideophones (even if they are more common in the former), and that there are also ideophones that participants had no strong associations with--highlighting that there is no straightforward relationship between ideophones and iconicity; variable levels of iconicity can be found in both ideophones and prosaic words [see also @dingemanse_what_2016; @brown_phonetic_1955; @kunihira_effects_1971]. 
+For both ideophones and prosaic words, we found that the guesses and ratings from non-speakers were strongly correlated in the *same way*. This suggests that the two measures are indeed tapping into *something* in common, which we suggest are form-meaning associations. It's notable that these associations are found acr
 
-However, ideophones were consistently rated *higher* in iconicity than non-ideophones—even when guessed at the same accuracies. We believe this is due to the majority of ideophones in the dataset being reduplicated. The two lowest rated ideophones–*sappari* and *syippori*–were among the few in the data that do not use a reduplicated template. Previous work has found a relationship between iconiticity ratings and structural markedness (Dingemanse and Thompson 2020). Ordinarily when we use words, the form of the words is not important--only their content. However, when iconicity is involved (and also funniness, as this paper found) the form of the words *is* important, and structural markedness may serve as a metacommunicative cue to signal this. The authors hypothesise that “Structural markedness confers a selective advantage on words intended to be iconic… as their recognisability would make them more fit to survive processes of cultural transmission in which the recognition of such intentions is functionally important” (Dingemanse and Thompson 2020: 218). The results from the rating task in this study suggest that structural markedness (in this case, reduplication) does indeed lead to the perception of iconicity. Interestingly, however, it does not seem to confer any advantage--over and above that provided by associations between form and meaning--in the guessing task. What the ratings seem to be picking up on is both form-meaning associations *and* structural markedness. If they were only picking up on structural markedness, then we would not expect the ratings to vary with the guesses in the same way for both ideophones and non-ideophones. However, if they were only picking up on form-meaning associations (like the guesses seem to), then we would not expect ideophones to consistently receive higher iconicity ratings, even when guessed at the same accuracies.
+in both ideophones *and* prosaic words (even if they are more common in the former), and that there are also ideophones that participants had no strong associations with--highlighting that there is no straightforward relationship between ideophones and iconicity; variable levels of iconicity can be found in both ideophones and prosaic words [see also @dingemanse_what_2016; @brown_phonetic_1955; @kunihira_effects_1971]. 
 
-While ideophones and non-ideophones with high iconicity ratings were generally guessed equally well, there was an interaction effect such that ideophones with low iconicity ratings were guessed *worse* than non-ideophones with comparable ratings. Low iconicity ratings in non-ideophones generally correspond to chance guessing accuracy--reflecting a lack of associations--whereas equivalent ratings in ideophones correspond to *below chance* guessing accuracy--reflecting *negative associations* masked in the rating results by the tendency to inflate ratings for ideophones. The result highlights the subjective nature of form-meaning associations, and that by taking above-chance guessing accuracy as a measure of iconicity we are only picking up on those associations that happen to correspond--and crucially not to conflict--between (in this case) English and Japanese speakers. This is something researchers should be aware of, because it means that decisions about *whom* to collect iconicity measurements from are very important.
+However, ideophones were consistently rated *higher* in iconicity than non-ideophones—even when guessed at the same accuracies. We believe this is due to the majority of ideophones in the dataset being reduplicated. The two lowest rated ideophones–*sappari* and *syippori*–were among the few in the data that do not use a reduplicated template. Previous work has found a relationship between iconiticity ratings and structural markedness (Dingemanse and Thompson 2020). Ordinarily when we use words, the form of the words is not important--only their content. However, when iconicity is involved (and also funniness, as this paper found) the form of the words *is* important, and structural markedness may serve as a metacommunicative cue to signal this. The results from the rating task in this study suggest that structural markedness (in this case, reduplication) does indeed lead to the perception of iconicity. Interestingly, however, it does not seem to confer any advantage--over and above that provided by associations between form and meaning--in the guessing task. What the ratings seem to be picking up on is both form-meaning associations *and* structural markedness. If they were only picking up on structural markedness, then we would not expect the ratings to vary with the guesses in the same way for both ideophones and non-ideophones. However, if they were only picking up on form-meaning associations (like the guesses seem to), then we would not expect ideophones to consistently receive higher iconicity ratings, even when guessed at the same accuracies.
+
+While ideophones and non-ideophones with high iconicity ratings were generally guessed equally well, there was an interaction effect such that ideophones with low iconicity ratings were guessed *worse* than non-ideophones with comparable ratings. Low iconicity ratings in non-ideophones generally correspond to chance guessing accuracy--reflecting a lack of associations--whereas equivalent ratings in ideophones correspond to *below chance* guessing accuracy--reflecting *negative associations* masked in the rating results by the tendency to inflate ratings for ideophones. The result highlights the subjective nature of form-meaning associations [@occhino_iconicity_2017], and suggest that by taking above-chance guessing accuracy as a measure of iconicity we are only picking up on those associations that happen to correspond--and crucially not to conflict--between (in this case) English and Japanese speakers. This is something researchers should be aware of, because it means that decisions about *whom* to collect iconicity measurements from are very important.
 
 Poor guessing accuracies could be explained by conflicting associations. For example, one person commented that *zarazara* as a word for ‘ROUGH’ sounds wrong to them because they associate the word *zara* with the clothing store ZARA, and clothes are soft. These could be masking either a lack of resemblance between form and meaning, or a resemblance between form and meaning that is ignored in the face of the conflicting association. Of course, conversely one could argue that high guessing accuracies could then *also* be explained by non-resemblance based associations. Fortunately, the chances of English speakers having the *same* form-meaning association as Japanese speakers based on something random (like the name of a clothing store) should be much smaller than the chances of them having a *different* association. Thus, if they do exist, we predict that the majority of non-resemblance based associations should be reflected in poorer rather than higher guessing accuracies. It is interesting that conflicting associations appear to have a stronger effect in ideophones (some of which were guessed at accuracies significantly below chance) than in non-ideophones (which were guessed below chance only rarely). Perhaps because participants are more likely to view form-meaning relationships in ideophones as meaningful (due to their structural markedness), they are more likely to attach conflicting associations to ideophones, leading to a stronger sense that the ideophone should correspond to the *opposite* of the given meaning.
 
@@ -811,9 +802,9 @@ To sum up, by directly comparing iconicity ratings and guessing accuracies for b
 
 Given the limitations of each measure discussed above, for a full picture of iconicity in the lexicon, a synthesis of measures is recommended. Iconicity ratings from native speakers can tell us which mappings are meaningful to them, while comparisons with guessability for non-speakers can establish which of these mappings are likely to be meaningful on their own, versus which *become* meaningful through experience with the rest of the lexicon (language-external versus language-internal iconicity). @occhino_role_2020 found differential effects of these two types of mappings in sign processing by signers of different proficiencies. They found that both types of iconicity were helpful to signers of a lower proficiency, but that for highly proficient signers only the most pervasive, language-external mappings made a difference to processing. 
 
-Since structural markedness appears to boost ratings but not guessability, the two measures could also be used together to tease apart the influence of structural markedness versus form-meaning resemblances in driving iconic effects. Iconic effects are generally assumed to be driven by form-meaning resemblances, but since these often go together with structural markedness it would be useful to know the relative contribution of each factor in different situations and tasks. Since structural markedness is also subjective, the choice of participants used in the rating task will be important. Finally, having guesses alongside ratings would allow researchers to make better decisions about the cut-off point between "high" and "low" iconicity ratings, as these could be motivated by correlations with guessing accuracy, rather than e.g. arbitrarily dividing the scale at the half-way point, or using percentiles tied to particular datasets.
+Since structural markedness appears to boost ratings but not guessability, the two measures could also be used together to tease apart the influence of structural markedness versus form-meaning resemblances in driving iconic effects. Iconic effects are generally assumed to be driven by form-meaning resemblances, but since these often go together with structural markedness it would be useful to know the relative contribution of each factor in different situations and tasks. Since structural markedness is also subjective and language-relative, the choice of participants used in the rating task will be important. Finally, having guesses alongside ratings would allow researchers to make better decisions about the cut-off point between "high" and "low" iconicity ratings, as these could be motivated by correlations with guessing accuracy, rather than e.g. arbitrarily dividing the scale at the half-way point, or using percentiles tied to particular datasets.
 
-Guesses and ratings could also be used to inform results from descriptive or data-driven measures, and vice-versa. For example, the psychological reality and relative *strength* of form-meaning mappings described in lexicons could be tested using guessing or rating tasks with nonwords [e.g. @kwon_empirically_2017]. Similarly, descriptive (semiotic) analysis, along with cross-linguistic comparisons where possible could be used to understand and explain why some mappings are stronger or more universal than others. Conversely, behavioural measures could be used to tease apart some of the possible explanations for cross-linguistic biases. The two main contenders for explaining these biases are form-meaning associations or communicative pressures [@blasi_soundmeaning_2016]. Since communicative pressures are unlikely to play a role in tasks where participants are simply judging or choosing words, behavioural measures could be used to distinguish these two hypotheses, thus allowing us to better understand the mechanisms behind results in these cross-linguistic studies. 
+Guesses and ratings could also be used to inform results from descriptive or data-driven measures, and vice-versa. For example, the psychological reality and relative *strength* of form-meaning mappings described in lexicons could be tested using guessing or rating tasks with nonwords [e.g. @kwon_empirically_2017]. Similarly, descriptive (semiotic) analysis, along with cross-linguistic comparisons where possible could be used to understand and explain why some mappings are stronger or more universal than others. 
 
 ## Methodological improvements and evaluation
 
@@ -825,13 +816,9 @@ When comparing results from the two designs, choosing between words is again the
 
 We also compared our iconicity ratings from non-speakers with iconicity ratings from native speakers in Thompson et al. [-@thompson_iconicity_2020]. We found that, although using non-speakers resulted in a lesser spread of measures (suggesting that native speakers are more confident in giving high and low ratings than non-native speakers), when evaluating the agreement between raters, ratings from non-speakers were just as reliable as ratings from native speakers--as well as being fairly robust to different choices of translation. Ratings from non-speakers were more reliable for ideophones than for non-ideophones--but this is not to say that the ratings for non-ideophones were unreliable. Rather, the ratings for ideophones were *particularly* reliable, probably because raters were more likely to have stronger intuitions about these words due to their structural markedness, and because they are more likely to be iconic in the first place. The same pattern was seen in the ratings from native speakers, although it did not reach statistical significance. Since both types of ratings are fairly reliable, our recommendation would be to choose participants for rating tasks according to how the ratings are going to be used. For example, to predict language processing in adult native speakers of a language, it would make sense to collect ratings from other adult native speakers of the same language. 
 
-## Towards a reproducible workflow 
-
-Finally, with `icotools` we introduce a reproducible workflow for conducting rating and guessing experiments. This will make it easier for researchers to run these tasks, while enhancing comparability between future studies. Researchers can use the same paradigms to confirm current results, ask new questions, and run new analyses that build on existing findings. For example, this study has examined iconicity in the sensory vocabulary of Japanese, and found that the majority of words tested were actually guessed slightly above chance. With `icotools`, future researchers could run the exact same guessing experiment with different languages and in different semantic domains, to establish whether this is also true in other languages, and in other areas of the lexicon.
-
 # Conclusions
 
-This study has asked how we can make existing measures of iconicity even better, by critically evaluating and comparing two of the most promising behavioural measures of iconicity--iconicity ratings and guessing tasks. In comparing the two measures, we were able to get a better sense of the relative strengths and weaknesses of each. Our main finding is that the two measures are more informative when used together than when used in isolation. In isolation, it is difficult to determine the degree to which high iconicity ratings are driven by form-meaning associations versus structural markedness, and to have an objective sense of which ratings are "low" or "high". In isolation, guesses provide only a narrow window into iconicity of a particular kind--strong, language-external associations. However, in *combination* ratings and guesses together can provide a picture of iconicity at different levels (both language internal and external), and in different degrees (low and high), while also uncovering how perceptions of iconicity are driven by both form-meaning associations and structural markedness. We have also made some methodological improvements to the guessing paradigm, improving on the robustness, sensitivity and discriminability of previous approaches. Finally, we introduce a reproducible workflow for creating rating and guessing tasks in the form of the Python package `icotools` (https://pypi.org/project/icotools/), so that future studies will be able to use these measures to build on current findings as well as asking new questions about what iconicity does in language, and how it does it. 
+This study has asked how we can make existing measures of iconicity even better, by critically evaluating and comparing two of the most promising behavioural measures of iconicity--iconicity ratings and guessing tasks. In comparing the two measures, we were able to get a better sense of the relative strengths and weaknesses of each. Our main finding is that the two measures are more informative when used together than when used in isolation. In isolation, it is difficult to determine the degree to which high iconicity ratings are driven by form-meaning associations versus structural markedness, and to have an objective sense of which ratings are "low" or "high". In isolation, guesses provide only a narrow window into iconicity of a particular kind--strong, language-external associations. However, in *combination* ratings and guesses together can provide a picture of iconicity at different levels (both language internal and external), and in different degrees (low and high), while also uncovering how perceptions of iconicity are driven by both form-meaning associations and structural markedness. As the empirical study of ideophones and iconicity is coming of age, it is critical to couple descriptive and theoretical work with quantification and reproducible methods. We hope the methods and findings presented here provide a foundation for future work to build on, as well as a pointer towards asking new questions about what iconicity does in language, and how it does it.
 
 # Data Availability Statement
 
