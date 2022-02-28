@@ -596,6 +596,8 @@ comparison%>%
   unique()%>%
   select(identifier,ideophone,method,z_score,score)->comparison_dat
 
+#write_csv(comparison_dat,"GuessingRatingScores.csv")
+
 comparison_dat%>%
   filter(method=="ratings")%>%
   mutate(mean_rating=6*score)%>%
